@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: '0 */2 * * *'
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: 'Scrobble full history (backfill) instead of only new tracks'
+        required: false
+        default: 'false'
+        type: boolean
 
 permissions:
   contents: write
@@ -39,6 +45,7 @@ jobs:
           LASTFM_SECRET: ${{ secrets.LASTFM_SECRET }}
           LASTFM_USERNAME: ${{ secrets.LASTFM_USERNAME }}
           LASTFM_PASSWORD: ${{ secrets.LASTFM_PASSWORD }}
+          BACKFILL: ${{ github.event.inputs.backfill }}
 
       - name: Commit updated snapshot and log
         run: |

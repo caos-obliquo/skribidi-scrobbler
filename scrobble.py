@@ -13,7 +13,7 @@ OAUTH_PATH = "browser.json"
 SNAPSHOT_PATH = "last_snapshot.json"
 
 
-def fetch_history(auth_path: str) -> list[dict]:
+def fetch_history(auth_path: str, max_tracks: int = 200, max_pages: int = 10) -> list[dict]:
     with open(auth_path) as f:
         auth = json.load(f)
     cookie = auth["cookie"]
@@ -24,10 +24,6 @@ def fetch_history(auth_path: str) -> list[dict]:
     h = hashlib.sha1(f"{ts} {sapsid} https://music.youtube.com".encode()).hexdigest()
     authorization = f"SAPISIDHASH {ts}_{h}"
     ua = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
-    body = {
-        "context": {"client": {"clientName": "WEB_REMIX", "clientVersion": "1.20260818.08.00"}},
-        "browseId": "FEmusic_history",
-    }
     headers = {
         "Authorization": authorization,
         "x-goog-authuser": authuser,
@@ -37,45 +33,78 @@ def fetch_history(auth_path: str) -> list[dict]:
         "cookie": cookie,
         "user-agent": ua,
     }
-    r = requests.post(
-        "https://music.youtube.com/youtubei/v1/browse?key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30",
-        headers=headers,
-        json=body,
-        timeout=30,
-    )
-    r.raise_for_status()
-    return parse_history(r.json())[:50]
+    url = "https://music.youtube.com/youtubei/v1/browse?key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30"
+    context = {"client": {"clientName": "WEB_REMIX", "clientVersion": "1.20260818.08.00"}}
+
+    tracks: list[dict] = []
+    body = {"context": context, "browseId": "FEmusic_history"}
+    pages = 0
+    while len(tracks) < max_tracks and pages <= max_pages:
+        r = requests.post(url, headers=headers, json=body, timeout=30)
+        r.raise_for_status()
+        resp = r.json()
+        tracks.extend(parse_history(resp))
+        cont = extract_continuation(resp)
+        if not cont:
+            break
+        body = {"context": context, "continuation": cont}
+        pages += 1
+
+    # De-dup by videoId, keep first (newest) occurrence.
+    seen = set()
+    deduped = []
+    for t in tracks:
+        if t["videoId"] not in seen:
+            seen.add(t["videoId"])
+            deduped.append(t)
+    return deduped[:max_tracks]
 
 
 def parse_history(resp: dict) -> list[dict]:
-    def find_all_shelves(o, out):
-        if isinstance(o, dict):
-            if "musicShelfRenderer" in o:
-                out.append(o["musicShelfRenderer"])
-            for v in o.values():
-                find_all_shelves(v, out)
-        elif isinstance(o, list):
-            for x in o:
-                find_all_shelves(x, out)
-
     def get_runs(col):
         cr = col.get("musicResponsiveListItemFlexColumnRenderer", {}).get("text", {}).get("runs", [])
         return " ".join(x.get("text", "") for x in cr).strip()
 
-    shelves = []
-    find_all_shelves(resp.get("contents", {}), shelves)
     tracks = []
-    for shelf in shelves:
-        for it in shelf.get("contents", []):
-            r0 = it.get("musicResponsiveListItemRenderer", {})
-            vid = r0.get("playlistItemData", {}).get("videoId")
-            if not vid:
-                continue
-            fc = r0.get("flexColumns", [])
-            title = get_runs(fc[0]) if len(fc) > 0 else "Unknown Title"
-            artist = get_runs(fc[1]) if len(fc) > 1 else "Unknown Artist"
-            tracks.append({"videoId": vid, "title": title, "artist": artist})
+    for r0 in extract_items(resp):
+        vid = r0.get("playlistItemData", {}).get("videoId")
+        if not vid:
+            continue
+        fc = r0.get("flexColumns", [])
+        title = get_runs(fc[0]) if len(fc) > 0 else "Unknown Title"
+        artist = get_runs(fc[1]) if len(fc) > 1 else "Unknown Artist"
+        tracks.append({"videoId": vid, "title": title, "artist": artist})
     return tracks
+
+
+def extract_items(resp: dict) -> list[dict]:
+    items = []
+    def walk(o):
+        if isinstance(o, dict):
+            if "musicResponsiveListItemRenderer" in o:
+                items.append(o["musicResponsiveListItemRenderer"])
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for x in o:
+                walk(x)
+    walk(resp)
+    return items
+
+
+def extract_continuation(resp: dict) -> str | None:
+    found = []
+    def walk(o):
+        if isinstance(o, dict):
+            if "nextContinuationData" in o:
+                found.append(o["nextContinuationData"].get("continuation"))
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for x in o:
+                walk(x)
+    walk(resp)
+    return next((c for c in found if c), None)
 
 
 def load_snapshot(path: str) -> list[dict]:
@@ -178,7 +207,13 @@ def main():
     try:
         current = fetch_history(OAUTH_PATH)
         snapshot = load_snapshot(SNAPSHOT_PATH)
-        new_tracks = diff_tracks(current, snapshot)
+        backfill = os.environ.get("BACKFILL", "").lower() == "true"
+
+        if backfill:
+            new_tracks = current
+            print(f"BACKFILL mode: scrobbling {len(new_tracks)} tracks from history.")
+        else:
+            new_tracks = diff_tracks(current, snapshot)
 
         if new_tracks:
             new_tracks = assign_timestamps(new_tracks)
