@@ -1,10 +1,12 @@
 import json
 import os
+import re
 import sys
 import time
+import hashlib
 
 import pylast
-from ytmusicapi import YTMusic
+import requests
 
 
 OAUTH_PATH = "browser.json"
@@ -12,16 +14,67 @@ SNAPSHOT_PATH = "last_snapshot.json"
 
 
 def fetch_history(auth_path: str) -> list[dict]:
-    yt = YTMusic(auth_path)
-    history = yt.get_history()
+    with open(auth_path) as f:
+        auth = json.load(f)
+    cookie = auth["cookie"]
+    authuser = auth.get("x-goog-authuser", "0")
+    # Compute a fresh SAPISIDHASH at request time so it never ages out.
+    sapsid = re.search(r"(?:^|;\s)SAPISID=([^;]+)", cookie).group(1)
+    ts = int(time.time())
+    h = hashlib.sha1(f"{ts} {sapsid} https://music.youtube.com".encode()).hexdigest()
+    authorization = f"SAPISIDHASH {ts}_{h}"
+    ua = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+    body = {
+        "context": {"client": {"clientName": "WEB_REMIX", "clientVersion": "1.20260818.08.00"}},
+        "browseId": "FEmusic_history",
+    }
+    headers = {
+        "Authorization": authorization,
+        "x-goog-authuser": authuser,
+        "x-origin": "https://music.youtube.com",
+        "origin": "https://music.youtube.com",
+        "content-type": "application/json",
+        "cookie": cookie,
+        "user-agent": ua,
+    }
+    r = requests.post(
+        "https://music.youtube.com/youtubei/v1/browse?key=AIzaSyC9XL3ZjWddXya6X74dJoCTL-WEYFDNX30",
+        headers=headers,
+        json=body,
+        timeout=30,
+    )
+    r.raise_for_status()
+    return parse_history(r.json())[:50]
+
+
+def parse_history(resp: dict) -> list[dict]:
+    def find_all_shelves(o, out):
+        if isinstance(o, dict):
+            if "musicShelfRenderer" in o:
+                out.append(o["musicShelfRenderer"])
+            for v in o.values():
+                find_all_shelves(v, out)
+        elif isinstance(o, list):
+            for x in o:
+                find_all_shelves(x, out)
+
+    def get_runs(col):
+        cr = col.get("musicResponsiveListItemFlexColumnRenderer", {}).get("text", {}).get("runs", [])
+        return " ".join(x.get("text", "") for x in cr).strip()
+
+    shelves = []
+    find_all_shelves(resp.get("contents", {}), shelves)
     tracks = []
-    for item in history[:50]:
-        artists = item.get("artists") or []
-        tracks.append({
-            "videoId": item.get("videoId", ""),
-            "title": item.get("title", "Unknown Title"),
-            "artist": artists[0]["name"] if artists else "Unknown Artist",
-        })
+    for shelf in shelves:
+        for it in shelf.get("contents", []):
+            r0 = it.get("musicResponsiveListItemRenderer", {})
+            vid = r0.get("playlistItemData", {}).get("videoId")
+            if not vid:
+                continue
+            fc = r0.get("flexColumns", [])
+            title = get_runs(fc[0]) if len(fc) > 0 else "Unknown Title"
+            artist = get_runs(fc[1]) if len(fc) > 1 else "Unknown Artist"
+            tracks.append({"videoId": vid, "title": title, "artist": artist})
     return tracks
 
 
