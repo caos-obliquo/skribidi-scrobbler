@@ -1,5 +1,17 @@
 [
   {
+    "videoId": "MgY2o2znCUU",
+    "title": "beneath the surface",
+    "artist": "Dead Butterflies",
+    "timestamp": 1787610073
+  },
+  {
+    "videoId": "KqR1vqDEUIA",
+    "title": "Why Won't You Love?",
+    "artist": "Dead Butterflies",
+    "timestamp": 1787609893
+  },
+  {
     "videoId": "uQNRwEsEkSI",
     "title": "what am i supposed to be?",
     "artist": "ourbluewounds"
@@ -93,11 +105,6 @@
     "videoId": "SvLI6BykNno",
     "title": "Skate 3 is my Coping Mechanism (Aorta)",
     "artist": "Dead Butterflies  &  Aorta"
-  },
-  {
-    "videoId": "KqR1vqDEUIA",
-    "title": "Why Won't You Love?",
-    "artist": "Dead Butterflies"
   },
   {
     "videoId": "fkVMiz-br5g",
@@ -993,10 +1000,5 @@
     "videoId": "NZJZQssdM5g",
     "title": "Deformative",
     "artist": "Black Eyes"
-  },
-  {
-    "videoId": "XcpFhfN4-jM",
-    "title": "Deadbeat Summer",
-    "artist": "Neon Indian"
   }
 ]
