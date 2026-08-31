@@ -1,9 +1,68 @@
 [
   {
+    "videoId": "QYaRWwb1Su4",
+    "title": "Viola Lion",
+    "artist": "Isles & Glaciers",
+    "timestamp": 1788147979
+  },
+  {
+    "videoId": "SrSi_sipcVw",
+    "title": "Prolonging the Inevitable Forever",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788147799
+  },
+  {
+    "videoId": "R9Pqs_MIjUY",
+    "title": "The Romance of Affliction (feat. If I Die First)",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788147619
+  },
+  {
+    "videoId": "y_TomcL02hs",
+    "title": "Melodrama Between Two Entirely Bored Individuals",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788147439
+  },
+  {
+    "videoId": "dfMD_9dnOXs",
+    "title": "Sharpen What You Can (feat. Shaolin G)",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788147259
+  },
+  {
+    "videoId": "UVDzXsnytbQ",
+    "title": "Misinterpreting Constellations",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788147079
+  },
+  {
+    "videoId": "U-nV5R_Mm6g",
+    "title": "Hey Ken, Someone Methodically Mushed the Donuts",
+    "artist": "Free Throw",
+    "timestamp": 1788146899
+  },
+  {
+    "videoId": "lVTr0X7O8-k",
+    "title": "bloodstainedeyes",
+    "artist": "SeeYouSpaceCowboy  &  If I Die First",
+    "timestamp": 1788146719
+  },
+  {
+    "videoId": "lbb9DM9YShM",
+    "title": "Silhouettes In Motion",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788146539
+  },
+  {
+    "videoId": "C-4wqmnLams",
+    "title": "Lubricant Like Kerosene (feat. Kim Dracula)",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1788146359
+  },
+  {
     "videoId": "5VeolZ_PZqA",
-    "title": "thorns",
-    "artist": "Dead Butterflies",
-    "timestamp": 1788128496
+    "title": "thorns (single version)",
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "dWoQyC8_WtM",
@@ -34,11 +93,6 @@
     "videoId": "R6njY9N3gvU",
     "title": "Mirror, Mirror This Is Nothing Like You Promised",
     "artist": "If I Die First"
-  },
-  {
-    "videoId": "lVTr0X7O8-k",
-    "title": "bloodstainedeyes",
-    "artist": "SeeYouSpaceCowboy  &  If I Die First"
   },
   {
     "videoId": "8diKz51xsNY",
@@ -98,11 +152,6 @@
   {
     "videoId": "zHunMLNavOQ",
     "title": "Pallet Town",
-    "artist": "Free Throw"
-  },
-  {
-    "videoId": "U-nV5R_Mm6g",
-    "title": "Hey Ken, Someone Methodically Mushed the Donuts",
     "artist": "Free Throw"
   },
   {
@@ -958,46 +1007,6 @@
   {
     "videoId": "iuHnnhBczGY",
     "title": "Run Like a Girl",
-    "artist": "Febuary"
-  },
-  {
-    "videoId": "lkOuAzaiPQU",
-    "title": "My God It Was Wonderful",
-    "artist": "Love Letter"
-  },
-  {
-    "videoId": "X47h8zYGcN8",
-    "title": "Wednesday",
-    "artist": "Knumears"
-  },
-  {
-    "videoId": "12qheaJAWvc",
-    "title": "What a Douche!!!",
-    "artist": "Febuary"
-  },
-  {
-    "videoId": "TTkEpFtbhmw",
-    "title": "Waves",
-    "artist": "vs self"
-  },
-  {
-    "videoId": "umW0IP7V53s",
-    "title": "I Hope Everyone Remembers What You Were",
-    "artist": "Febuary"
-  },
-  {
-    "videoId": "uh3bExPuXxQ",
-    "title": "Just Wait Till I Blow Up...",
-    "artist": "Febuary"
-  },
-  {
-    "videoId": "30LKYHdP1vA",
-    "title": "Interlude",
-    "artist": "Febuary"
-  },
-  {
-    "videoId": "xZ1j5aFwmAI",
-    "title": "Kill Yourself If You Have Tinder",
     "artist": "Febuary"
   }
 ]
