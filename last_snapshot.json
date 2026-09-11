@@ -1,393 +1,712 @@
 [
   {
+    "videoId": "T1Lk-93-re0",
+    "title": "Lights Out",
+    "artist": "Orchid",
+    "timestamp": 1789135256
+  },
+  {
+    "videoId": "DmXI-Z-lH_k",
+    "title": "Face Ghost",
+    "artist": "Title Fight",
+    "timestamp": 1789135076
+  },
+  {
+    "videoId": "eoXpGtRBDI0",
+    "title": "Interview at the Ruins",
+    "artist": "Circle Takes the Square",
+    "timestamp": 1789134896
+  },
+  {
+    "videoId": "a3q-T9zloMc",
+    "title": "Nest",
+    "artist": "Fear of Horses",
+    "timestamp": 1789134716
+  },
+  {
+    "videoId": "1HaryhOQN20",
+    "title": "Silver",
+    "artist": "Mineral",
+    "timestamp": 1789134536
+  },
+  {
+    "videoId": "XulzClsOWBk",
+    "title": "Her Delicate Yearning",
+    "artist": "A Long Winter",
+    "timestamp": 1789134356
+  },
+  {
+    "videoId": "WB2DlflnCCo",
+    "title": "So Far",
+    "artist": "departmefrombearisland",
+    "timestamp": 1789134176
+  },
+  {
+    "videoId": "XCdfL2we-to",
+    "title": "real spill",
+    "artist": "certain seasons",
+    "timestamp": 1789133996
+  },
+  {
+    "videoId": "w9haZS5UuTg",
+    "title": "Call Chance",
+    "artist": "Twelve Hour Turn",
+    "timestamp": 1789133816
+  },
+  {
+    "videoId": "hrFa_AlXzI4",
+    "title": "Song Two",
+    "artist": "I Hate Myself",
+    "timestamp": 1789133636
+  },
+  {
+    "videoId": "OIrtiWEM0nU",
+    "title": "Swallow",
+    "artist": "Failure",
+    "timestamp": 1789133456
+  },
+  {
+    "videoId": "jqBiyErY1fg",
+    "title": "peach rings are so yummy :p my inability to trust others has forced me into intense isolation rivaling solitary confinement",
+    "artist": "beforeyouleave",
+    "timestamp": 1789133276
+  },
+  {
+    "videoId": "tw7xGm98wzw",
+    "title": "Destroyed",
+    "artist": "Catalyst...",
+    "timestamp": 1789133096
+  },
+  {
+    "videoId": "LVrmCCjs8hA",
+    "title": "This Car Has No Seatbelts Let's Fly",
+    "artist": "Knumears",
+    "timestamp": 1789132916
+  },
+  {
+    "videoId": "0IAbYQjpHlc",
+    "title": "The Far Pavilions",
+    "artist": "Hopesfall",
+    "timestamp": 1789132736
+  },
+  {
+    "videoId": "zhpBpqEzrX4",
+    "title": "Oct. 26",
+    "artist": "widowdusk",
+    "timestamp": 1789132556
+  },
+  {
+    "videoId": "zkInhI7dOCA",
+    "title": "Unopened Can",
+    "artist": "Catalyst...",
+    "timestamp": 1789132376
+  },
+  {
+    "videoId": "E5CDs-L45OM",
+    "title": "How I Got My Shrunken Head",
+    "artist": "Free Throw",
+    "timestamp": 1789132196
+  },
+  {
+    "videoId": "D5NMhRCRHjI",
+    "title": "sic infit",
+    "artist": "yourfragilehands",
+    "timestamp": 1789132016
+  },
+  {
+    "videoId": "zeP-iGRIBIY",
+    "title": "Despair",
+    "artist": "vs self",
+    "timestamp": 1789131836
+  },
+  {
+    "videoId": "c8mMk9LO5w0",
+    "title": "Skinhead Scum",
+    "artist": "Catalyst...",
+    "timestamp": 1789131656
+  },
+  {
+    "videoId": "H1E0rAuKQuo",
+    "title": "Summer",
+    "artist": "Oakwood",
+    "timestamp": 1789131476
+  },
+  {
+    "videoId": "0dwWGV0CcyY",
+    "title": "Sacrifice",
+    "artist": "aplacewe'vealwaysbeen",
+    "timestamp": 1789131296
+  },
+  {
+    "videoId": "MlzIiM8KeUc",
+    "title": "Departures",
+    "artist": "vs self",
+    "timestamp": 1789131116
+  },
+  {
+    "videoId": "H4YtMZjpaKo",
+    "title": "Interlude",
+    "artist": "Catalyst...",
+    "timestamp": 1789130936
+  },
+  {
+    "videoId": "7VzauBNkEy0",
+    "title": "My Castle, Your Castle",
+    "artist": "Midwest Pen Pals",
+    "timestamp": 1789130756
+  },
+  {
+    "videoId": "S4omOq3Bs2g",
+    "title": "Silhouette",
+    "artist": "Abbeys Garden",
+    "timestamp": 1789130576
+  },
+  {
+    "videoId": "a87Ce3ooYOo",
+    "title": "Promise",
+    "artist": "vs self",
+    "timestamp": 1789130396
+  },
+  {
+    "videoId": "dQwhNK_E-cs",
+    "title": "is this all that we'll be?",
+    "artist": "Catalyst...",
+    "timestamp": 1789130216
+  },
+  {
+    "videoId": "3AqE0UWs0kk",
+    "title": "This Floating World",
+    "artist": "I Hate Sex",
+    "timestamp": 1789130036
+  },
+  {
+    "videoId": "UhX8z5Raouw",
+    "title": "Exhaustion That Led To Collapse",
+    "artist": "Burial Etiquette",
+    "timestamp": 1789129856
+  },
+  {
+    "videoId": "aAX5oxK2kaw",
+    "title": "Ljp.htpapstlbm",
+    "artist": "vs self",
+    "timestamp": 1789129676
+  },
+  {
+    "videoId": "02Rbd_s6ET0",
+    "title": "Autopilot",
+    "artist": "Catalyst...",
+    "timestamp": 1789129496
+  },
+  {
+    "videoId": "SSiO6Uq6_lc",
+    "title": "And Yet It Moves",
+    "artist": "I Hate Sex",
+    "timestamp": 1789129316
+  },
+  {
+    "videoId": "s7L2fa7XOBU",
+    "title": "Tonight, We Die In Battle...",
+    "artist": "Told Not To Worry",
+    "timestamp": 1789129136
+  },
+  {
+    "videoId": "5u6EjoWHOz8",
+    "title": "Maudlin",
+    "artist": "vs self",
+    "timestamp": 1789128956
+  },
+  {
+    "videoId": "dBs5I4WvkKI",
+    "title": "Playing God",
+    "artist": "Catalyst...",
+    "timestamp": 1789128776
+  },
+  {
+    "videoId": "q2U_FlgKu9c",
+    "title": "i opened two gifts this morning, they were my eyes, thank you lord",
+    "artist": "beforeyouleave",
+    "timestamp": 1789128596
+  },
+  {
+    "videoId": "e1YsahS7p7w",
+    "title": "shear me",
+    "artist": "novely",
+    "timestamp": 1789128416
+  },
+  {
+    "videoId": "dJ1Wws-h1dE",
+    "title": "Yesterday By Beatles Or: Imagine By Yoko Ono As Sung By John Lennon",
+    "artist": "vs self",
+    "timestamp": 1789128236
+  },
+  {
+    "videoId": "d0BwECP-MSw",
+    "title": "12.28",
+    "artist": "Catalyst...",
+    "timestamp": 1789128056
+  },
+  {
+    "videoId": "H5PprEXxiNU",
+    "title": "Pines on the Hill (with Guests)",
+    "artist": "Jeromes Dream",
+    "timestamp": 1789127876
+  },
+  {
+    "videoId": "0ViOvHAeZBs",
+    "title": "holding on",
+    "artist": "widowdusk",
+    "timestamp": 1789127696
+  },
+  {
+    "videoId": "p7xAm5AauI8",
+    "title": "Goodbye Goodbye",
+    "artist": "Love Letter",
+    "timestamp": 1789127516
+  },
+  {
+    "videoId": "6CDJr8Jp8YQ",
+    "title": "Continue The Past Lets Forget The Future",
+    "artist": "departmefrombearisland",
+    "timestamp": 1789127336
+  },
+  {
+    "videoId": "cSpJz-GF7LU",
+    "title": "Art Of Conversation",
+    "artist": "the real Kite Flying Society",
+    "timestamp": 1789127156
+  },
+  {
+    "videoId": "fP97oJCQsCM",
+    "title": "One Measured Zero with an Eye",
+    "artist": "Knumears",
+    "timestamp": 1789126976
+  },
+  {
+    "videoId": "GUZ6rsh6EAo",
+    "title": "143 [Jcm]",
+    "artist": "You and I",
+    "timestamp": 1789126796
+  },
+  {
+    "videoId": "aSn7f9tXvgw",
+    "title": "My Journey to The Weed Den",
+    "artist": "Merchant Ships",
+    "timestamp": 1789126616
+  },
+  {
+    "videoId": "-_Lz-2gkO3Q",
+    "title": "Lie To Me",
+    "artist": "Love Letter",
+    "timestamp": 1789126436
+  },
+  {
+    "videoId": "lJ0uWSRlGt0",
+    "title": "sOng fOr jOrdan",
+    "artist": "OLTH",
+    "timestamp": 1789126256
+  },
+  {
+    "videoId": "hteErwciLCw",
+    "title": "short arms, deep pockets",
+    "artist": "novely",
+    "timestamp": 1789126076
+  },
+  {
+    "videoId": "aUt8PztBtlk",
+    "title": "Alderan Was An Inside Job",
+    "artist": "septemberistheonlytimeidontthinkofyou",
+    "timestamp": 1789125896
+  },
+  {
+    "videoId": "nXrW7UCmVZI",
+    "title": "Ding Dong Dead",
+    "artist": "Orchid",
+    "timestamp": 1789125716
+  },
+  {
+    "videoId": "pF4ZQjm6AJo",
+    "title": "Anemic Bulemic",
+    "artist": "Funeral Diner",
+    "timestamp": 1789125536
+  },
+  {
+    "videoId": "s76voGNcte4",
+    "title": "false sense of improvement",
+    "artist": "novely",
+    "timestamp": 1789125356
+  },
+  {
+    "videoId": "yLge6OHlTVo",
+    "title": "portraits",
+    "artist": "Your Arms Are My Cocoon",
+    "timestamp": 1789125176
+  },
+  {
+    "videoId": "ajGh6lqjYec",
+    "title": "Amber Welts",
+    "artist": "silk",
+    "timestamp": 1789124996
+  },
+  {
+    "videoId": "cOmqaCNEkS8",
+    "title": "reaching",
+    "artist": "journal",
+    "timestamp": 1789124816
+  },
+  {
+    "videoId": "wdtC8-56asU",
+    "title": "i bit my tongue to shut me up",
+    "artist": "yourfragilehands",
+    "timestamp": 1789124636
+  },
+  {
+    "videoId": "Nv9ZYF8wNLM",
+    "title": "ipromisetogetbetter",
+    "artist": "foreverlikethestars",
+    "timestamp": 1789124456
+  },
+  {
+    "videoId": "aJDU6pM5eOE",
+    "title": "Walk Alone",
+    "artist": "The Sea The Sea",
+    "timestamp": 1789124276
+  },
+  {
+    "videoId": "2vD8tpqOKEY",
+    "title": "unmatched spirits, fateful death",
+    "artist": "aplacewe'vealwaysbeen",
+    "timestamp": 1789124096
+  },
+  {
+    "videoId": "m2QfsDMqQGs",
+    "title": "Mouthbreather",
+    "artist": "gapyear",
+    "timestamp": 1789123916
+  },
+  {
     "videoId": "plicxAYDNZY",
     "title": "Fading Away Like the Rest of Them",
-    "artist": "Neil Perry",
-    "timestamp": 1789115544
+    "artist": "Neil Perry"
   },
   {
     "videoId": "uQNRwEsEkSI",
     "title": "what am i supposed to be?",
-    "artist": "ourbluewounds",
-    "timestamp": 1789115364
+    "artist": "ourbluewounds"
   },
   {
     "videoId": "z8KmcMjB5N4",
     "title": "\"Btw, That Untitled Song on Your Mixtape Was for You. I Wrote It When I Missed You.\"",
-    "artist": "Suis La Lune",
-    "timestamp": 1789115184
+    "artist": "Suis La Lune"
   },
   {
     "videoId": "zNM5rA7G4UY",
     "title": "Because He's There, and He Hates Me",
-    "artist": "Midwest Pen Pals",
-    "timestamp": 1789115004
+    "artist": "Midwest Pen Pals"
   },
   {
     "videoId": "VEiFrxkiHT4",
     "title": "bye, i love you.",
-    "artist": "lessthannothing",
-    "timestamp": 1789114824
+    "artist": "lessthannothing"
   },
   {
     "videoId": "oBUySzAr5v0",
     "title": "all that's left of you (swan song)",
-    "artist": "edith pike",
-    "timestamp": 1789114644
+    "artist": "edith pike"
   },
   {
     "videoId": "W2UoW78C9J0",
     "title": "Head in the Ceiling Fan",
-    "artist": "Title Fight",
-    "timestamp": 1789114464
+    "artist": "Title Fight"
   },
   {
     "videoId": "M-arnbReJCM",
     "title": "sunset in reverse",
-    "artist": "ribbon fix",
-    "timestamp": 1789114284
+    "artist": "ribbon fix"
   },
   {
     "videoId": "G23s_4xLzVM",
     "title": "Maim",
-    "artist": "Vs Self",
-    "timestamp": 1789114104
+    "artist": "Vs Self"
   },
   {
     "videoId": "ZvJo3S_6zqU",
     "title": "Such Luck",
-    "artist": "Free Throw",
-    "timestamp": 1789113924
+    "artist": "Free Throw"
   },
   {
     "videoId": "VnXJ5YaUhVw",
     "title": "Death of an aspiring icon (The Khayembii Communique)",
-    "artist": "y.fatboy",
-    "timestamp": 1789113744
+    "artist": "y.fatboy"
   },
   {
     "videoId": "e-86rRaIni0",
     "title": "Wish I Was",
-    "artist": "Knumears",
-    "timestamp": 1789113564
+    "artist": "Knumears"
   },
   {
     "videoId": "Mfw3v9H9sUk",
     "title": "Enough is Enough",
-    "artist": "Catalyst...",
-    "timestamp": 1789113384
+    "artist": "Catalyst..."
   },
   {
     "videoId": "R51RRpZfbSc",
     "title": "desire is the root of suffering",
-    "artist": "Recu\u00e9rdame",
-    "timestamp": 1789113204
+    "artist": "Recu\u00e9rdame"
   },
   {
     "videoId": "8I7PQ22-IgQ",
     "title": "silence is a symphony",
-    "artist": "novely",
-    "timestamp": 1789113024
+    "artist": "novely"
   },
   {
     "videoId": "Sswq3lgiCV4",
     "title": "I Used to Have Two Pen Pals",
-    "artist": "Oakwood",
-    "timestamp": 1789112844
+    "artist": "Oakwood"
   },
   {
     "videoId": "dRjKMAdjfag",
     "title": "Beautiful, Beautiful, Beautiful",
-    "artist": "Febuary",
-    "timestamp": 1789112664
+    "artist": "Febuary"
   },
   {
     "videoId": "YFetNgmaaWc",
     "title": "extinction",
-    "artist": "Catalyst...",
-    "timestamp": 1789112484
+    "artist": "Catalyst..."
   },
   {
     "videoId": "IuqDT6r2J7k",
     "title": "Candle",
-    "artist": "Burial Etiquette",
-    "timestamp": 1789112304
+    "artist": "Burial Etiquette"
   },
   {
     "videoId": "j12YNyAN-hQ",
     "title": "Homesick",
-    "artist": "Vs Self",
-    "timestamp": 1789112124
+    "artist": "Vs Self"
   },
   {
     "videoId": "smHzsGKV3mU",
     "title": "The Right To Choose",
-    "artist": "Burial Etiquette",
-    "timestamp": 1789111944
+    "artist": "Burial Etiquette"
   },
   {
     "videoId": "VlS9r2mb8aA",
     "title": "January 24",
-    "artist": "I Hate Sex",
-    "timestamp": 1789111764
+    "artist": "I Hate Sex"
   },
   {
     "videoId": "tk3XA0BnTiw",
     "title": "now the noisy winds are still",
-    "artist": "novely",
-    "timestamp": 1789111584
+    "artist": "novely"
   },
   {
     "videoId": "D4GZH7mWXtY",
     "title": "Heartache",
-    "artist": "vs self",
-    "timestamp": 1789111404
+    "artist": "vs self"
   },
   {
     "videoId": "3NgjynUemF4",
     "title": "When We Were One",
-    "artist": "You And I",
-    "timestamp": 1789111224
+    "artist": "You And I"
   },
   {
     "videoId": "VYwGX5Ha9Ts",
     "title": "time spent walking",
-    "artist": "Catalyst...",
-    "timestamp": 1789111044
+    "artist": "Catalyst..."
   },
   {
     "videoId": "7COvkHaQ1nE",
     "title": "Dried Up Flower Bouquets",
-    "artist": "Versera",
-    "timestamp": 1789110864
+    "artist": "Versera"
   },
   {
     "videoId": "aAAjZb5zyoo",
     "title": "Wake",
-    "artist": "vs self",
-    "timestamp": 1789110684
+    "artist": "vs self"
   },
   {
     "videoId": "luuwpOt7Qw0",
     "title": "Time means nothing when it's all spent in the same place",
-    "artist": "Ispentsixhourswatchingshockvideosyesterday",
-    "timestamp": 1789110504
+    "artist": "Ispentsixhourswatchingshockvideosyesterday"
   },
   {
     "videoId": "okrP5C3w6Ec",
     "title": "Untitled",
-    "artist": "Catalyst...",
-    "timestamp": 1789110324
+    "artist": "Catalyst..."
   },
   {
     "videoId": "Wa7RVBnQGQY",
     "title": "2",
-    "artist": "gavin m",
-    "timestamp": 1789110144
+    "artist": "gavin m"
   },
   {
     "videoId": "u4bq5xEtVfs",
     "title": "Silence",
-    "artist": "noragami",
-    "timestamp": 1789109964
+    "artist": "noragami"
   },
   {
     "videoId": "ZNDeb5jAXqY",
     "title": "Are You Here with Me?",
-    "artist": "Catalyst...",
-    "timestamp": 1789109784
+    "artist": "Catalyst..."
   },
   {
     "videoId": "oPh6AjTZ4Lc",
     "title": "A toast to before",
-    "artist": "Kiowa",
-    "timestamp": 1789109604
+    "artist": "Kiowa"
   },
   {
     "videoId": "alRH3QODiZc",
     "title": "...and the Walls Are Lined With",
-    "artist": "gapyear",
-    "timestamp": 1789109424
+    "artist": "gapyear"
   },
   {
     "videoId": "pCNig01_R7A",
     "title": "Untitled",
-    "artist": "Knumears",
-    "timestamp": 1789109244
+    "artist": "Knumears"
   },
   {
     "videoId": "GQrPKPe9tCs",
     "title": "Work and Progress",
-    "artist": "my better half",
-    "timestamp": 1789109064
+    "artist": "my better half"
   },
   {
     "videoId": "YKaEBl2c7ic",
     "title": "Do You Still See Me The Same?",
-    "artist": "At a loss",
-    "timestamp": 1789108884
+    "artist": "At a loss"
   },
   {
     "videoId": "Oo0X83T9A3Y",
     "title": "Sick Like a Dog",
-    "artist": "Abbeys Garden",
-    "timestamp": 1789108704
+    "artist": "Abbeys Garden"
   },
   {
     "videoId": "ILVeszR6Qw0",
     "title": "Jane Is A Vampire!",
-    "artist": "Told Not To Worry",
-    "timestamp": 1789108524
+    "artist": "Told Not To Worry"
   },
   {
     "videoId": "s7-GHy3DkdQ",
     "title": "sounds like their pain",
-    "artist": "Lagrimas",
-    "timestamp": 1789108344
+    "artist": "Lagrimas"
   },
   {
     "videoId": "Dj0rdxfh3ZI",
     "title": "Love Letter",
-    "artist": "Love Letter",
-    "timestamp": 1789108164
+    "artist": "Love Letter"
   },
   {
     "videoId": "GLyjv2dJ-DM",
     "title": "The way that i feel",
-    "artist": "August Flower",
-    "timestamp": 1789107984
+    "artist": "August Flower"
   },
   {
     "videoId": "m613NMzL6Zs",
     "title": "Desert",
-    "artist": "vs self",
-    "timestamp": 1789107804
+    "artist": "vs self"
   },
   {
     "videoId": "XVBzbTsPf6o",
     "title": "It was past eight thirty, and still light",
-    "artist": "ourbluewounds",
-    "timestamp": 1789107624
+    "artist": "ourbluewounds"
   },
   {
     "videoId": "z_1C60o-UoU",
     "title": "r u kitten me right meow? (feat. Lucideadlimb)",
-    "artist": "Catalyst...",
-    "timestamp": 1789107444
+    "artist": "Catalyst..."
   },
   {
     "videoId": "SGY2EgVeqrU",
     "title": "hemingways love song (one more time)",
-    "artist": "beforeyouleave",
-    "timestamp": 1789107264
+    "artist": "beforeyouleave"
   },
   {
     "videoId": "BWhUvRMzhQ0",
     "title": "A Shadow's Dance",
-    "artist": "Blaire",
-    "timestamp": 1789107084
+    "artist": "Blaire"
   },
   {
     "videoId": "3bau2CgRg8E",
     "title": "i hate you !",
-    "artist": "voluntaryviolence",
-    "timestamp": 1789106904
+    "artist": "voluntaryviolence"
   },
   {
     "videoId": "De20Lt_uY3M",
     "title": "a mirror is the saddest painting",
-    "artist": "novely",
-    "timestamp": 1789106724
+    "artist": "novely"
   },
   {
     "videoId": "hQfm4p0V_-c",
     "title": "A Form of Closure",
-    "artist": "The Spirit Of Versailles",
-    "timestamp": 1789106544
+    "artist": "The Spirit Of Versailles"
   },
   {
     "videoId": "hV3qPE4YRLc",
     "title": "te emo",
-    "artist": "Cliffmoor",
-    "timestamp": 1789106364
+    "artist": "Cliffmoor"
   },
   {
     "videoId": "kSXcaFQwVDU",
     "title": "oh no ! here comes the sad part",
-    "artist": "novely",
-    "timestamp": 1789106184
+    "artist": "novely"
   },
   {
     "videoId": "2Z19EZGrq3w",
     "title": "Ruin You (Aorta)",
-    "artist": "Dead Butterflies  &  Aorta",
-    "timestamp": 1789106004
+    "artist": "Dead Butterflies  &  Aorta"
   },
   {
     "videoId": "lcF9ces2jy4",
     "title": "You Don't Know What You Did! (Dead Butterflies)",
-    "artist": "Dead Butterflies  &  Aorta",
-    "timestamp": 1789105824
+    "artist": "Dead Butterflies  &  Aorta"
   },
   {
     "videoId": "lzhyRTNey7s",
     "title": "Winter",
-    "artist": "Marquette",
-    "timestamp": 1789105644
+    "artist": "Marquette"
   },
   {
     "videoId": "PEBXYnm6D04",
     "title": "hopefully alone",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1789105464
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "wFmC7GPLTEs",
     "title": "Plane Vs. Tank Vs. Submarine",
-    "artist": "Tigers Jaw",
-    "timestamp": 1789105284
+    "artist": "Tigers Jaw"
   },
   {
     "videoId": "U-nV5R_Mm6g",
     "title": "Hey Ken, Someone Methodically Mushed the Donuts",
-    "artist": "Free Throw",
-    "timestamp": 1789105104
+    "artist": "Free Throw"
   },
   {
     "videoId": "Sdc7IWEmORE",
     "title": "Tears Over Beers",
-    "artist": "Modern Baseball",
-    "timestamp": 1789104924
+    "artist": "Modern Baseball"
   },
   {
     "videoId": "zjHTQyqHdNc",
     "title": "Relax / Divide",
-    "artist": "Hail The Sun",
-    "timestamp": 1789104744
+    "artist": "Hail The Sun"
   },
   {
     "videoId": "0BOwCp0X79g",
     "title": "Hate One An Otter",
-    "artist": "Newgrounds Death Rugby",
-    "timestamp": 1789104564
+    "artist": "Newgrounds Death Rugby"
   },
   {
     "videoId": "rrnspa9Hywk",
     "title": "You'll Understand When You're Older",
-    "artist": "Kaonashi",
-    "timestamp": 1789104384
+    "artist": "Kaonashi"
   },
   {
     "videoId": "4Hf-Jv6SU-4",
     "title": "Twelve-Spurt Somaticoperigeusia Kinemusculapathsaporrhagilysis",
-    "artist": "Phyllomedusa",
-    "timestamp": 1789104204
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "uuDqa_WK38U",
     "title": "Grave Robbery",
-    "artist": "away with words",
-    "timestamp": 1789104024
+    "artist": "away with words"
   },
   {
     "videoId": "yxiNBdsKa_A",
@@ -437,7 +756,7 @@
   {
     "videoId": "yYDx9NFwB1g",
     "title": "MONTAGEM SEQUELADA - (DJ NEGRESKO & DJ MARAKA 011) | 2022",
-    "artist": "DJ MARAKA 011  &  DJ NEGRESKO  \u2022  80K views"
+    "artist": "DJ MARAKA 011  &  DJ NEGRESKO  \u2022  81K views"
   },
   {
     "videoId": "ueRWmBEkmWI",
@@ -743,325 +1062,5 @@
     "videoId": "yMztOcYgtLI",
     "title": "I Am Nietzche",
     "artist": "Orchid"
-  },
-  {
-    "videoId": "wyYR1DxKKJ4",
-    "title": "Constant Headache",
-    "artist": "Joyce Manor"
-  },
-  {
-    "videoId": "uOfDwkJfnBc",
-    "title": "Get In The Robot",
-    "artist": "Ogbert the Nerd"
-  },
-  {
-    "videoId": "zHunMLNavOQ",
-    "title": "Pallet Town",
-    "artist": "Free Throw"
-  },
-  {
-    "videoId": "HoVic6JXKO4",
-    "title": "Night Song",
-    "artist": "Julia Holter"
-  },
-  {
-    "videoId": "zoYzzrZUE5U",
-    "title": "Betsy On The Roof",
-    "artist": "Julia Holter"
-  },
-  {
-    "videoId": "Q8fYtAYsvMA",
-    "title": "Horns Surrounding Me",
-    "artist": "Julia Holter"
-  },
-  {
-    "videoId": "0MiECTJLwsY",
-    "title": "by the wings of a tragedy",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "wh7-hcExGrU",
-    "title": "Dance esta noite, enquanto faz a revolu\u00e7\u00e3o!",
-    "artist": "desvio"
-  },
-  {
-    "videoId": "GYbTGL9eHjU",
-    "title": "Crawling After You",
-    "artist": "Bass Drum Of Death"
-  },
-  {
-    "videoId": "z5SA_73kEpY",
-    "title": "Curse of Eternity",
-    "artist": "Herakleion"
-  },
-  {
-    "videoId": "zFjGexjNTRs",
-    "title": "Obsidian King",
-    "artist": "Herakleion"
-  },
-  {
-    "videoId": "aO9b-sZrV6M",
-    "title": "Cryogenic Death",
-    "artist": "Herakleion"
-  },
-  {
-    "videoId": "LHfBTQWoHT4",
-    "title": "28 Days Later",
-    "artist": "Herakleion"
-  },
-  {
-    "videoId": "K_d20mpPboo",
-    "title": "Herakleion",
-    "artist": "Herakleion"
-  },
-  {
-    "videoId": "uHL0-QpAYi0",
-    "title": "Way Out",
-    "artist": "Bass Drum Of Death"
-  },
-  {
-    "videoId": "Sdh_Lny4aP8",
-    "title": "Cheap Beer",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "b8PyL4fpiF4",
-    "title": "Anirak",
-    "artist": "Beach Goons"
-  },
-  {
-    "videoId": "N0Io6QHqf-g",
-    "title": "Sixpack",
-    "artist": "JEFF the Brotherhood"
-  },
-  {
-    "videoId": "WWPs5W8Q9Gw",
-    "title": "White Fright",
-    "artist": "Bass Drum Of Death"
-  },
-  {
-    "videoId": "tYu8P9_Nd7o",
-    "title": "Alcoholic",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "0_o-WGJRLCs",
-    "title": "Forgotten Token",
-    "artist": "Upchuck"
-  },
-  {
-    "videoId": "xBIlKY4U8QU",
-    "title": "GOING STEADY XX",
-    "artist": "Death from Above 1979"
-  },
-  {
-    "videoId": "7VYfOpftSU0",
-    "title": "Old Wounds",
-    "artist": "PUP"
-  },
-  {
-    "videoId": "bGiOJOZknAI",
-    "title": "By Myself",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "IiLpxziDlRU",
-    "title": "No Halo",
-    "artist": "Sorority Noise"
-  },
-  {
-    "videoId": "_BrZUwzrvVI",
-    "title": "Kawasaki Backflip",
-    "artist": "Dogleg"
-  },
-  {
-    "videoId": "luhTzhWq6vA",
-    "title": "GFY",
-    "artist": "Amyl and The Sniffers"
-  },
-  {
-    "videoId": "GvKfd1fuWY0",
-    "title": "Gimmie Something",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "PZScSrWG0Q8",
-    "title": "change your name",
-    "artist": "see through person"
-  },
-  {
-    "videoId": "nXbCeUmiBLU",
-    "title": "Bug",
-    "artist": "Wavves"
-  },
-  {
-    "videoId": "3VA44b28oRo",
-    "title": "Between The Lines",
-    "artist": "Bass Drum of Death"
-  },
-  {
-    "videoId": "m749400l-LQ",
-    "title": "Wake Bake Skate",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "JTH8AMJT5l0",
-    "title": "Gina Works At Hearts",
-    "artist": "DZ Deathrays"
-  },
-  {
-    "videoId": "mNsbIevwUGg",
-    "title": "Gone For Good",
-    "artist": "NOBUNNY"
-  },
-  {
-    "videoId": "aOjWEae_eRU",
-    "title": "Oh Messy Life",
-    "artist": "Cap'n Jazz"
-  },
-  {
-    "videoId": "3u6a3ktfie0",
-    "title": "CafE",
-    "artist": "Daughter Bat & the Lip Stings"
-  },
-  {
-    "videoId": "qsQ1846zhbY",
-    "title": "Nerve Jamming",
-    "artist": "Bass Drum of Death"
-  },
-  {
-    "videoId": "43AJh6OLobo",
-    "title": "Get Found",
-    "artist": "Bass Drum of Death"
-  },
-  {
-    "videoId": "1VKvdg19x7s",
-    "title": "Ready To Go",
-    "artist": "Jaded Juice Riders"
-  },
-  {
-    "videoId": "DTgljB5WWoc",
-    "title": "Too Drunk to Come",
-    "artist": "Pangea"
-  },
-  {
-    "videoId": "egKjazOI5qA",
-    "title": "West Coast",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "kstlaTn9UWw",
-    "title": "Baby Shea",
-    "artist": "Ovlov"
-  },
-  {
-    "videoId": "ZbM350Q-sFM",
-    "title": "Can't Understand the Feeling",
-    "artist": "Faze"
-  },
-  {
-    "videoId": "DTgnTFiT7IY",
-    "title": "Shattered Me",
-    "artist": "Bass Drum Of Death"
-  },
-  {
-    "videoId": "Qd-JLooDNOE",
-    "title": "My Head Hurts",
-    "artist": "Wavves"
-  },
-  {
-    "videoId": "LOgcWHx_tgo",
-    "title": "I Hate Sports",
-    "artist": "I Hate Sex"
-  },
-  {
-    "videoId": "4hGSzsCZARo",
-    "title": "No Waves",
-    "artist": "FIDLAR"
-  },
-  {
-    "videoId": "tIm5SCX2LjI",
-    "title": "My Spirit Animal is...",
-    "artist": "Oakwood"
-  },
-  {
-    "videoId": "SXbogozz_0A",
-    "title": "I Wanna Be Forgotten",
-    "artist": "Bass Drum Of Death"
-  },
-  {
-    "videoId": "LwIvSZ4DT4E",
-    "title": "you're so perfect <333",
-    "artist": "shambles"
-  },
-  {
-    "videoId": "gbg27oT8Z9M",
-    "title": "Another One",
-    "artist": "Mac DeMarco  \u2022  24M views"
-  },
-  {
-    "videoId": "wIuBcb2T55Q",
-    "title": "My Kind of Woman",
-    "artist": "Mac DeMarco  \u2022  92M views"
-  },
-  {
-    "videoId": "A3uU1o0ZjNs",
-    "title": "Out The Window I Sang",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "CEVp_zWEyTI",
-    "title": "Backstabber",
-    "artist": "Dystopia"
-  },
-  {
-    "videoId": "RnIySIorrNs",
-    "title": "44. My Spine! My Spine! My Spine!",
-    "artist": "COMBAT WOUNDED VETERAN"
-  },
-  {
-    "videoId": "DH7cTF7hpGA",
-    "title": "Thrill Fuckers (You Broke My Heart but I Kinda Got off to It)",
-    "artist": "The Now"
-  },
-  {
-    "videoId": "JQJf7zMnT6g",
-    "title": "These Eyes Will Remember",
-    "artist": "A Long Winter"
-  },
-  {
-    "videoId": "VbFBkUyxTjk",
-    "title": "Seventh Seal",
-    "artist": "Russian Circles"
-  },
-  {
-    "videoId": "h7Sjg9A7-ng",
-    "title": "Kid Gleason",
-    "artist": "body shirt"
-  },
-  {
-    "videoId": "Pj4NX7JrxMg",
-    "title": "Death is never too far away",
-    "artist": "Lagrimas"
-  },
-  {
-    "videoId": "cO6zuS4kQ44",
-    "title": "Waiting for the Crash",
-    "artist": "Ostraca"
-  },
-  {
-    "videoId": "eBnjbXCkDYc",
-    "title": "these open wounds",
-    "artist": "body shirt"
-  },
-  {
-    "videoId": "7fgrXodK5Dg",
-    "title": "Solo",
-    "artist": "Dim"
-  },
-  {
-    "videoId": "ukTpjbD6ai0",
-    "title": "Lluvia",
-    "artist": "Dim"
   }
 ]
