@@ -1,9 +1,56 @@
 [
   {
+    "videoId": "U-nV5R_Mm6g",
+    "title": "Hey Ken, Someone Methodically Mushed the Donuts",
+    "artist": "Free Throw",
+    "timestamp": 1789787558
+  },
+  {
+    "videoId": "7nOrCK8n_RI",
+    "title": "Tongue Tied",
+    "artist": "Free Throw",
+    "timestamp": 1789787378
+  },
+  {
+    "videoId": "WftssJYhtqA",
+    "title": "Two Beers In",
+    "artist": "Free Throw",
+    "timestamp": 1789787198
+  },
+  {
+    "videoId": "5VeolZ_PZqA",
+    "title": "thorns (single version)",
+    "artist": "Dead Butterflies",
+    "timestamp": 1789787018
+  },
+  {
+    "videoId": "vngxyxa3900",
+    "title": "My High",
+    "artist": "Free Throw",
+    "timestamp": 1789786838
+  },
+  {
+    "videoId": "BFXVn32javQ",
+    "title": "Tongue Tied (Re-Recorded) ft. Pat Miranda (feat. Pat Miranda)",
+    "artist": "Free Throw",
+    "timestamp": 1789786658
+  },
+  {
+    "videoId": "j_gdvf63crU",
+    "title": "Randy, I Am The Liquor",
+    "artist": "Free Throw",
+    "timestamp": 1789786478
+  },
+  {
+    "videoId": "WnxYoYBhyWA",
+    "title": "Do You Want",
+    "artist": "Lucki  &  Detas",
+    "timestamp": 1789786298
+  },
+  {
     "videoId": "52q6axxX9Wk",
     "title": "lillian jones KO",
-    "artist": "Sherane",
-    "timestamp": 1789769770
+    "artist": "Sherane"
   },
   {
     "videoId": "ewbf15v8Mfs",
@@ -14,11 +61,6 @@
     "videoId": "jHSgnGMo_uM",
     "title": "Homem",
     "artist": "Lupe de Lupe"
-  },
-  {
-    "videoId": "WnxYoYBhyWA",
-    "title": "Do You Want",
-    "artist": "Lucki  &  Detas"
   },
   {
     "videoId": "Cbztx0kQVpY",
@@ -44,11 +86,6 @@
     "videoId": "JbSD25RTacA",
     "title": "Yeah Yeah Utah",
     "artist": "Marietta"
-  },
-  {
-    "videoId": "7nOrCK8n_RI",
-    "title": "Tongue Tied",
-    "artist": "Free Throw"
   },
   {
     "videoId": "v3KiO_oILus",
@@ -173,7 +210,7 @@
   {
     "videoId": "BXjwSSGwzio",
     "title": "wonder if you care",
-    "artist": "flyingfish  \u2022  130K views"
+    "artist": "flyingfish  \u2022  131K views"
   },
   {
     "videoId": "xcof4_SAhL8",
@@ -246,16 +283,6 @@
     "artist": "Gangsta Pat"
   },
   {
-    "videoId": "Z6zb5cmCj2w",
-    "title": "Go to Church Hoe",
-    "artist": "Phyllomedusa"
-  },
-  {
-    "videoId": "LiopkhEMCkg",
-    "title": "I Hate What I've Become (fijimix)",
-    "artist": "Phyllomedusa"
-  },
-  {
     "videoId": "uuDqa_WK38U",
     "title": "Grave Robbery",
     "artist": "away with words"
@@ -293,16 +320,6 @@
   {
     "videoId": "qIQBv7AJ474",
     "title": "Good Job, Champ",
-    "artist": "Free Throw"
-  },
-  {
-    "videoId": "WftssJYhtqA",
-    "title": "Two Beers In",
-    "artist": "Free Throw"
-  },
-  {
-    "videoId": "U-nV5R_Mm6g",
-    "title": "Hey Ken, Someone Methodically Mushed the Donuts",
     "artist": "Free Throw"
   },
   {
@@ -978,26 +995,6 @@
   {
     "videoId": "7gSYRWNjDC4",
     "title": "Dodge Dart (Demo)",
-    "artist": "Kind of Like Spitting"
-  },
-  {
-    "videoId": "mMn_Z5WR6UQ",
-    "title": "Opening Theme",
-    "artist": "Kind of Like Spitting"
-  },
-  {
-    "videoId": "xaG_OJC2Mdg",
-    "title": "At Your Convenience",
-    "artist": "Kind of Like Spitting"
-  },
-  {
-    "videoId": "qPjRA7bNSiw",
-    "title": "The Short Story Long",
-    "artist": "Kind of Like Spitting"
-  },
-  {
-    "videoId": "mafQrFuib4U",
-    "title": "Sex Ruins Everything",
     "artist": "Kind of Like Spitting"
   }
 ]
