@@ -1,57 +1,152 @@
 [
   {
-    "videoId": "O-zrYIHV-Cs",
-    "title": "Our Time Will Come",
-    "artist": "Told Not To Worry",
-    "timestamp": 1790988837
-  },
-  {
-    "videoId": "s7L2fa7XOBU",
-    "title": "Tonight, We Die In Battle...",
-    "artist": "Told Not To Worry",
-    "timestamp": 1790988657
-  },
-  {
-    "videoId": "ueVHO0ROEWM",
-    "title": "My Heartache is Measured by the Acre",
-    "artist": "Since My Beloved",
-    "timestamp": 1790988477
-  },
-  {
-    "videoId": "5VeolZ_PZqA",
-    "title": "thorns (single version)",
-    "artist": "Dead Butterflies",
-    "timestamp": 1790988297
-  },
-  {
-    "videoId": "u1s9Yr27DBc",
-    "title": "Chewing The Scenery",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1790988117
-  },
-  {
-    "videoId": "eBnjbXCkDYc",
-    "title": "these open wounds",
-    "artist": "body shirt",
-    "timestamp": 1790987937
+    "videoId": "zjHTQyqHdNc",
+    "title": "Relax / Divide",
+    "artist": "Hail The Sun",
+    "timestamp": 1791012844
   },
   {
     "videoId": "Yhh-5z0alJE",
     "title": "Bleach",
     "artist": "away with words",
-    "timestamp": 1790987757
+    "timestamp": 1791012664
   },
   {
-    "videoId": "Sdc7IWEmORE",
-    "title": "Tears Over Beers",
-    "artist": "Modern Baseball",
-    "timestamp": 1790987577
+    "videoId": "hZuSjDUjL3I",
+    "title": "Spiderwebs",
+    "artist": "away with words",
+    "timestamp": 1791012484
+  },
+  {
+    "videoId": "uuDqa_WK38U",
+    "title": "Grave Robbery",
+    "artist": "away with words",
+    "timestamp": 1791012304
+  },
+  {
+    "videoId": "jfPnAM9AMjk",
+    "title": "Snow",
+    "artist": "noragami",
+    "timestamp": 1791012124
+  },
+  {
+    "videoId": "WftssJYhtqA",
+    "title": "Two Beers In",
+    "artist": "Free Throw",
+    "timestamp": 1791011944
+  },
+  {
+    "videoId": "WnxYoYBhyWA",
+    "title": "Do You Want",
+    "artist": "Lucki  &  Detas",
+    "timestamp": 1791011764
+  },
+  {
+    "videoId": "O0meEJWY80k",
+    "title": "there's no \"brian\" in team",
+    "artist": "Camping In Alaska",
+    "timestamp": 1791011584
+  },
+  {
+    "videoId": "_m3BDRgVxj4",
+    "title": "insight",
+    "artist": "Camping In Alaska",
+    "timestamp": 1791011404
+  },
+  {
+    "videoId": "ojUSmYpsSl8",
+    "title": "A Detailed and Poetic Physical Threat to the Person Who Intentionally Vandalized My 1994 Dodge Intrepid Behind Kate's Apartment",
+    "artist": "Pet Symmetry",
+    "timestamp": 1791011224
   },
   {
     "videoId": "7nOrCK8n_RI",
     "title": "Tongue Tied",
     "artist": "Free Throw",
-    "timestamp": 1790987397
+    "timestamp": 1791011044
+  },
+  {
+    "videoId": "WOunBBI7hzc",
+    "title": "I'm sitting, watching all of my dreams die in front of me (widowdusk)",
+    "artist": "widowdusk  &  gavin m",
+    "timestamp": 1791010864
+  },
+  {
+    "videoId": "EESM9bshKMY",
+    "title": "nauticalstartattoo",
+    "artist": "sowithout.",
+    "timestamp": 1791010684
+  },
+  {
+    "videoId": "kpmyev_0qcQ",
+    "title": "Bottomless",
+    "artist": "gimmick.",
+    "timestamp": 1791010504
+  },
+  {
+    "videoId": "T9GPRa4qhFM",
+    "title": "Are you __ or are you just happy to see me?",
+    "artist": "Kiowa",
+    "timestamp": 1791010324
+  },
+  {
+    "videoId": "IGJgYLpOvIM",
+    "title": "Mad Girl's Love Song",
+    "artist": "Roman Candle",
+    "timestamp": 1791010144
+  },
+  {
+    "videoId": "qR4wBPATncM",
+    "title": "The Bomb Dot Com V2.0",
+    "artist": "Sleeping With Sirens",
+    "timestamp": 1791009964
+  },
+  {
+    "videoId": "hW7jHWFrNyA",
+    "title": "Stapler",
+    "artist": "Ogbert the Nerd",
+    "timestamp": 1791009784
+  },
+  {
+    "videoId": "dRjKMAdjfag",
+    "title": "Beautiful, Beautiful, Beautiful",
+    "artist": "Febuary",
+    "timestamp": 1791009604
+  },
+  {
+    "videoId": "O-zrYIHV-Cs",
+    "title": "Our Time Will Come",
+    "artist": "Told Not To Worry"
+  },
+  {
+    "videoId": "s7L2fa7XOBU",
+    "title": "Tonight, We Die In Battle...",
+    "artist": "Told Not To Worry"
+  },
+  {
+    "videoId": "ueVHO0ROEWM",
+    "title": "My Heartache is Measured by the Acre",
+    "artist": "Since My Beloved"
+  },
+  {
+    "videoId": "5VeolZ_PZqA",
+    "title": "thorns (single version)",
+    "artist": "Dead Butterflies"
+  },
+  {
+    "videoId": "u1s9Yr27DBc",
+    "title": "Chewing The Scenery",
+    "artist": "SeeYouSpaceCowboy"
+  },
+  {
+    "videoId": "eBnjbXCkDYc",
+    "title": "these open wounds",
+    "artist": "body shirt"
+  },
+  {
+    "videoId": "Sdc7IWEmORE",
+    "title": "Tears Over Beers",
+    "artist": "Modern Baseball"
   },
   {
     "videoId": "lcF9ces2jy4",
@@ -439,11 +534,6 @@
     "artist": "voluntaryviolence"
   },
   {
-    "videoId": "EESM9bshKMY",
-    "title": "nauticalstartattoo",
-    "artist": "sowithout."
-  },
-  {
     "videoId": "m613NMzL6Zs",
     "title": "Desert",
     "artist": "vs self"
@@ -551,11 +641,6 @@
   {
     "videoId": "obmnJkpuCvw",
     "title": "Heaven Sent",
-    "artist": "away with words"
-  },
-  {
-    "videoId": "uuDqa_WK38U",
-    "title": "Grave Robbery",
     "artist": "away with words"
   },
   {
@@ -932,80 +1017,5 @@
     "videoId": "8I43Y-_7giI",
     "title": "g6 up her butt",
     "artist": "Yuck"
-  },
-  {
-    "videoId": "KT6mANILqK8",
-    "title": "Glow & Behold",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "jA9ZRCEAmKM",
-    "title": "SEGA",
-    "artist": "Yuck  &  LilSccrt"
-  },
-  {
-    "videoId": "ZKaU5_PJHPE",
-    "title": "komeon",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "MTindiKOA-w",
-    "title": "thouxan times (intro)",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "zMU775PMNCc",
-    "title": "im uppin it",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "VeEK_bA0o90",
-    "title": "Bled White",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "r8M8NGClN_s",
-    "title": "How Does It Feel",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "o9d47Y-7g1s",
-    "title": "wii sports",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "hw52MrZ924s",
-    "title": "eyes wide shut",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "ycGj0_as-F4",
-    "title": "Sunrise In Maple Shade",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "mF29h9s1mVg",
-    "title": "Out Of Time",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "pPj0OkgpS_I",
-    "title": "Lying",
-    "artist": "Keepit2trill ,  Famous Dex  &  Yuck"
-  },
-  {
-    "videoId": "qEygdC7nmcU",
-    "title": "Selfless",
-    "artist": "The Strokes"
-  },
-  {
-    "videoId": "6FnbPTaoahM",
-    "title": "You Only Live Once",
-    "artist": "The Strokes"
-  },
-  {
-    "videoId": "phDGgIvwAmw",
-    "title": "Last Nite",
-    "artist": "The Strokes"
   }
 ]
