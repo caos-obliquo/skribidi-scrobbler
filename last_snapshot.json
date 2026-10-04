@@ -1,15 +1,43 @@
 [
   {
+    "videoId": "wFmC7GPLTEs",
+    "title": "Plane Vs. Tank Vs. Submarine",
+    "artist": "Tigers Jaw",
+    "timestamp": 1791073113
+  },
+  {
+    "videoId": "7nOrCK8n_RI",
+    "title": "Tongue Tied",
+    "artist": "Free Throw",
+    "timestamp": 1791072933
+  },
+  {
+    "videoId": "uqbgxHE_7Cg",
+    "title": "Dark Herps",
+    "artist": "Phyllomedusa",
+    "timestamp": 1791072753
+  },
+  {
+    "videoId": "rrnspa9Hywk",
+    "title": "You'll Understand When You're Older",
+    "artist": "Kaonashi",
+    "timestamp": 1791072573
+  },
+  {
+    "videoId": "Pg1Ps25xO5w",
+    "title": "Arcanum",
+    "artist": "Show Me The Body",
+    "timestamp": 1791072393
+  },
+  {
     "videoId": "6QjBzZwdbuw",
     "title": "Stick Stickly",
-    "artist": "Attack Attack!",
-    "timestamp": 1791059654
+    "artist": "Attack Attack!"
   },
   {
     "videoId": "qaPs8WzAUjo",
     "title": "Bliss In 7 Languages",
-    "artist": "I Promised The World",
-    "timestamp": 1791059474
+    "artist": "I Promised The World"
   },
   {
     "videoId": "3Qz7NvNWZ7M",
@@ -80,11 +108,6 @@
     "videoId": "ojUSmYpsSl8",
     "title": "A Detailed and Poetic Physical Threat to the Person Who Intentionally Vandalized My 1994 Dodge Intrepid Behind Kate's Apartment",
     "artist": "Pet Symmetry"
-  },
-  {
-    "videoId": "7nOrCK8n_RI",
-    "title": "Tongue Tied",
-    "artist": "Free Throw"
   },
   {
     "videoId": "WOunBBI7hzc",
@@ -165,11 +188,6 @@
     "videoId": "lcF9ces2jy4",
     "title": "You Don't Know What You Did! (Dead Butterflies)",
     "artist": "Dead Butterflies  &  Aorta"
-  },
-  {
-    "videoId": "rrnspa9Hywk",
-    "title": "You'll Understand When You're Older",
-    "artist": "Kaonashi"
   },
   {
     "videoId": "WwTZgP88MwQ",
@@ -667,11 +685,6 @@
     "artist": "Show Me The Body"
   },
   {
-    "videoId": "Pg1Ps25xO5w",
-    "title": "Arcanum",
-    "artist": "Show Me The Body"
-  },
-  {
     "videoId": "VKaUOKThUHE",
     "title": "The Thrash Particle",
     "artist": "Modern Baseball"
@@ -989,16 +1002,6 @@
   {
     "videoId": "03iAv_jj8nk",
     "title": "virginia creeper (intro)",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "1a_OAxDcfRw",
-    "title": "abercrombie & fitch",
-    "artist": "Yuck"
-  },
-  {
-    "videoId": "fbSoohdvIv8",
-    "title": "Twilight In Maple Shade (Chinese Cymbals)",
     "artist": "Yuck"
   }
 ]
