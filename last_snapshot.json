@@ -1,9 +1,38 @@
 [
   {
+    "videoId": "P6rwX9pwpoI",
+    "title": "Convincing People",
+    "artist": "Throbbing Gristle",
+    "timestamp": 1791248674
+  },
+  {
+    "videoId": "e3IqAxNubH0",
+    "title": "Left to Starve (remastered 2007)",
+    "artist": "Eyehategod",
+    "timestamp": 1791248494
+  },
+  {
+    "videoId": "Aoggfm9a6nQ",
+    "title": "Stumbled Inside",
+    "artist": "Catalyst...",
+    "timestamp": 1791248314
+  },
+  {
+    "videoId": "YtdSDxyzsig",
+    "title": "Mask",
+    "artist": "Chat Pile",
+    "timestamp": 1791248134
+  },
+  {
+    "videoId": "aUt8PztBtlk",
+    "title": "Alderan Was An Inside Job",
+    "artist": "septemberistheonlytimeidontthinkofyou",
+    "timestamp": 1791247954
+  },
+  {
     "videoId": "RdHx3nsSjSM",
     "title": "Deep Blue",
-    "artist": "Chat Pile",
-    "timestamp": 1791226862
+    "artist": "Chat Pile"
   },
   {
     "videoId": "Q53GWPaLEHg",
@@ -974,30 +1003,5 @@
     "videoId": "BUM3fqFd4MU",
     "title": "Memories Last Longer",
     "artist": "noragami"
-  },
-  {
-    "videoId": "4Vd-ib_kgtQ",
-    "title": "Running From My Friends",
-    "artist": "Salvinorin-A"
-  },
-  {
-    "videoId": "e-86rRaIni0",
-    "title": "Wish I Was",
-    "artist": "Knumears"
-  },
-  {
-    "videoId": "gDDN80d5ciE",
-    "title": "Ti Esrever",
-    "artist": "vs self"
-  },
-  {
-    "videoId": "CExjy4VC94A",
-    "title": "Leafless",
-    "artist": "departmefrombearisland"
-  },
-  {
-    "videoId": "uh3bExPuXxQ",
-    "title": "Just Wait Till I Blow Up...",
-    "artist": "Febuary"
   }
 ]
