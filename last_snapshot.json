@@ -1,183 +1,561 @@
 [
   {
+    "videoId": "9l0mIJ1GQ_s",
+    "title": "OG!",
+    "artist": "JPEGMAFIA",
+    "timestamp": 1792639302
+  },
+  {
+    "videoId": "H5nvJ9MPods",
+    "title": "put on your big girl panties and deal with it!",
+    "artist": "flowersforpersephone",
+    "timestamp": 1792639122
+  },
+  {
+    "videoId": "UV0qazXd8bc",
+    "title": "Ring A Bell",
+    "artist": "Death Grips",
+    "timestamp": 1792638942
+  },
+  {
+    "videoId": "rzyAZDHXBLw",
+    "title": "Poo-Putt Platter",
+    "artist": "MF DOOM",
+    "timestamp": 1792638762
+  },
+  {
+    "videoId": "89F5fpvwPr0",
+    "title": "Takyon (Death Yon) (vocal)",
+    "artist": "Death Grips  \u2022  13M views",
+    "timestamp": 1792638582
+  },
+  {
+    "videoId": "_R10HJnIWEI",
+    "title": "Hacker",
+    "artist": "Death Grips",
+    "timestamp": 1792638402
+  },
+  {
+    "videoId": "1GL9l1DXTsQ",
+    "title": "No Love",
+    "artist": "Death Grips",
+    "timestamp": 1792638222
+  },
+  {
+    "videoId": "Oqqyd8GErF4",
+    "title": "You Might Think He Loves You for Your Money but I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat",
+    "artist": "Death Grips",
+    "timestamp": 1792638042
+  },
+  {
+    "videoId": "Ud-0t4Db5VU",
+    "title": "Wondering",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792637862
+  },
+  {
+    "videoId": "Fyl1UpXINO4",
+    "title": "Between the Breaths",
+    "artist": "Mitski  &  Xiu Xiu",
+    "timestamp": 1792637682
+  },
+  {
+    "videoId": "OdjWhHC6yg0",
+    "title": "Suha",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792637502
+  },
+  {
+    "videoId": "2FXRJ-3EqU8",
+    "title": "Common Loon",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792637322
+  },
+  {
+    "videoId": "JBD_kAN0qbs",
+    "title": "Crank Heart",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792637142
+  },
+  {
+    "videoId": "F386OEURoC0",
+    "title": "Apistat Commander",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792636962
+  },
+  {
+    "videoId": "v6JbxPUmjOk",
+    "title": "Sad Pony Guerrilla Girl",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792636782
+  },
+  {
+    "videoId": "g16DM-Fi1Ks",
+    "title": "Jenny GoGo",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792636602
+  },
+  {
+    "videoId": "gI6S2VhQVQI",
+    "title": "Soft Eyes Open",
+    "artist": "Warmth  &  The Goslings",
+    "timestamp": 1792636422
+  },
+  {
+    "videoId": "rof-iW3ncjs",
+    "title": "CHRIST DILLINGER x Miss Bashful - I DO WHAT I WANT  (ROSALIEDU38) (MUSIC VIDEO)",
+    "artist": "CHRIST DILLINGER  \u2022  69K views",
+    "timestamp": 1792636242
+  },
+  {
+    "videoId": "5tb5PAlexaM",
+    "title": "Chico Sangria - Bonde Dos Viado Comunista (Lokizdead Remix)",
+    "artist": "Lokizdead  \u2022  69 views",
+    "timestamp": 1792636062
+  },
+  {
+    "videoId": "MjPITVyYlUE",
+    "title": "Ruin The Best Of Me",
+    "artist": "holder",
+    "timestamp": 1792635882
+  },
+  {
+    "videoId": "odLfChIcyOE",
+    "title": "First Cut is the Deepest (One Way Dance)",
+    "artist": "holder",
+    "timestamp": 1792635702
+  },
+  {
+    "videoId": "5-CRmdOJ8gk",
+    "title": "Jane Is A Werewolf!",
+    "artist": "Told Not To Worry",
+    "timestamp": 1792635522
+  },
+  {
+    "videoId": "wFmC7GPLTEs",
+    "title": "Plane Vs. Tank Vs. Submarine",
+    "artist": "Tigers Jaw",
+    "timestamp": 1792635342
+  },
+  {
+    "videoId": "WftssJYhtqA",
+    "title": "Two Beers In",
+    "artist": "Free Throw",
+    "timestamp": 1792635162
+  },
+  {
+    "videoId": "dDBFycj1TWo",
+    "title": "Vertigo Flowers",
+    "artist": "Nothing",
+    "timestamp": 1792634982
+  },
+  {
+    "videoId": "Mj6RLKnGWpM",
+    "title": "59D",
+    "artist": "d.silvestre ,  MC 4R ,  MC DENADAI  &  MC Carlos DG",
+    "timestamp": 1792634802
+  },
+  {
+    "videoId": "yxiNBdsKa_A",
+    "title": "Vcs T\u00e3o Acabando Com o Funk (Diss pro Gi Panelas)",
+    "artist": "MC Du Red  &  d.silvestre  \u2022  38K views",
+    "timestamp": 1792634622
+  },
+  {
+    "videoId": "4j9OWmNxlqs",
+    "title": "QM ME PROTEGE T\u00c1 SEM DORMIR",
+    "artist": "Sidoka",
+    "timestamp": 1792634442
+  },
+  {
+    "videoId": "RhRsh-tRtDg",
+    "title": "N\u00e3o Me Sinto Mal Mais",
+    "artist": "Sidoka",
+    "timestamp": 1792634262
+  },
+  {
+    "videoId": "_wXBTvC1eos",
+    "title": "Quadro",
+    "artist": "Sidoka",
+    "timestamp": 1792634082
+  },
+  {
+    "videoId": "3W2jLb7AM3s",
+    "title": "Tommy Wright III - Still Pimpin",
+    "artist": "BerlinerBeatgut  \u2022  7.2M views",
+    "timestamp": 1792633902
+  },
+  {
+    "videoId": "-z5D-QR8swE",
+    "title": "Stash Pot",
+    "artist": "Koopsta Knicca",
+    "timestamp": 1792633722
+  },
+  {
+    "videoId": "5VeolZ_PZqA",
+    "title": "thorns (single version)",
+    "artist": "Dead Butterflies",
+    "timestamp": 1792633542
+  },
+  {
+    "videoId": "Nen3X3-1TvU",
+    "title": "OVRTHRWN",
+    "artist": "Witch Mob Frost Guild",
+    "timestamp": 1792633362
+  },
+  {
+    "videoId": "rdbT_473G0M",
+    "title": "INTRO",
+    "artist": "Witch Mob Frost Guild",
+    "timestamp": 1792633182
+  },
+  {
+    "videoId": "T9_GE98dco8",
+    "title": "Psycho Killer",
+    "artist": "Xiu Xiu",
+    "timestamp": 1792633002
+  },
+  {
+    "videoId": "o7fgFaXKVa0",
+    "title": "Duvet",
+    "artist": "b\u00f4a",
+    "timestamp": 1792632822
+  },
+  {
+    "videoId": "gvtqabfoEQ4",
+    "title": "Burning Desire to Draw Last Breath",
+    "artist": "Gulch",
+    "timestamp": 1792632642
+  },
+  {
+    "videoId": "NZ2duZ5wMSo",
+    "title": "Straight Edge Hate",
+    "artist": "Pipe Bomb",
+    "timestamp": 1792632462
+  },
+  {
+    "videoId": "0cV7hzafNQE",
+    "title": "Alerion",
+    "artist": "Asking Alexandria",
+    "timestamp": 1792632282
+  },
+  {
+    "videoId": "sX0PeN8vqoA",
+    "title": "See You Tomorrow",
+    "artist": "Love Letter",
+    "timestamp": 1792632102
+  },
+  {
+    "videoId": "hfpRK7qdn_4",
+    "title": "SEMATARY - KING OF THE GRAVEYARD \u271d \u271e \u271f \u2626 \u2628 [OFFICIAL VIDEO]",
+    "artist": "SEMATARY  \u2022  706K views",
+    "timestamp": 1792631922
+  },
+  {
+    "videoId": "eqXVOIDMvC0",
+    "title": "Sulfur Surfer",
+    "artist": "bladee",
+    "timestamp": 1792631742
+  },
+  {
+    "videoId": "i_6dkyGnEOI",
+    "title": "For You (feat. Ecco2k)",
+    "artist": "Bladee",
+    "timestamp": 1792631562
+  },
+  {
+    "videoId": "PT1pmt4CJZw",
+    "title": "Obedient (feat. Ecco2k)",
+    "artist": "Bladee",
+    "timestamp": 1792631382
+  },
+  {
+    "videoId": "jORq1N2ty20",
+    "title": "MERRY-GO-ROUND",
+    "artist": "Bladee",
+    "timestamp": 1792631202
+  },
+  {
+    "videoId": "_VOaMtKHUc0",
+    "title": "WONDERLAND (feat. Ecco2k)",
+    "artist": "Bladee",
+    "timestamp": 1792631022
+  },
+  {
+    "videoId": "oYOPz1vqeZU",
+    "title": "Dumbest Girl Alive",
+    "artist": "100 gecs",
+    "timestamp": 1792630842
+  },
+  {
+    "videoId": "VTgJWG-z0qg",
+    "title": "money machine",
+    "artist": "100 gecs ,  Laura Les  &  Dylan Brady",
+    "timestamp": 1792630662
+  },
+  {
+    "videoId": "Pi7P0AjMHTs",
+    "title": "Clock",
+    "artist": "Beck",
+    "timestamp": 1792630482
+  },
+  {
+    "videoId": "5Z1-5wNjMgs",
+    "title": "Loser",
+    "artist": "Beck",
+    "timestamp": 1792630302
+  },
+  {
+    "videoId": "USo0sAaJKR0",
+    "title": "Hotline Bling",
+    "artist": "Drake",
+    "timestamp": 1792630122
+  },
+  {
+    "videoId": "avD_KTP8tc8",
+    "title": "\u597d\u304d\u597d\u304d\u5927\u597d\u304d~New Mix~",
+    "artist": "\u975e\u5e38\u968e\u6bb5  &  \u6238\u5ddd \u7d14",
+    "timestamp": 1792629942
+  },
+  {
+    "videoId": "wLUhz-07pfA",
+    "title": "Relax / Divide",
+    "artist": "Hail The Sun",
+    "timestamp": 1792629762
+  },
+  {
+    "videoId": "Wu7-dMNg870",
+    "title": "Walking A Razor's Edge (feat. Connie Sgarbossa)",
+    "artist": "If I Die First",
+    "timestamp": 1792629582
+  },
+  {
+    "videoId": "8M--eAdmwZw",
+    "title": "People Like You Make People Like Me Disappear",
+    "artist": "If I Die First",
+    "timestamp": 1792629402
+  },
+  {
+    "videoId": "R9Pqs_MIjUY",
+    "title": "The Romance of Affliction (feat. If I Die First)",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1792629222
+  },
+  {
+    "videoId": "y_TomcL02hs",
+    "title": "Melodrama Between Two Entirely Bored Individuals",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1792629042
+  },
+  {
+    "videoId": "u1s9Yr27DBc",
+    "title": "Chewing The Scenery",
+    "artist": "SeeYouSpaceCowboy",
+    "timestamp": 1792628862
+  },
+  {
+    "videoId": "FygjZv_DCuw",
+    "title": "Funeral Empire",
+    "artist": "The Crimson Curse",
+    "timestamp": 1792628682
+  },
+  {
+    "videoId": "3bau2CgRg8E",
+    "title": "i hate you !",
+    "artist": "voluntaryviolence",
+    "timestamp": 1792628502
+  },
+  {
+    "videoId": "LVTpcbMNObA",
+    "title": "Hallow / Hollow",
+    "artist": "The Body",
+    "timestamp": 1792628322
+  },
+  {
+    "videoId": "xcof4_SAhL8",
+    "title": "Depress (remastered 2007)",
+    "artist": "Eyehategod",
+    "timestamp": 1792628142
+  },
+  {
+    "videoId": "RdHx3nsSjSM",
+    "title": "Deep Blue",
+    "artist": "Chat Pile",
+    "timestamp": 1792627962
+  },
+  {
+    "videoId": "AW5N0GcspZ4",
+    "title": "Dallas Beltway",
+    "artist": "Chat Pile",
+    "timestamp": 1792627782
+  },
+  {
+    "videoId": "PLeajVOH6Hk",
+    "title": "Leaky Gore Anus Massacre",
+    "artist": "RUSTY LOBOTOMY",
+    "timestamp": 1792627602
+  },
+  {
+    "videoId": "7BlM4aPnf2k",
+    "title": "Kiss Me Thru The Phone (feat. Sammie)",
+    "artist": "Soulja Boy Tell'em",
+    "timestamp": 1792627422
+  },
+  {
+    "videoId": "w-C_6SeE4-w",
+    "title": "Day 'N' Nite (Nightmare)",
+    "artist": "Kid Cudi",
+    "timestamp": 1792627242
+  },
+  {
     "videoId": "rG-ZWmVkbOs",
     "title": "Cadaveric Osseous Stalactite",
-    "artist": "Pharmacist",
-    "timestamp": 1792623528
+    "artist": "Pharmacist"
   },
   {
     "videoId": "SHg0MDA7oBc",
     "title": "Killing for Sport",
-    "artist": "Esophagus",
-    "timestamp": 1792623348
+    "artist": "Esophagus"
   },
   {
     "videoId": "FPZSv8__mjw",
     "title": "Hate Purgatory",
-    "artist": "The Dark Prison Massacre",
-    "timestamp": 1792623168
+    "artist": "The Dark Prison Massacre"
   },
   {
     "videoId": "9ErNZNIzLV8",
     "title": "Ravenous, Ravenous Rhinos",
-    "artist": "I Set My Friends On Fire",
-    "timestamp": 1792622988
+    "artist": "I Set My Friends On Fire"
   },
   {
     "videoId": "alRH3QODiZc",
     "title": "...and the Walls Are Lined With",
-    "artist": "gapyear",
-    "timestamp": 1792622808
+    "artist": "gapyear"
   },
   {
     "videoId": "UQILCCErHlM",
     "title": "OUTRO",
-    "artist": "FEAR OF LOSS",
-    "timestamp": 1792622628
+    "artist": "FEAR OF LOSS"
   },
   {
     "videoId": "IS6CChsVgkU",
     "title": "Weapon X Intro",
-    "artist": "XweaponX",
-    "timestamp": 1792622448
+    "artist": "XweaponX"
   },
   {
     "videoId": "ohx9UGkWutw",
     "title": "Ainters Gonna Ain't",
-    "artist": "Destroy All! Humans",
-    "timestamp": 1792622268
+    "artist": "Destroy All! Humans"
   },
   {
     "videoId": "c1WNuxC3WSs",
     "title": "Descending Into...",
-    "artist": "Xibalba",
-    "timestamp": 1792622088
+    "artist": "Xibalba"
   },
   {
     "videoId": "twqXSNaNLBU",
     "title": "Perfect Boy",
-    "artist": "Shin Guard",
-    "timestamp": 1792621908
+    "artist": "Shin Guard"
   },
   {
     "videoId": "JWAvLF2R7Og",
     "title": "Magazine Beach",
-    "artist": "Vein.fm",
-    "timestamp": 1792621728
+    "artist": "Vein.fm"
   },
   {
     "videoId": "i-yyVoIw7SQ",
     "title": "Passing By, Waiting to Observe",
-    "artist": "holder",
-    "timestamp": 1792621548
+    "artist": "holder"
   },
   {
     "videoId": "O-zrYIHV-Cs",
     "title": "Our Time Will Come",
-    "artist": "Told Not To Worry",
-    "timestamp": 1792621368
+    "artist": "Told Not To Worry"
   },
   {
     "videoId": "WALo2WQtJr4",
     "title": "if portals are linear: you'll die soon enough",
-    "artist": "Nuvolascura",
-    "timestamp": 1792621188
+    "artist": "Nuvolascura"
   },
   {
     "videoId": "QEwTtDXlpB4",
     "title": "IDGAF",
-    "artist": "Febuary",
-    "timestamp": 1792621008
+    "artist": "Febuary"
   },
   {
     "videoId": "iw_3tVKioJQ",
     "title": "Who are you, Henry Ford?",
-    "artist": "Thus Spoke Zarathustra",
-    "timestamp": 1792620828
+    "artist": "Thus Spoke Zarathustra"
   },
   {
     "videoId": "h5yE6vti_kc",
     "title": "Six Hundred Cubic Centimeters",
-    "artist": "On Broken Wings",
-    "timestamp": 1792620648
+    "artist": "On Broken Wings"
   },
   {
     "videoId": "lgN20MP0gFk",
     "title": "Six Thousand Days",
-    "artist": "withpaperwings",
-    "timestamp": 1792620468
+    "artist": "withpaperwings"
   },
   {
     "videoId": "U-0xJaI4RIY",
     "title": "Self-Inflicted Mental Terror",
-    "artist": "Gulch",
-    "timestamp": 1792620288
+    "artist": "Gulch"
   },
   {
     "videoId": "Nf_nP2jRQGo",
     "title": "Hesitation Marks",
-    "artist": "Foreign Hands",
-    "timestamp": 1792620108
+    "artist": "Foreign Hands"
   },
   {
     "videoId": "GHHQgwgm6FI",
     "title": "Year Zero",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1792619928
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "Mipq38xb_Xw",
     "title": "butterfly eyes",
-    "artist": "Dead Butterflies",
-    "timestamp": 1792619748
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "2rovNxpx84I",
     "title": "Future Worth Dying For",
-    "artist": "I Promised The World",
-    "timestamp": 1792619568
+    "artist": "I Promised The World"
   },
   {
     "videoId": "zmeAMleHFoA",
     "title": "one year later",
-    "artist": "Sherane",
-    "timestamp": 1792619388
+    "artist": "Sherane"
   },
   {
     "videoId": "SSEezjMfnfc",
     "title": "way too long",
-    "artist": "never easy",
-    "timestamp": 1792619208
+    "artist": "never easy"
   },
   {
     "videoId": "4GXz9wYi5x8",
     "title": "The Cycle Of Violence : Chapter 1",
-    "artist": "Varials",
-    "timestamp": 1792619028
+    "artist": "Varials"
   },
   {
     "videoId": "uuDqa_WK38U",
     "title": "Grave Robbery",
-    "artist": "away with words",
-    "timestamp": 1792618848
+    "artist": "away with words"
   },
   {
     "videoId": "4Hf-Jv6SU-4",
     "title": "Twelve-Spurt Somaticoperigeusia Kinemusculapathsaporrhagilysis",
-    "artist": "Phyllomedusa",
-    "timestamp": 1792618668
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "aUt8PztBtlk",
     "title": "Alderan Was An Inside Job",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1792618488
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "k1EKV6mTk-A",
     "title": "My Hair Just Grew Three And A Half Inches",
-    "artist": "Oktober Skyline",
-    "timestamp": 1792618308
+    "artist": "Oktober Skyline"
   },
   {
     "videoId": "dJ1Wws-h1dE",
@@ -210,11 +588,6 @@
     "artist": "Protomartyr"
   },
   {
-    "videoId": "gvtqabfoEQ4",
-    "title": "Burning Desire to Draw Last Breath",
-    "artist": "Gulch"
-  },
-  {
     "videoId": "VlS9r2mb8aA",
     "title": "January 24",
     "artist": "I Hate Sex"
@@ -225,29 +598,14 @@
     "artist": "Catalyst..."
   },
   {
-    "videoId": "AW5N0GcspZ4",
-    "title": "Dallas Beltway",
-    "artist": "Chat Pile"
-  },
-  {
     "videoId": "HKeofHz_k_E",
     "title": "Destination: Blood!",
     "artist": "Orchid"
   },
   {
-    "videoId": "RdHx3nsSjSM",
-    "title": "Deep Blue",
-    "artist": "Chat Pile"
-  },
-  {
     "videoId": "T01BBtOrF1o",
     "title": "how do i feel / am i enough",
     "artist": "loser_theorem"
-  },
-  {
-    "videoId": "VTgJWG-z0qg",
-    "title": "money machine",
-    "artist": "100 gecs ,  Laura Les  &  Dylan Brady"
   },
   {
     "videoId": "-B2lKZJOvV4",
@@ -263,21 +621,6 @@
     "videoId": "5WHcMk-HEWo",
     "title": "Today... I Think I'll Dye My Hair!",
     "artist": "Dead Butterflies"
-  },
-  {
-    "videoId": "MjPITVyYlUE",
-    "title": "Ruin The Best Of Me",
-    "artist": "holder"
-  },
-  {
-    "videoId": "5VeolZ_PZqA",
-    "title": "thorns (single version)",
-    "artist": "Dead Butterflies"
-  },
-  {
-    "videoId": "5tb5PAlexaM",
-    "title": "Chico Sangria - Bonde Dos Viado Comunista (Lokizdead Remix)",
-    "artist": "Lokizdead  \u2022  69 views"
   },
   {
     "videoId": "iCQi_2bkhkU",
@@ -400,18 +743,8 @@
     "artist": "Bring Me The Horizon"
   },
   {
-    "videoId": "-z5D-QR8swE",
-    "title": "Stash Pot",
-    "artist": "Koopsta Knicca"
-  },
-  {
     "videoId": "ixoqSm28wUg",
     "title": "Famine Asylum",
-    "artist": "Nothing"
-  },
-  {
-    "videoId": "dDBFycj1TWo",
-    "title": "Vertigo Flowers",
     "artist": "Nothing"
   },
   {
@@ -475,16 +808,6 @@
     "artist": "Dead Butterflies  &  Aorta"
   },
   {
-    "videoId": "Ud-0t4Db5VU",
-    "title": "Wondering",
-    "artist": "Xiu Xiu"
-  },
-  {
-    "videoId": "F386OEURoC0",
-    "title": "Apistat Commander",
-    "artist": "Xiu Xiu"
-  },
-  {
     "videoId": "YKaEBl2c7ic",
     "title": "Do You Still See Me The Same?",
     "artist": "At a loss"
@@ -505,24 +828,9 @@
     "artist": "Gym Class Heroes"
   },
   {
-    "videoId": "w-C_6SeE4-w",
-    "title": "Day 'N' Nite (Nightmare)",
-    "artist": "Kid Cudi"
-  },
-  {
     "videoId": "5HZ7QBnMX34",
     "title": "Smack That (feat. Eminem)",
     "artist": "Akon"
-  },
-  {
-    "videoId": "7BlM4aPnf2k",
-    "title": "Kiss Me Thru The Phone (feat. Sammie)",
-    "artist": "Soulja Boy Tell'em"
-  },
-  {
-    "videoId": "USo0sAaJKR0",
-    "title": "Hotline Bling",
-    "artist": "Drake"
   },
   {
     "videoId": "aWkPBCF8rFU",
@@ -570,11 +878,6 @@
     "artist": "Katy Perry"
   },
   {
-    "videoId": "PLeajVOH6Hk",
-    "title": "Leaky Gore Anus Massacre",
-    "artist": "RUSTY LOBOTOMY"
-  },
-  {
     "videoId": "pSVbF6DGH9U",
     "title": "Around the World (La La La La La)",
     "artist": "A Touch of Class"
@@ -588,16 +891,6 @@
     "videoId": "_ydMlTassYc",
     "title": "Empire State Of Mind (feat. Alicia Keys)",
     "artist": "JA\u0178-Z"
-  },
-  {
-    "videoId": "2FXRJ-3EqU8",
-    "title": "Common Loon",
-    "artist": "Xiu Xiu"
-  },
-  {
-    "videoId": "JBD_kAN0qbs",
-    "title": "Crank Heart",
-    "artist": "Xiu Xiu"
   },
   {
     "videoId": "C-jAPrdc3PI",
@@ -623,11 +916,6 @@
     "videoId": "cEIFQiWOEHg",
     "title": "The Chuckler",
     "artist": "Protomartyr"
-  },
-  {
-    "videoId": "Mj6RLKnGWpM",
-    "title": "59D",
-    "artist": "d.silvestre ,  MC 4R ,  MC DENADAI  &  MC Carlos DG"
   },
   {
     "videoId": "1qBspV1sUfQ",
@@ -695,11 +983,6 @@
     "artist": "Free Throw"
   },
   {
-    "videoId": "WftssJYhtqA",
-    "title": "Two Beers In",
-    "artist": "Free Throw"
-  },
-  {
     "videoId": "EfNZXVg4yxU",
     "title": "Peace and Silence",
     "artist": "Hong Kong Fuck You"
@@ -715,11 +998,6 @@
     "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
-    "videoId": "5Z1-5wNjMgs",
-    "title": "Loser",
-    "artist": "Beck"
-  },
-  {
     "videoId": "RnIySIorrNs",
     "title": "44. My Spine! My Spine! My Spine!",
     "artist": "COMBAT WOUNDED VETERAN"
@@ -733,11 +1011,6 @@
     "videoId": "9DQaN4FDxys",
     "title": "MURDA THANG",
     "artist": "HOODMAFIA  &  DJ T-MANE"
-  },
-  {
-    "videoId": "Nen3X3-1TvU",
-    "title": "OVRTHRWN",
-    "artist": "Witch Mob Frost Guild"
   },
   {
     "videoId": "i4Wlt_A1EP0",
@@ -765,11 +1038,6 @@
     "artist": "Catalyst..."
   },
   {
-    "videoId": "sX0PeN8vqoA",
-    "title": "See You Tomorrow",
-    "artist": "Love Letter"
-  },
-  {
     "videoId": "rrnspa9Hywk",
     "title": "You'll Understand When You're Older",
     "artist": "Kaonashi"
@@ -795,238 +1063,8 @@
     "artist": "SeeYouSpaceCowboy"
   },
   {
-    "videoId": "odLfChIcyOE",
-    "title": "First Cut is the Deepest (One Way Dance)",
-    "artist": "holder"
-  },
-  {
     "videoId": "a6ZY-k0J5aY",
     "title": "Future Worth Dying For",
     "artist": "I Promised The World"
-  },
-  {
-    "videoId": "BUM3fqFd4MU",
-    "title": "Memories Last Longer",
-    "artist": "noragami"
-  },
-  {
-    "videoId": "ByAxrX4JhFU",
-    "title": "Come In",
-    "artist": "Weatherday"
-  },
-  {
-    "videoId": "MF2EWrxUpZw",
-    "title": "The Devil in His Youth",
-    "artist": "Protomartyr"
-  },
-  {
-    "videoId": "J5OR_PrP3sc",
-    "title": "Plane From Anchorage",
-    "artist": "my better half"
-  },
-  {
-    "videoId": "ToAmVphO06o",
-    "title": "Need 4 Speed",
-    "artist": "This Is Pointless"
-  },
-  {
-    "videoId": "jYHm4x9b_Fw",
-    "title": "So That's What They Do In College",
-    "artist": "This Is Pointless"
-  },
-  {
-    "videoId": "mu8VvZ6hUaM",
-    "title": "So That's What They Do in College",
-    "artist": "This Is Pointless"
-  },
-  {
-    "videoId": "W2UoW78C9J0",
-    "title": "Head in the Ceiling Fan",
-    "artist": "Title Fight"
-  },
-  {
-    "videoId": "jfPnAM9AMjk",
-    "title": "Snow",
-    "artist": "noragami"
-  },
-  {
-    "videoId": "WwTZgP88MwQ",
-    "title": "The End to a Brief Moment of Lasting Intimacy",
-    "artist": "SeeYouSpaceCowboy"
-  },
-  {
-    "videoId": "uYcEN9uJeeI",
-    "title": "daniels song",
-    "artist": "beforeyouleave"
-  },
-  {
-    "videoId": "A3uU1o0ZjNs",
-    "title": "Out The Window I Sang",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "U-3FJ7QKvQ0",
-    "title": "Open Road \u2297",
-    "artist": "Away With Words"
-  },
-  {
-    "videoId": "FdZ6cHEwdME",
-    "title": "synonymsforsad",
-    "artist": "sowithout."
-  },
-  {
-    "videoId": "zRUFVaX1i78",
-    "title": "nauticalstartattoo",
-    "artist": "sowithout."
-  },
-  {
-    "videoId": "EfQqKMgxgPw",
-    "title": "Maladapted",
-    "artist": "Hail the Sun  \u2022  455K views"
-  },
-  {
-    "videoId": "wLUhz-07pfA",
-    "title": "Relax / Divide",
-    "artist": "Hail The Sun"
-  },
-  {
-    "videoId": "JWqfZVynJLI",
-    "title": "Worst Party Ever",
-    "artist": "Worst Party Ever"
-  },
-  {
-    "videoId": "j_gdvf63crU",
-    "title": "Randy, I Am The Liquor",
-    "artist": "Free Throw"
-  },
-  {
-    "videoId": "OdjWhHC6yg0",
-    "title": "Suha",
-    "artist": "Xiu Xiu"
-  },
-  {
-    "videoId": "wEQA4-6muyE",
-    "title": "Tears on the Moon",
-    "artist": "I Promised The World"
-  },
-  {
-    "videoId": "PEBXYnm6D04",
-    "title": "hopefully alone",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "qaPs8WzAUjo",
-    "title": "Bliss In 7 Languages",
-    "artist": "I Promised The World"
-  },
-  {
-    "videoId": "CEVp_zWEyTI",
-    "title": "Backstabber",
-    "artist": "Dystopia"
-  },
-  {
-    "videoId": "5-CRmdOJ8gk",
-    "title": "Jane Is A Werewolf!",
-    "artist": "Told Not To Worry"
-  },
-  {
-    "videoId": "LOgcWHx_tgo",
-    "title": "I Hate Sports",
-    "artist": "I Hate Sex"
-  },
-  {
-    "videoId": "8M--eAdmwZw",
-    "title": "People Like You Make People Like Me Disappear",
-    "artist": "If I Die First"
-  },
-  {
-    "videoId": "EESM9bshKMY",
-    "title": "nauticalstartattoo",
-    "artist": "sowithout."
-  },
-  {
-    "videoId": "IKUhqPP_DwU",
-    "title": "empty promise",
-    "artist": "voluntaryviolence"
-  },
-  {
-    "videoId": "3bau2CgRg8E",
-    "title": "i hate you !",
-    "artist": "voluntaryviolence"
-  },
-  {
-    "videoId": "zMupng6KQeE",
-    "title": "A Certain Romance",
-    "artist": "Arctic Monkeys"
-  },
-  {
-    "videoId": "1m51XbfT_tw",
-    "title": "Crying Lightning",
-    "artist": "Arctic Monkeys"
-  },
-  {
-    "videoId": "gSdjztTxYgk",
-    "title": "Little Talks",
-    "artist": "Of Monsters and Men"
-  },
-  {
-    "videoId": "SWSz_PAfgNc",
-    "title": "Elephant Gun",
-    "artist": "Beirut  \u2022  40M views"
-  },
-  {
-    "videoId": "RJdp-2Y_vj4",
-    "title": "$UICIDEBOY$ ft. GHOSTEMANE - NIGHTMARE(Music Video)",
-    "artist": "SCARY MIND  \u2022  409K views"
-  },
-  {
-    "videoId": "Dcy25od869k",
-    "title": "I HUNG MYSELF FOR A PERSONA///NOW I'M UP TO MY NECK WITH OFFERS",
-    "artist": "$uicideboy$  \u2022  27M views"
-  },
-  {
-    "videoId": "ePsNhnMiT5o",
-    "title": "LUCKI - STOP THE ACT (PROD. CASH COBAIN)",
-    "artist": "Perfect Plug  \u2022  2.5M views"
-  },
-  {
-    "videoId": "Vmbi3KS0GrI",
-    "title": "why can't i be snowing?",
-    "artist": "Camping In Alaska"
-  },
-  {
-    "videoId": "_m3BDRgVxj4",
-    "title": "insight",
-    "artist": "Camping In Alaska"
-  },
-  {
-    "videoId": "MY3pwEq_Evk",
-    "title": "i just want to kickflip into the sunset and disappear",
-    "artist": "Camping In Alaska"
-  },
-  {
-    "videoId": "YYCgJ_kCHWY",
-    "title": "Self-Destruct",
-    "artist": "Origami Angel"
-  },
-  {
-    "videoId": "WAA3VZ4wHhQ",
-    "title": "im eating a chicken sandwich",
-    "artist": "empty parking lot"
-  },
-  {
-    "videoId": "q604eed4ad0",
-    "title": "BLKKK SKKKN HEAD",
-    "artist": "Kanye West  \u2022  79M views"
-  },
-  {
-    "videoId": "uU9Fe-WXew4",
-    "title": "On Sight",
-    "artist": "Kanye West"
-  },
-  {
-    "videoId": "vRoJeXgB5HE",
-    "title": "Perfect Pinterest Garden (Ninajirachi & underscores Remix)",
-    "artist": "Porter Robinson ,  Ninajirachi  &  underscores"
   }
 ]
