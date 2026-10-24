@@ -1,39 +1,63 @@
 [
   {
+    "videoId": "RdHx3nsSjSM",
+    "title": "Deep Blue",
+    "artist": "Chat Pile",
+    "timestamp": 1792812067
+  },
+  {
+    "videoId": "muWNaPHDhFY",
+    "title": "Home",
+    "artist": "Dim",
+    "timestamp": 1792811887
+  },
+  {
+    "videoId": "R68TYtVoHWo",
+    "title": "Shop Lift (remastered 2007)",
+    "artist": "Eyehategod",
+    "timestamp": 1792811707
+  },
+  {
+    "videoId": "xcof4_SAhL8",
+    "title": "Depress (remastered 2007)",
+    "artist": "Eyehategod",
+    "timestamp": 1792811527
+  },
+  {
+    "videoId": "6SH8sPpbUcs",
+    "title": "Chloroform",
+    "artist": "Nothing",
+    "timestamp": 1792811347
+  },
+  {
     "videoId": "TPXyEgvcQQ8",
     "title": "Chased Through the Woods by a Rapist",
-    "artist": "Waking The Cadaver",
-    "timestamp": 1792795864
+    "artist": "Waking The Cadaver"
   },
   {
     "videoId": "_rTwAeJo444",
     "title": "Color of Carnelian",
-    "artist": "Since My Beloved",
-    "timestamp": 1792795684
+    "artist": "Since My Beloved"
   },
   {
     "videoId": "ueVHO0ROEWM",
     "title": "My Heartache is Measured by the Acre",
-    "artist": "Since My Beloved",
-    "timestamp": 1792795504
+    "artist": "Since My Beloved"
   },
   {
     "videoId": "fwBVfwHVmWg",
     "title": "I'm Not Strange",
-    "artist": "Algae Bloom",
-    "timestamp": 1792795324
+    "artist": "Algae Bloom"
   },
   {
     "videoId": "-B2lKZJOvV4",
     "title": "brimstonehell,me",
-    "artist": "sowithout.",
-    "timestamp": 1792795144
+    "artist": "sowithout."
   },
   {
     "videoId": "-WvG-Z47S60",
     "title": "Frankie Teardrop (2019 - Remaster)",
-    "artist": "Suicide",
-    "timestamp": 1792794964
+    "artist": "Suicide"
   },
   {
     "videoId": "P0rxu_FuOeo",
@@ -203,7 +227,7 @@
   {
     "videoId": "Lr8Y1XG60nE",
     "title": "Hanatarash - Aidsadelic (1994) [FULL ALBUM]",
-    "artist": "Ross Orange 2  \u2022  182 views"
+    "artist": "Ross Orange 2  \u2022  188 views"
   },
   {
     "videoId": "OO_GFpi5WaY",
@@ -623,7 +647,7 @@
   {
     "videoId": "rof-iW3ncjs",
     "title": "CHRIST DILLINGER x Miss Bashful - I DO WHAT I WANT  (ROSALIEDU38) (MUSIC VIDEO)",
-    "artist": "CHRIST DILLINGER  \u2022  70K views"
+    "artist": "CHRIST DILLINGER  \u2022  71K views"
   },
   {
     "videoId": "5tb5PAlexaM",
@@ -831,16 +855,6 @@
     "artist": "The Body"
   },
   {
-    "videoId": "xcof4_SAhL8",
-    "title": "Depress (remastered 2007)",
-    "artist": "Eyehategod"
-  },
-  {
-    "videoId": "RdHx3nsSjSM",
-    "title": "Deep Blue",
-    "artist": "Chat Pile"
-  },
-  {
     "videoId": "AW5N0GcspZ4",
     "title": "Dallas Beltway",
     "artist": "Chat Pile"
@@ -989,20 +1003,5 @@
     "videoId": "4Hf-Jv6SU-4",
     "title": "Twelve-Spurt Somaticoperigeusia Kinemusculapathsaporrhagilysis",
     "artist": "Phyllomedusa"
-  },
-  {
-    "videoId": "aUt8PztBtlk",
-    "title": "Alderan Was An Inside Job",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "k1EKV6mTk-A",
-    "title": "My Hair Just Grew Three And A Half Inches",
-    "artist": "Oktober Skyline"
-  },
-  {
-    "videoId": "dJ1Wws-h1dE",
-    "title": "Yesterday By Beatles Or: Imagine By Yoko Ono As Sung By John Lennon",
-    "artist": "vs self"
   }
 ]
