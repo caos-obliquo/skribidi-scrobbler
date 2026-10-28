@@ -107,6 +107,43 @@ def extract_continuation(resp: dict) -> str | None:
     return next((c for c in found if c), None)
 
 
+VIEWS_BADGE_RE = re.compile(r"\s*•\s*[\d.,]+\s*[KM]?\s*views", re.IGNORECASE)
+
+
+def sanitize_track(track: dict) -> dict:
+    """Clean YouTube-search-row metadata leaking into YTM history.
+
+    Rows played from the plain YouTube app surface as
+    artist="Channel • 418K views" + title="Real Artist - Real Title".
+    Last.fm shows that verbatim (malformed scrobbles on caos_obliquo).
+    Rules:
+      1. strip the " • N views" badge from the artist;
+      2. badge present + title has " - "  -> title prefix is the real artist;
+      3. no badge + title starts with "{artist} - " -> drop the redundant prefix.
+    """
+    artist = (track.get("artist") or "").strip()
+    title = (track.get("title") or "").strip()
+    is_channel_row = bool(VIEWS_BADGE_RE.search(artist))
+    artist_clean = VIEWS_BADGE_RE.sub("", artist)
+    artist_clean = re.sub(r"\s{2,}", " ", artist_clean).strip()
+    if " - " in title:
+        first, rest = title.split(" - ", 1)
+        first, rest = first.strip(), rest.strip()
+        if not rest:
+            pass
+        elif is_channel_row:
+            title, artist_clean = rest, first
+        elif first.lower() == artist_clean.lower():
+            title = rest
+    track["artist"] = artist_clean or "Unknown Artist"
+    track["title"] = title
+    return track
+
+
+def sanitize_tracks(tracks: list[dict]) -> list[dict]:
+    return [sanitize_track(t) for t in tracks]
+
+
 def load_snapshot(path: str) -> list[dict]:
     if not os.path.exists(path):
         return []
@@ -205,7 +242,7 @@ def write_log(log_path: str, scrobbled: int, new_tracks: int) -> None:
 
 def main():
     try:
-        current = fetch_history(OAUTH_PATH)
+        current = sanitize_tracks(fetch_history(OAUTH_PATH))
         snapshot = load_snapshot(SNAPSHOT_PATH)
         backfill = os.environ.get("BACKFILL", "").lower() == "true"
 
