@@ -1,1202 +1,1014 @@
 [
   {
-    "videoId": "4G9IhRjV7P8",
-    "title": "gec 2 \u00dc (Remix) (feat. Dorian Electra)",
-    "artist": "100 gecs",
-    "timestamp": 1793480236
-  },
-  {
-    "videoId": "5XGaqjTKe20",
-    "title": "bloodstains",
-    "artist": "100 gecs",
-    "timestamp": 1793480056
-  },
-  {
-    "videoId": "n387OH0tN-o",
-    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx (Remix) (feat. Hannah Diamond & Tommy Cash)",
-    "artist": "100 gecs",
-    "timestamp": 1793479876
-  },
-  {
-    "videoId": "GwBwTiAluWY",
-    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793479696
-  },
-  {
-    "videoId": "kmU4-NVt4eg",
-    "title": "745 sticky",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793479516
-  },
-  {
-    "videoId": "B_6PePE_9nE",
-    "title": "toothless",
-    "artist": "100 gecs",
-    "timestamp": 1793479336
-  },
-  {
-    "videoId": "yIgiGai3D-c",
-    "title": "gec 2 \u00dc",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793479156
-  },
-  {
-    "videoId": "oqm7wN8-KBc",
-    "title": "Frog On The Floor",
-    "artist": "100 gecs",
-    "timestamp": 1793478976
-  },
-  {
-    "videoId": "b9tG-hielBw",
-    "title": "Billy Knows Jamie",
-    "artist": "100 gecs",
-    "timestamp": 1793478796
-  },
-  {
-    "videoId": "0Qy-dyeFXhM",
-    "title": "800 db cloud",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793478616
-  },
-  {
-    "videoId": "PNIPmBDlhP4",
-    "title": "The Most Wanted Person In The United States",
-    "artist": "100 gecs",
-    "timestamp": 1793478436
-  },
-  {
-    "videoId": "_jg8vs4jmfA",
-    "title": "ringtone",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793478256
-  },
-  {
-    "videoId": "ugOvPjtlnxs",
-    "title": "ringtone (Remix) (feat. Charli XCX, Kero Kero Bonito & Rico Nasty)",
-    "artist": "100 gecs",
-    "timestamp": 1793478076
-  },
-  {
     "videoId": "K6NZef1pKm4",
     "title": "hand crushed by a mallet (Remix) (feat. Fall Out Boy, Craig Owens & Nicole Dollanganger)",
     "artist": "100 gecs",
-    "timestamp": 1793477896
+    "timestamp": 1793493556
   },
   {
     "videoId": "ERZhTq6TGk4",
     "title": "Torture Me (feat. Skrillex)",
     "artist": "100 gecs",
-    "timestamp": 1793477716
+    "timestamp": 1793493376
   },
   {
     "videoId": "7sWKvCaMV-k",
     "title": "757",
     "artist": "100 gecs",
-    "timestamp": 1793477536
-  },
-  {
-    "videoId": "Izj_lF5i_X4",
-    "title": "mememe",
-    "artist": "100 gecs",
-    "timestamp": 1793477356
-  },
-  {
-    "videoId": "7pA2NRYGQEk",
-    "title": "Hollywood Baby",
-    "artist": "100 gecs",
-    "timestamp": 1793477176
+    "timestamp": 1793493196
   },
   {
     "videoId": "Bia7oTNjMh0",
     "title": "stupid horse",
     "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793476996
+    "timestamp": 1793493016
   },
   {
     "videoId": "sdvNT8Kkc_M",
     "title": "hand crushed by a mallet",
     "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793476816
+    "timestamp": 1793492836
+  },
+  {
+    "videoId": "Izj_lF5i_X4",
+    "title": "mememe",
+    "artist": "100 gecs",
+    "timestamp": 1793492656
+  },
+  {
+    "videoId": "7pA2NRYGQEk",
+    "title": "Hollywood Baby",
+    "artist": "100 gecs",
+    "timestamp": 1793492476
+  },
+  {
+    "videoId": "B_6PePE_9nE",
+    "title": "toothless",
+    "artist": "100 gecs",
+    "timestamp": 1793492296
+  },
+  {
+    "videoId": "yIgiGai3D-c",
+    "title": "gec 2 \u00dc",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793492116
+  },
+  {
+    "videoId": "b9tG-hielBw",
+    "title": "Billy Knows Jamie",
+    "artist": "100 gecs",
+    "timestamp": 1793491936
+  },
+  {
+    "videoId": "0Qy-dyeFXhM",
+    "title": "800 db cloud",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793491756
+  },
+  {
+    "videoId": "PNIPmBDlhP4",
+    "title": "The Most Wanted Person In The United States",
+    "artist": "100 gecs",
+    "timestamp": 1793491576
+  },
+  {
+    "videoId": "4G9IhRjV7P8",
+    "title": "gec 2 \u00dc (Remix) (feat. Dorian Electra)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "5XGaqjTKe20",
+    "title": "bloodstains",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "n387OH0tN-o",
+    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx (Remix) (feat. Hannah Diamond & Tommy Cash)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "GwBwTiAluWY",
+    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "kmU4-NVt4eg",
+    "title": "745 sticky",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "oqm7wN8-KBc",
+    "title": "Frog On The Floor",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "_jg8vs4jmfA",
+    "title": "ringtone",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "ugOvPjtlnxs",
+    "title": "ringtone (Remix) (feat. Charli XCX, Kero Kero Bonito & Rico Nasty)",
+    "artist": "100 gecs"
   },
   {
     "videoId": "i2Jqig0N3Uk",
     "title": "Doritos & Fritos",
-    "artist": "100 gecs",
-    "timestamp": 1793476636
+    "artist": "100 gecs"
   },
   {
     "videoId": "VTgJWG-z0qg",
     "title": "money machine",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793476456
+    "artist": "100 gecs , Laura Les & Dylan Brady"
   },
   {
     "videoId": "sPs1AZGDH1U",
     "title": "Super Bota\u00e7ao Extrema (feat. Mc Gw)",
-    "artist": "DJ Pablo RB , MC RN Original & DJ Ery",
-    "timestamp": 1793476276
+    "artist": "DJ Pablo RB , MC RN Original & DJ Ery"
   },
   {
     "videoId": "fjF2xt36Nfk",
     "title": "59D",
-    "artist": "MC DENADAI , MC 4R , MC CARLOS DG & d.silvestre",
-    "timestamp": 1793476096
+    "artist": "MC DENADAI , MC 4R , MC CARLOS DG & d.silvestre"
   },
   {
     "videoId": "uSi_NNw-VGM",
     "title": "Tuin Infarta Idosa",
-    "artist": "d.silvestre",
-    "timestamp": 1793475916
+    "artist": "d.silvestre"
   },
   {
     "videoId": "RvtXU54d8nY",
     "title": "Vem por Cima",
-    "artist": "d.silvestre , MC Du Red & Gabi Nunes",
-    "timestamp": 1793475736
+    "artist": "d.silvestre , MC Du Red & Gabi Nunes"
   },
   {
     "videoId": "JlPP1pM_r9g",
     "title": "Dona Brisa",
-    "artist": "d.silvestre , Mc Mulekinho & MC VITIN DA DZ7",
-    "timestamp": 1793475556
+    "artist": "d.silvestre , Mc Mulekinho & MC VITIN DA DZ7"
   },
   {
     "videoId": "Pq1Z2j1yyeI",
     "title": "Q Se F0Da O Crack (Faixa B\u00f4nus)",
-    "artist": "d.silvestre & MC DENADAI",
-    "timestamp": 1793475376
+    "artist": "d.silvestre & MC DENADAI"
   },
   {
     "videoId": "BDpuLgKR6SQ",
     "title": "NA ONDA DA BOLHA (d.silvestre Remix) (feat. mc dobella & Mc Gw)",
-    "artist": "petrus.wav , d.silvestre , Novin Yarp & Kevo",
-    "timestamp": 1793475196
+    "artist": "petrus.wav , d.silvestre , Novin Yarp & Kevo"
   },
   {
     "videoId": "c4O4oEm5kgE",
     "title": "Taka Fogo em Kiksilver",
-    "artist": "d.silvestre , MC MTOODIO , MC Lele 011 & Dj pablynh da 017",
-    "timestamp": 1793475016
+    "artist": "d.silvestre , MC MTOODIO , MC Lele 011 & Dj pablynh da 017"
   },
   {
     "videoId": "tTvfbbfeaa0",
     "title": "Vcs T\u00e3o Acabando Com o Funk (Diss pro Gi Panelas)",
-    "artist": "d.silvestre & MC DU RED",
-    "timestamp": 1793474836
+    "artist": "d.silvestre & MC DU RED"
   },
   {
     "videoId": "tYuironIfMs",
     "title": "Vessel \u2297",
-    "artist": "Away With Words",
-    "timestamp": 1793474656
+    "artist": "Away With Words"
   },
   {
     "videoId": "obmnJkpuCvw",
     "title": "Heaven Sent",
-    "artist": "away with words",
-    "timestamp": 1793474476
+    "artist": "away with words"
   },
   {
     "videoId": "cEIFQiWOEHg",
     "title": "The Chuckler",
-    "artist": "Protomartyr",
-    "timestamp": 1793474296
+    "artist": "Protomartyr"
   },
   {
     "videoId": "Yhh-5z0alJE",
     "title": "Bleach",
-    "artist": "away with words",
-    "timestamp": 1793474116
+    "artist": "away with words"
   },
   {
     "videoId": "uuDqa_WK38U",
     "title": "Grave Robbery",
-    "artist": "away with words",
-    "timestamp": 1793473936
+    "artist": "away with words"
   },
   {
     "videoId": "RoTn27M91x0",
     "title": "What To Think About Again",
-    "artist": "away with words",
-    "timestamp": 1793473756
+    "artist": "away with words"
   },
   {
     "videoId": "12qheaJAWvc",
     "title": "What a Douche!!!",
-    "artist": "Febuary",
-    "timestamp": 1793473576
+    "artist": "Febuary"
   },
   {
     "videoId": "Zoze5hOgMag",
     "title": "It's You",
-    "artist": "Dead Butterflies",
-    "timestamp": 1793473396
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "InHpSNEGuSE",
     "title": "Leave Everything",
-    "artist": "vs self",
-    "timestamp": 1793473216
+    "artist": "vs self"
   },
   {
     "videoId": "S65vT0UKM88",
     "title": "I Can\u2019t See Through The Mirror",
-    "artist": "I Promised The World",
-    "timestamp": 1793473036
+    "artist": "I Promised The World"
   },
   {
     "videoId": "s76voGNcte4",
     "title": "false sense of improvement",
-    "artist": "novely",
-    "timestamp": 1793472856
+    "artist": "novely"
   },
   {
     "videoId": "iMvLlKUpLU0",
     "title": "Drug Lord",
-    "artist": "William Bonney",
-    "timestamp": 1793472676
+    "artist": "William Bonney"
   },
   {
     "videoId": "Dj0rdxfh3ZI",
     "title": "Love Letter",
-    "artist": "Love Letter",
-    "timestamp": 1793472496
+    "artist": "Love Letter"
   },
   {
     "videoId": "Ps0zSZXCDPk",
     "title": "...And the Cat Turned to Smoke",
-    "artist": "Orchid",
-    "timestamp": 1793472316
+    "artist": "Orchid"
   },
   {
     "videoId": "RdHx3nsSjSM",
     "title": "Deep Blue",
-    "artist": "Chat Pile",
-    "timestamp": 1793472136
+    "artist": "Chat Pile"
   },
   {
     "videoId": "U5wZtfJ4KmY",
     "title": "They're Giving Out Freebees",
-    "artist": "In Angles",
-    "timestamp": 1793471956
+    "artist": "In Angles"
   },
   {
     "videoId": "Y7WJzvb3uus",
     "title": "Hope is a Dangerous Thing",
-    "artist": "Oakwood",
-    "timestamp": 1793471776
+    "artist": "Oakwood"
   },
   {
     "videoId": "JpEXITZmxds",
     "title": "When And Where A Real World Occurs",
-    "artist": "Youinseries",
-    "timestamp": 1793471596
+    "artist": "Youinseries"
   },
   {
     "videoId": "wLUhz-07pfA",
     "title": "Relax / Divide",
-    "artist": "Hail The Sun",
-    "timestamp": 1793471416
+    "artist": "Hail The Sun"
   },
   {
     "videoId": "jYHm4x9b_Fw",
     "title": "So That's What They Do In College",
-    "artist": "This Is Pointless",
-    "timestamp": 1793471236
+    "artist": "This Is Pointless"
   },
   {
     "videoId": "zRUFVaX1i78",
     "title": "nauticalstartattoo",
-    "artist": "sowithout.",
-    "timestamp": 1793471056
+    "artist": "sowithout."
   },
   {
     "videoId": "-B2lKZJOvV4",
     "title": "brimstonehell,me",
-    "artist": "sowithout.",
-    "timestamp": 1793470876
+    "artist": "sowithout."
   },
   {
     "videoId": "WnxYoYBhyWA",
     "title": "Do You Want",
-    "artist": "Lucki & Detas",
-    "timestamp": 1793470696
+    "artist": "Lucki & Detas"
   },
   {
     "videoId": "_kz-IIKtws0",
     "title": "Beneath",
-    "artist": "Meshuggah",
-    "timestamp": 1793470516
+    "artist": "Meshuggah"
   },
   {
     "videoId": "R9Pqs_MIjUY",
     "title": "The Romance of Affliction (feat. If I Die First)",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1793470336
+    "artist": "SeeYouSpaceCowboy"
   },
   {
     "videoId": "KpsBHYBA8JI",
     "title": "shed your skin like leaves on autumn trees",
-    "artist": "poorly wrote suicide note",
-    "timestamp": 1793470156
+    "artist": "poorly wrote suicide note"
   },
   {
     "videoId": "35dWg3oaees",
     "title": "Helsabot",
-    "artist": "Ten In the Swear Jar",
-    "timestamp": 1793469976
+    "artist": "Ten In the Swear Jar"
   },
   {
     "videoId": "NkYMGNq5PVE",
     "title": "My Tears Grew Meaning",
-    "artist": "when you found me.",
-    "timestamp": 1793469796
+    "artist": "when you found me."
   },
   {
     "videoId": "bIJ23RKWLrg",
     "title": "my love isn't a stapler",
-    "artist": "when you found me.",
-    "timestamp": 1793469616
+    "artist": "when you found me."
   },
   {
     "videoId": "TYlV6HtI1eo",
     "title": "flesheater love song",
-    "artist": "bright little stars",
-    "timestamp": 1793469436
+    "artist": "bright little stars"
   },
   {
     "videoId": "LrLAL6tBGS4",
     "title": "Metamorphosis",
-    "artist": "Your Arms Are My Cocoon",
-    "timestamp": 1793469256
+    "artist": "Your Arms Are My Cocoon"
   },
   {
     "videoId": "RRbnd7zGme8",
     "title": "bodies",
-    "artist": "Birds Fear Death",
-    "timestamp": 1793469076
+    "artist": "Birds Fear Death"
   },
   {
     "videoId": "ueVHO0ROEWM",
     "title": "My Heartache is Measured by the Acre",
-    "artist": "Since My Beloved",
-    "timestamp": 1793468896
+    "artist": "Since My Beloved"
   },
   {
     "videoId": "c_DmmMKT2z4",
     "title": "untitled #37",
-    "artist": "beforeyouleave",
-    "timestamp": 1793468716
+    "artist": "beforeyouleave"
   },
   {
     "videoId": "tk3XA0BnTiw",
     "title": "now the noisy winds are still",
-    "artist": "novely",
-    "timestamp": 1793468536
+    "artist": "novely"
   },
   {
     "videoId": "PEBXYnm6D04",
     "title": "hopefully alone",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1793468356
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "9ErNZNIzLV8",
     "title": "Ravenous, Ravenous Rhinos",
-    "artist": "I Set My Friends On Fire",
-    "timestamp": 1793468176
+    "artist": "I Set My Friends On Fire"
   },
   {
     "videoId": "sqipjnuTnVU",
     "title": "Caveman Vs. Bigfoot",
-    "artist": "Caveman Attack",
-    "timestamp": 1793467996
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "E-yqx75OXE0",
     "title": "A Match Into Water",
-    "artist": "Pierce The Veil",
-    "timestamp": 1793467816
+    "artist": "Pierce The Veil"
   },
   {
     "videoId": "2j8CGtwFM48",
     "title": "Time Moves Faster When You're Dancing In A Graveyard",
-    "artist": "If I Die First",
-    "timestamp": 1793467636
+    "artist": "If I Die First"
   },
   {
     "videoId": "HzKis0Jkn7Q",
     "title": "Five",
-    "artist": "holder",
-    "timestamp": 1793467456
+    "artist": "holder"
   },
   {
     "videoId": "8diKz51xsNY",
     "title": "Modernizing the Myth of Sisyphus",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1793467276
+    "artist": "SeeYouSpaceCowboy"
   },
   {
     "videoId": "8M--eAdmwZw",
     "title": "People Like You Make People Like Me Disappear",
-    "artist": "If I Die First",
-    "timestamp": 1793467096
+    "artist": "If I Die First"
   },
   {
     "videoId": "8-YLblyQitk",
     "title": "Yesterday\u2019s Apology",
-    "artist": "Catalyst...",
-    "timestamp": 1793466916
+    "artist": "Catalyst..."
   },
   {
     "videoId": "eBnjbXCkDYc",
     "title": "these open wounds",
-    "artist": "body shirt",
-    "timestamp": 1793466736
+    "artist": "body shirt"
   },
   {
     "videoId": "VEiFrxkiHT4",
     "title": "bye, i love you.",
-    "artist": "lessthannothing",
-    "timestamp": 1793466556
+    "artist": "lessthannothing"
   },
   {
     "videoId": "2g4TDvG2Mow",
     "title": "Homemade Bread",
-    "artist": "Dead Butterflies",
-    "timestamp": 1793466376
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "kgP3q581c2k",
     "title": "Weather to Believe",
-    "artist": "I Promised The World",
-    "timestamp": 1793466196
+    "artist": "I Promised The World"
   },
   {
     "videoId": "KtMEHI5i8oY",
     "title": "Absence",
-    "artist": "novely",
-    "timestamp": 1793466016
+    "artist": "novely"
   },
   {
     "videoId": "xCI483RiBzU",
     "title": "watching a car crash and feeling your head trauma",
-    "artist": "seahorsechoke",
-    "timestamp": 1793465836
+    "artist": "seahorsechoke"
   },
   {
     "videoId": "kSXcaFQwVDU",
     "title": "oh no ! here comes the sad part",
-    "artist": "novely",
-    "timestamp": 1793465656
+    "artist": "novely"
   },
   {
     "videoId": "oW5qB7WfYEs",
     "title": "27",
-    "artist": "Title Fight",
-    "timestamp": 1793465476
+    "artist": "Title Fight"
   },
   {
     "videoId": "SGY2EgVeqrU",
     "title": "hemingways love song (one more time)",
-    "artist": "beforeyouleave",
-    "timestamp": 1793465296
+    "artist": "beforeyouleave"
   },
   {
     "videoId": "oFoOna4UT0s",
     "title": "Poison Thoughts",
-    "artist": "Catalyst...",
-    "timestamp": 1793465116
+    "artist": "Catalyst..."
   },
   {
     "videoId": "B5B--u4DozE",
     "title": "The Longer I Stay Here",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1793464936
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "7sixZ5Spsms",
     "title": "With Arms That Bind and Lips That Lock",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1793464756
+    "artist": "SeeYouSpaceCowboy"
   },
   {
     "videoId": "EbfK7dei7ec",
     "title": "Betrayed",
-    "artist": "Lil Xan",
-    "timestamp": 1793464576
+    "artist": "Lil Xan"
   },
   {
     "videoId": "fePnUenEZPk",
     "title": "beamer boy",
-    "artist": "Lil Peep & Nedarb",
-    "timestamp": 1793464396
+    "artist": "Lil Peep & Nedarb"
   },
   {
     "videoId": "XMZG6Gu_gzI",
     "title": "Frailty",
-    "artist": "ZillaKami",
-    "timestamp": 1793464216
+    "artist": "ZillaKami"
   },
   {
     "videoId": "FiUOdmKbuKE",
     "title": "Country shi+ PT2",
-    "artist": "Fatboibari",
-    "timestamp": 1793464036
+    "artist": "Fatboibari"
   },
   {
     "videoId": "PF58KaZxSbA",
     "title": "JOAN OF ARC (LYRICS)",
-    "artist": "NIGHT LOVELL X $UICIDEBOY$",
-    "timestamp": 1793463856
+    "artist": "NIGHT LOVELL X $UICIDEBOY$"
   },
   {
     "videoId": "heJNHYCSsIc",
     "title": "Gym Class",
-    "artist": "Lil Peep",
-    "timestamp": 1793463676
+    "artist": "Lil Peep"
   },
   {
     "videoId": "K6DkiD9rBJM",
     "title": "Falling 4 Me (LYRICS)",
-    "artist": "Lil Peep",
-    "timestamp": 1793463496
+    "artist": "Lil Peep"
   },
   {
     "videoId": "d0BwECP-MSw",
     "title": "12.28",
-    "artist": "Catalyst...",
-    "timestamp": 1793463316
+    "artist": "Catalyst..."
   },
   {
     "videoId": "q2U_FlgKu9c",
     "title": "i opened two gifts this morning, they were my eyes, thank you lord",
-    "artist": "beforeyouleave",
-    "timestamp": 1793463136
+    "artist": "beforeyouleave"
   },
   {
     "videoId": "odLfChIcyOE",
     "title": "First Cut is the Deepest (One Way Dance)",
-    "artist": "holder",
-    "timestamp": 1793462956
+    "artist": "holder"
   },
   {
     "videoId": "9AHDqMwfp8k",
     "title": "suicidiosuicidio",
-    "artist": "suicidio ideologico",
-    "timestamp": 1793462776
+    "artist": "suicidio ideologico"
   },
   {
     "videoId": "nofC7Gefo1Q",
     "title": "Usurpadora",
-    "artist": "Cine",
-    "timestamp": 1793462596
+    "artist": "Cine"
   },
   {
     "videoId": "MyWFGvR2Gsg",
     "title": "Hell Above",
-    "artist": "Pierce The Veil",
-    "timestamp": 1793462416
+    "artist": "Pierce The Veil"
   },
   {
     "videoId": "FKXRD7GOzZo",
     "title": "If You Can't Hang",
-    "artist": "Sleeping With Sirens",
-    "timestamp": 1793462236
+    "artist": "Sleeping With Sirens"
   },
   {
     "videoId": "tIT0P9StIek",
     "title": "Falling in Love Again",
-    "artist": "Joyce Manor",
-    "timestamp": 1793462056
+    "artist": "Joyce Manor"
   },
   {
     "videoId": "Z1Juff1FL9w",
     "title": "I Know Where Mark Chen Lives",
-    "artist": "Joyce Manor",
-    "timestamp": 1793461876
+    "artist": "Joyce Manor"
   },
   {
     "videoId": "yAaV7lqKg7Q",
     "title": "I Used To Go To This Bar",
-    "artist": "Joyce Manor",
-    "timestamp": 1793461696
+    "artist": "Joyce Manor"
   },
   {
     "videoId": "8SvJXSyPNXs",
     "title": "King For A Day (feat. Kellin Quinn)",
-    "artist": "Pierce The Veil",
-    "timestamp": 1793461516
+    "artist": "Pierce The Veil"
   },
   {
     "videoId": "wyYR1DxKKJ4",
     "title": "Constant Headache",
-    "artist": "Joyce Manor",
-    "timestamp": 1793461336
+    "artist": "Joyce Manor"
   },
   {
     "videoId": "hZuSjDUjL3I",
     "title": "Spiderwebs",
-    "artist": "away with words",
-    "timestamp": 1793461156
+    "artist": "away with words"
   },
   {
     "videoId": "BfvReaGfWu0",
     "title": "Ride on Dat Hoe (Outro)",
-    "artist": "Evil Pimp",
-    "timestamp": 1793460976
+    "artist": "Evil Pimp"
   },
   {
     "videoId": "g9REbRgYbB4",
     "title": "Front Page (feat. Slyye)",
-    "artist": "Isvvc",
-    "timestamp": 1793460796
+    "artist": "Isvvc"
   },
   {
     "videoId": "CSN4EzGI1rk",
     "title": "Demons In My Soul (REMASTERED)",
-    "artist": "Lil Gin",
-    "timestamp": 1793460616
+    "artist": "Lil Gin"
   },
   {
     "videoId": "CUQoiq8C3H4",
     "title": "Sweet Robbery",
-    "artist": "Three-6 Mafia",
-    "timestamp": 1793460436
+    "artist": "Three-6 Mafia"
   },
   {
     "videoId": "zGi4hpb21LE",
     "title": "Snake",
-    "artist": "Freddie Dredd",
-    "timestamp": 1793460256
+    "artist": "Freddie Dredd"
   },
   {
     "videoId": "g-YSoT0uNB8",
     "title": "Time To Hit Da Door Hoe",
-    "artist": "Koopsta Knicca",
-    "timestamp": 1793460076
+    "artist": "Koopsta Knicca"
   },
   {
     "videoId": "-z5D-QR8swE",
     "title": "Stash Pot",
-    "artist": "Koopsta Knicca",
-    "timestamp": 1793459896
+    "artist": "Koopsta Knicca"
   },
   {
     "videoId": "2NYzebJfeiI",
     "title": "how to kill yourself painlessly and instantly",
-    "artist": "Birds Fear Death",
-    "timestamp": 1793459716
+    "artist": "Birds Fear Death"
   },
   {
     "videoId": "qEdyEaZiMBM",
     "title": "pretty girl snuff film",
-    "artist": "Birds Fear Death",
-    "timestamp": 1793459536
+    "artist": "Birds Fear Death"
   },
   {
     "videoId": "1FDBkzCJ-2w",
     "title": "Bula Bitch!",
-    "artist": "Phyllomedusa",
-    "timestamp": 1793459356
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "SHg0MDA7oBc",
     "title": "Killing for Sport",
-    "artist": "Esophagus",
-    "timestamp": 1793459176
+    "artist": "Esophagus"
   },
   {
     "videoId": "5MQ9hApC_Dk",
     "title": "Protected the Fire",
-    "artist": "Caveman Attack",
-    "timestamp": 1793458996
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "qFhChudMvMk",
     "title": "Brutal Noisegore Session",
-    "artist": "Bixera",
-    "timestamp": 1793458816
+    "artist": "Bixera"
   },
   {
     "videoId": "YSXx4yBPoxk",
     "title": "Do You Love Mincecore?",
-    "artist": "Haggus",
-    "timestamp": 1793458636
+    "artist": "Haggus"
   },
   {
     "videoId": "pVInBRkoKgY",
     "title": "GONE, GONE / THANK YOU",
-    "artist": "Tyler, The Creator",
-    "timestamp": 1793458456
+    "artist": "Tyler, The Creator"
   },
   {
     "videoId": "F9WkIObFYWk",
     "title": "Seven",
-    "artist": "Tyler the Creator",
-    "timestamp": 1793458276
+    "artist": "Tyler the Creator"
   },
   {
     "videoId": "I98_o7LFvC0",
     "title": "Bastard",
-    "artist": "Tyler the Creator",
-    "timestamp": 1793458096
+    "artist": "Tyler the Creator"
   },
   {
     "videoId": "USo0sAaJKR0",
     "title": "Hotline Bling",
-    "artist": "Drake",
-    "timestamp": 1793457916
+    "artist": "Drake"
   },
   {
     "videoId": "_C2yFpaSrcM",
     "title": "Primordial Slaughter",
-    "artist": "Caveman Attack",
-    "timestamp": 1793457736
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "3IzDIVXR2o4",
     "title": "Pleistocene Pulverizer",
-    "artist": "Caveman Attack",
-    "timestamp": 1793457556
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "j3PcpKwQEVM",
     "title": "Cave Conqueror",
-    "artist": "Caveman Attack",
-    "timestamp": 1793457376
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "KtHATeDKMUU",
     "title": "Megalithic Bonecrusher",
-    "artist": "Caveman Attack",
-    "timestamp": 1793457196
+    "artist": "Caveman Attack"
   },
   {
     "videoId": "CsP25AtT8FQ",
     "title": "Crank That",
-    "artist": "I Set My Friends On Fire",
-    "timestamp": 1793457016
+    "artist": "I Set My Friends On Fire"
   },
   {
     "videoId": "THuWIN6jLH4",
     "title": "Things That Rhyme With Orange",
-    "artist": "I Set My Friends On Fire",
-    "timestamp": 1793456836
+    "artist": "I Set My Friends On Fire"
   },
   {
     "videoId": "ACa9congGPk",
     "title": "Wake",
-    "artist": "The Antlers",
-    "timestamp": 1793456656
+    "artist": "The Antlers"
   },
   {
     "videoId": "xkfNufykZ0M",
     "title": "Shiva",
-    "artist": "The Antlers",
-    "timestamp": 1793456476
+    "artist": "The Antlers"
   },
   {
     "videoId": "jEA-jqweCeI",
     "title": "Two",
-    "artist": "The Antlers",
-    "timestamp": 1793456296
+    "artist": "The Antlers"
   },
   {
     "videoId": "V_2NjU6GoXE",
     "title": "Thirteen",
-    "artist": "The Antlers",
-    "timestamp": 1793456116
+    "artist": "The Antlers"
   },
   {
     "videoId": "P25WT3-cxG0",
     "title": "Bear",
-    "artist": "The Antlers",
-    "timestamp": 1793455936
+    "artist": "The Antlers"
   },
   {
     "videoId": "TBPgA9-UwG8",
     "title": "Atrophy",
-    "artist": "The Antlers",
-    "timestamp": 1793455756
+    "artist": "The Antlers"
   },
   {
     "videoId": "ckdTCmpnJks",
     "title": "Sylvia",
-    "artist": "The Antlers",
-    "timestamp": 1793455576
+    "artist": "The Antlers"
   },
   {
     "videoId": "5Z1-5wNjMgs",
     "title": "Loser",
-    "artist": "Beck",
-    "timestamp": 1793455396
+    "artist": "Beck"
   },
   {
     "videoId": "pl6U_jTAqvk",
     "title": "Slow Dance (2026 Repented)",
-    "artist": "Bring Me The Horizon",
-    "timestamp": 1793455216
+    "artist": "Bring Me The Horizon"
   },
   {
     "videoId": "VKWkYBpGh_I",
     "title": "Drown",
-    "artist": "Bring Me The Horizon",
-    "timestamp": 1793455036
+    "artist": "Bring Me The Horizon"
   },
   {
     "videoId": "sX0PeN8vqoA",
     "title": "See You Tomorrow",
-    "artist": "Love Letter",
-    "timestamp": 1793454856
+    "artist": "Love Letter"
   },
   {
     "videoId": "r7B5_qKdEEI",
     "title": "so far all i can see for miles are the same 4 walls",
-    "artist": "Thank You, Agamemnon",
-    "timestamp": 1793454676
+    "artist": "Thank You, Agamemnon"
   },
   {
     "videoId": "XEFmqP34WSs",
     "title": "you betrayed the ones you loved",
-    "artist": "Blind Equation",
-    "timestamp": 1793454496
+    "artist": "Blind Equation"
   },
   {
     "videoId": "hpF8PDGsDxc",
     "title": "End of Everything (EOE)",
-    "artist": "godfuck",
-    "timestamp": 1793454316
+    "artist": "godfuck"
   },
   {
     "videoId": "XBOK8EpLmaM",
     "title": "Transitional Bird (Clever Girl)",
-    "artist": "Candy Claws",
-    "timestamp": 1793454136
+    "artist": "Candy Claws"
   },
   {
     "videoId": "ZrP-yGPZSmU",
     "title": "Into the Deep Time (One Sun)",
-    "artist": "Candy Claws",
-    "timestamp": 1793453956
+    "artist": "Candy Claws"
   },
   {
     "videoId": "kVjPMnr3kt0",
     "title": "I'm Still Cheering For The 1980 U.S. Hockey Team",
-    "artist": "Oakwood",
-    "timestamp": 1793453776
+    "artist": "Oakwood"
   },
   {
     "videoId": "wEQA4-6muyE",
     "title": "Tears on the Moon",
-    "artist": "I Promised The World",
-    "timestamp": 1793453596
+    "artist": "I Promised The World"
   },
   {
     "videoId": "QG2osTixeDQ",
     "title": "SUPERFUTURE\u00a0\u2297",
-    "artist": "Away With Words",
-    "timestamp": 1793453416
+    "artist": "Away With Words"
   },
   {
     "videoId": "JcFoD2srjPc",
     "title": "hermosa, the only one i love",
-    "artist": "seahorsechoke",
-    "timestamp": 1793453236
+    "artist": "seahorsechoke"
   },
   {
     "videoId": "HzNFBPfaLnI",
     "title": "starfall on our lonely planet",
-    "artist": "Dead Butterflies",
-    "timestamp": 1793453056
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "XlppZKMYNys",
     "title": "Such Small Hands",
-    "artist": "La Dispute",
-    "timestamp": 1793452876
+    "artist": "La Dispute"
   },
   {
     "videoId": "5VeolZ_PZqA",
     "title": "thorns (single version)",
-    "artist": "Dead Butterflies",
-    "timestamp": 1793452696
+    "artist": "Dead Butterflies"
   },
   {
     "videoId": "Ca2dRzlEkA0",
     "title": "only yours",
-    "artist": "Sherane",
-    "timestamp": 1793452516
+    "artist": "Sherane"
   },
   {
     "videoId": "VnW6Z7zLHPA",
     "title": "Reminders of Hell",
-    "artist": "Suicide Silence",
-    "timestamp": 1793452336
+    "artist": "Suicide Silence"
   },
   {
     "videoId": "Ci4yfmL79pw",
     "title": "I Would Have Told You",
-    "artist": "Fallweather",
-    "timestamp": 1793452156
+    "artist": "Fallweather"
   },
   {
     "videoId": "52BK9KEUHAQ",
     "title": "Contempt of Cop",
-    "artist": "Sunami",
-    "timestamp": 1793451976
+    "artist": "Sunami"
   },
   {
     "videoId": "YFetNgmaaWc",
     "title": "extinction",
-    "artist": "Catalyst...",
-    "timestamp": 1793451796
+    "artist": "Catalyst..."
   },
   {
     "videoId": "PnylKNwblpw",
     "title": "Swamped",
-    "artist": "Gaijin",
-    "timestamp": 1793451616
+    "artist": "Gaijin"
   },
   {
     "videoId": "DURabPPzGeo",
     "title": "Swan Dive",
-    "artist": "If I Die First & Lil Tracy",
-    "timestamp": 1793451436
+    "artist": "If I Die First & Lil Tracy"
   },
   {
     "videoId": "z4gfSjKcYzs",
     "title": "Slow Dance Tune For Abigail",
-    "artist": "Febuary",
-    "timestamp": 1793451256
+    "artist": "Febuary"
   },
   {
     "videoId": "uBy4DIyKvlA",
     "title": "Beauty Is In The Eyes Of The Beerholder",
-    "artist": "I Set My Friends On Fire",
-    "timestamp": 1793451076
+    "artist": "I Set My Friends On Fire"
   },
   {
     "videoId": "0BOwCp0X79g",
     "title": "Hate One An Otter",
-    "artist": "Newgrounds Death Rugby",
-    "timestamp": 1793450896
+    "artist": "Newgrounds Death Rugby"
   },
   {
     "videoId": "F2T84QsvKxs",
     "title": "Burn, Pine, Die, Perish",
-    "artist": "Love Letter",
-    "timestamp": 1793450716
+    "artist": "Love Letter"
   },
   {
     "videoId": "L_MTFNvW3Y4",
     "title": "Life as a Soap Opera Plot, 26 Years Running (feat. Keith Buckley)",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1793450536
+    "artist": "SeeYouSpaceCowboy"
   },
   {
     "videoId": "4gRtejHTopE",
     "title": "02",
-    "artist": "I Promised The World",
-    "timestamp": 1793450356
+    "artist": "I Promised The World"
   },
   {
     "videoId": "oRp40BHhVTk",
     "title": "A New Tomorrow",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1793450176
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "O-oloUBKh1I",
     "title": "What's Fucking Left?",
-    "artist": "Haggus",
-    "timestamp": 1793449996
+    "artist": "Haggus"
   },
   {
     "videoId": "ZBELmi9Fs0g",
     "title": "Oodles of Flexibility in My Ability (Leptobrachella Damingshanensis)",
-    "artist": "Phyllomedusa",
-    "timestamp": 1793449816
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "a7OjzYpRylQ",
     "title": "Cosmetic Plague",
-    "artist": "Dystopia",
-    "timestamp": 1793449636
+    "artist": "Dystopia"
   },
   {
     "videoId": "_W_N7Pjpbpw",
     "title": "Self-Inflicted Mental Terror",
-    "artist": "Gulch",
-    "timestamp": 1793449456
+    "artist": "Gulch"
   },
   {
     "videoId": "vEobShjr7TU",
     "title": "Malignant Boomer",
-    "artist": "Haggus",
-    "timestamp": 1793449276
+    "artist": "Haggus"
   },
   {
     "videoId": "WV5QQkH9tGU",
     "title": "Midnight Puker",
-    "artist": "Haggus",
-    "timestamp": 1793449096
+    "artist": "Haggus"
   },
   {
     "videoId": "EAxWUmbzFV4",
     "title": "They Live",
-    "artist": "Dystopia",
-    "timestamp": 1793448916
+    "artist": "Dystopia"
   },
   {
     "videoId": "jqBiyErY1fg",
     "title": "peach rings are so yummy :p my inability to trust others has forced me into intense isolation rivaling solitary confinement",
-    "artist": "beforeyouleave",
-    "timestamp": 1793448736
+    "artist": "beforeyouleave"
   },
   {
     "videoId": "RFHvJb3lObk",
     "title": "Snow Delay at the Frankfurt School",
-    "artist": "Orchid",
-    "timestamp": 1793448556
+    "artist": "Orchid"
   },
   {
     "videoId": "-jFQV-bMPeU",
     "title": "A La Mierda",
-    "artist": "Hong Kong Fuck You",
-    "timestamp": 1793448376
+    "artist": "Hong Kong Fuck You"
   },
   {
     "videoId": "CwGfkFr2kxM",
     "title": "coping is draining",
-    "artist": "Phyllomedusa",
-    "timestamp": 1793448196
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "oaJCxFZHhi0",
     "title": "blessyrsweetlittleheart!",
-    "artist": "flowersforpersephone",
-    "timestamp": 1793448016
+    "artist": "flowersforpersephone"
   },
   {
     "videoId": "hsCO4M5nXi4",
     "title": "Lie, Deny, Sanctify",
-    "artist": "Gulch",
-    "timestamp": 1793447836
+    "artist": "Gulch"
   },
   {
     "videoId": "l_3F-c9VPpU",
     "title": "Mind Your Business",
-    "artist": "Sunami",
-    "timestamp": 1793447656
+    "artist": "Sunami"
   },
   {
     "videoId": "CEGlYtRYo8k",
     "title": "March",
-    "artist": "Cloud Rat",
-    "timestamp": 1793447476
+    "artist": "Cloud Rat"
   },
   {
     "videoId": "GxieobI78Kg",
     "title": "I'm Fucking Bulletproof!!!",
-    "artist": "Febuary",
-    "timestamp": 1793447296
+    "artist": "Febuary"
   },
   {
     "videoId": "NL0Y778TVj4",
     "title": "No One to Blame",
-    "artist": "Disrupt",
-    "timestamp": 1793447116
+    "artist": "Disrupt"
   },
   {
     "videoId": "aUXpAEwOYyY",
     "title": "Fathers Gun",
-    "artist": "Dystopia",
-    "timestamp": 1793446936
+    "artist": "Dystopia"
   },
   {
     "videoId": "CEVp_zWEyTI",
     "title": "Backstabber",
-    "artist": "Dystopia",
-    "timestamp": 1793446756
+    "artist": "Dystopia"
   },
   {
     "videoId": "ggiID5P4wrw",
     "title": "Blood Splattered Satisfaction (Demo 2006)",
-    "artist": "Waking The Cadaver",
-    "timestamp": 1793446576
+    "artist": "Waking The Cadaver"
   },
   {
     "videoId": "xXyZZJisP94",
     "title": "Been There, Mutilated That",
-    "artist": "Rev3rent",
-    "timestamp": 1793446396
+    "artist": "Rev3rent"
   },
   {
     "videoId": "dWoQyC8_WtM",
     "title": "Unanswered",
-    "artist": "Suicide Silence",
-    "timestamp": 1793446216
+    "artist": "Suicide Silence"
   },
   {
     "videoId": "I1P-pZGQdS0",
     "title": "Y.S.A.B.",
-    "artist": "Sunami",
-    "timestamp": 1793446036
+    "artist": "Sunami"
   },
   {
     "videoId": "eR11sbtmisM",
     "title": "Decapitation Fornication",
-    "artist": "Infant Annihilator",
-    "timestamp": 1793445856
+    "artist": "Infant Annihilator"
   },
   {
     "videoId": "I83DeDvLfMg",
     "title": "malice in my flow",
-    "artist": "Phyllomedusa",
-    "timestamp": 1793445676
+    "artist": "Phyllomedusa"
   },
   {
     "videoId": "TPXyEgvcQQ8",
     "title": "Chased Through the Woods by a Rapist",
-    "artist": "Waking The Cadaver",
-    "timestamp": 1793445496
+    "artist": "Waking The Cadaver"
   },
   {
     "videoId": "mLv9GsT3P2s",
     "title": "Make Your Exit",
-    "artist": "Suicide Silence",
-    "timestamp": 1793445316
+    "artist": "Suicide Silence"
   },
   {
     "videoId": "i9pJxv41KHc",
     "title": "Don't Just Stand There",
-    "artist": "I Promised The World",
-    "timestamp": 1793445136
+    "artist": "I Promised The World"
   },
   {
     "videoId": "J4PP1T8WXpE",
     "title": "your parents should've sent you to catholic school",
-    "artist": "flowersforpersephone",
-    "timestamp": 1793444956
+    "artist": "flowersforpersephone"
   },
   {
     "videoId": "t8PQoNDZgM8",
     "title": "In her Silence",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1793444776
+    "artist": "septemberistheonlytimeidontthinkofyou"
   },
   {
     "videoId": "b5ozf1bSmDs",
     "title": "Ouroboros as an Overused Metaphor",
-    "artist": "SeeYouSpaceCowboy",
-    "timestamp": 1793444596
+    "artist": "SeeYouSpaceCowboy"
   },
   {
     "videoId": "9Oel7y23GcE",
     "title": "Punk Girl At The Rock Show",
-    "artist": "Told Not To Worry",
-    "timestamp": 1793444416
+    "artist": "Told Not To Worry"
   }
 ]
