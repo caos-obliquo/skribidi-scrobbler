@@ -1,297 +1,666 @@
 [
   {
-    "videoId": "3A6fJMolb2I",
-    "title": "The Comforts You Seek Before and After Sleep",
-    "artist": "Thisishowitendedintoyko",
-    "timestamp": 1793833881
-  },
-  {
-    "videoId": "XPe70F6L0Bs",
-    "title": "Snowboarding in Colorado",
-    "artist": "cicadahead",
-    "timestamp": 1793833701
-  },
-  {
-    "videoId": "RCys767eaNc",
-    "title": "Everyone Asked About You",
-    "artist": "Everyone Asked About You",
-    "timestamp": 1793833521
-  },
-  {
-    "videoId": "JWqfZVynJLI",
-    "title": "Worst Party Ever",
-    "artist": "Worst Party Ever",
-    "timestamp": 1793833341
-  },
-  {
-    "videoId": "cF74pR-oO9E",
-    "title": "Holy Water",
-    "artist": "Worst Party Ever",
-    "timestamp": 1793833161
-  },
-  {
-    "videoId": "Dj0rdxfh3ZI",
-    "title": "Love Letter",
-    "artist": "Love Letter",
-    "timestamp": 1793832981
-  },
-  {
-    "videoId": "yIgiGai3D-c",
-    "title": "gec 2 \u00dc",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793832801
-  },
-  {
-    "videoId": "sdvNT8Kkc_M",
-    "title": "hand crushed by a mallet",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793832621
-  },
-  {
-    "videoId": "gRZxZYfkprc",
-    "title": "745 sticky (Injury Reserve Remix)",
-    "artist": "100 gecs",
-    "timestamp": 1793832441
-  },
-  {
-    "videoId": "Ke9DSq-rJJQ",
-    "title": "ringtone (Remix) (feat. Charli xcx, Rico Nasty & Kero Kero Bonito)",
-    "artist": "100 gecs",
-    "timestamp": 1793832261
-  },
-  {
-    "videoId": "K6NZef1pKm4",
-    "title": "hand crushed by a mallet (Remix) (feat. Fall Out Boy, Craig Owens & Nicole Dollanganger)",
-    "artist": "100 gecs",
-    "timestamp": 1793832081
-  },
-  {
-    "videoId": "4otZsZ0IwVE",
-    "title": "hand crushed by a mallet (N0thanky0u Remix)",
-    "artist": "100 gecs",
-    "timestamp": 1793831901
-  },
-  {
-    "videoId": "PtqiWsgd9sQ",
-    "title": "dogs",
-    "artist": "nouns",
-    "timestamp": 1793831721
-  },
-  {
-    "videoId": "fSPqew6s6PA",
-    "title": "came to my show",
-    "artist": "100 gecs",
-    "timestamp": 1793831541
-  },
-  {
-    "videoId": "Vwt0ojrQh08",
-    "title": "gecgecgec",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793831361
-  },
-  {
-    "videoId": "_jg8vs4jmfA",
-    "title": "ringtone",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793831181
-  },
-  {
-    "videoId": "GwBwTiAluWY",
-    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793831001
-  },
-  {
-    "videoId": "Bia7oTNjMh0",
-    "title": "stupid horse",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793830821
-  },
-  {
-    "videoId": "XpZx31vW6C0",
-    "title": "stupid horse (Remix) (feat. Count Baldor & GFOTY)",
-    "artist": "100 gecs",
-    "timestamp": 1793830641
-  },
-  {
-    "videoId": "LseJIsQ62WQ",
-    "title": "movinglikeazombie",
-    "artist": "ericdoa",
-    "timestamp": 1793830461
-  },
-  {
-    "videoId": "O1kTTOdHgC4",
-    "title": "745 sticky (Black Dresses Remix)",
-    "artist": "100 gecs",
-    "timestamp": 1793830281
-  },
-  {
-    "videoId": "fvFshQ0F49Y",
-    "title": "800db cloud (live at fishcenter)",
-    "artist": "100 gecs",
-    "timestamp": 1793830101
-  },
-  {
-    "videoId": "aUt8PztBtlk",
-    "title": "Alderan Was An Inside Job",
-    "artist": "septemberistheonlytimeidontthinkofyou",
-    "timestamp": 1793829921
-  },
-  {
-    "videoId": "ceOZeSPwpmw",
-    "title": "POWER FANTASY (feat. 100 gecs)",
-    "artist": "HEALTH",
-    "timestamp": 1793829741
-  },
-  {
-    "videoId": "Izj_lF5i_X4",
-    "title": "mememe",
-    "artist": "100 gecs",
-    "timestamp": 1793829561
-  },
-  {
-    "videoId": "0ee_1OB3PMY",
-    "title": "I Got My Tooth Removed",
-    "artist": "100 gecs",
-    "timestamp": 1793829381
-  },
-  {
-    "videoId": "PNIPmBDlhP4",
-    "title": "The Most Wanted Person In The United States",
-    "artist": "100 gecs",
-    "timestamp": 1793829201
-  },
-  {
-    "videoId": "Tdby7lXzNs0",
-    "title": "room!!",
-    "artist": "ilymeow",
-    "timestamp": 1793829021
-  },
-  {
     "videoId": "IartBoBdpwo",
     "title": "Haunted",
     "artist": "Laura Les",
-    "timestamp": 1793828841
+    "timestamp": 1793855573
   },
   {
-    "videoId": "8f_vY3wqdlk",
-    "title": "Music",
-    "artist": "underscores",
-    "timestamp": 1793828661
+    "videoId": "LSCqBGPnw6M",
+    "title": "VIP",
+    "artist": "Dorian Electra & K Rizz",
+    "timestamp": 1793855393
   },
   {
-    "videoId": "CarFJJCD38Q",
-    "title": "NEVER MET! (100 gecs r3mix) [feat. Glitch Gum] (100 gecs r3mix ) (feat. Glitch Gum)",
-    "artist": "CMTEN",
-    "timestamp": 1793828481
+    "videoId": "m8ZdI13ujdk",
+    "title": "sole",
+    "artist": "food house , Gupi & Fraxiom",
+    "timestamp": 1793855213
   },
   {
-    "videoId": "VTgJWG-z0qg",
-    "title": "money machine",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1793828301
+    "videoId": "w35-voGxSFQ",
+    "title": "u mean even less to me now",
+    "artist": "lieu",
+    "timestamp": 1793855033
+  },
+  {
+    "videoId": "NHveMVRIcTA",
+    "title": "sauceintherough (bonus track)",
+    "artist": "brakence",
+    "timestamp": 1793854853
+  },
+  {
+    "videoId": "Ub3v041snJA",
+    "title": "Famous",
+    "artist": "Ayesha Erotica",
+    "timestamp": 1793854673
   },
   {
     "videoId": "ugOvPjtlnxs",
     "title": "ringtone (Remix) (feat. Charli XCX, Kero Kero Bonito & Rico Nasty)",
     "artist": "100 gecs",
-    "timestamp": 1793828121
+    "timestamp": 1793854493
+  },
+  {
+    "videoId": "oqm7wN8-KBc",
+    "title": "Frog On The Floor",
+    "artist": "100 gecs",
+    "timestamp": 1793854313
+  },
+  {
+    "videoId": "7pA2NRYGQEk",
+    "title": "Hollywood Baby",
+    "artist": "100 gecs",
+    "timestamp": 1793854133
+  },
+  {
+    "videoId": "7sWKvCaMV-k",
+    "title": "757",
+    "artist": "100 gecs",
+    "timestamp": 1793853953
+  },
+  {
+    "videoId": "bDkx8OcTRws",
+    "title": "d.silvestre @ Baronesa | CENAS",
+    "artist": "CENAS",
+    "timestamp": 1793853773
+  },
+  {
+    "videoId": "_kuydQO27TM",
+    "title": "Pangaea Girls (Magic Feeling)",
+    "artist": "Candy Claws",
+    "timestamp": 1793853593
+  },
+  {
+    "videoId": "XBOK8EpLmaM",
+    "title": "Transitional Bird (Clever Girl)",
+    "artist": "Candy Claws",
+    "timestamp": 1793853413
+  },
+  {
+    "videoId": "4k4iUROdpUo",
+    "title": "Always Then",
+    "artist": "The KVB",
+    "timestamp": 1793853233
+  },
+  {
+    "videoId": "qEX9I6YRlw4",
+    "title": "A Little Death to Laugh",
+    "artist": "Cold Cave",
+    "timestamp": 1793853053
+  },
+  {
+    "videoId": "QcFMuTwEWWU",
+    "title": "Yeast Unleashed in the East",
+    "artist": "Hall of the Elders",
+    "timestamp": 1793852873
+  },
+  {
+    "videoId": "mOKULerJiYM",
+    "title": "Fire the Damn Missiles",
+    "artist": "Hall Of The Elders",
+    "timestamp": 1793852693
+  },
+  {
+    "videoId": "eh5kGAIJIoI",
+    "title": "RETORNO DA DUPLA",
+    "artist": "MC VITIN DA DZ7 , CLUB DA DZ7 & Dj Gabiru",
+    "timestamp": 1793852513
+  },
+  {
+    "videoId": "JlPP1pM_r9g",
+    "title": "Dona Brisa",
+    "artist": "d.silvestre , Mc Mulekinho & MC VITIN DA DZ7",
+    "timestamp": 1793852333
+  },
+  {
+    "videoId": "tFw6RUgZu1w",
+    "title": "Mo\u00e7o, Cuidado (feat. MC DU RED)",
+    "artist": "DJ KAUA JESUS , Mc Thata & SAM SAM",
+    "timestamp": 1793852153
+  },
+  {
+    "videoId": "tTvfbbfeaa0",
+    "title": "Vcs T\u00e3o Acabando Com o Funk (Diss pro Gi Panelas)",
+    "artist": "d.silvestre & MC DU RED",
+    "timestamp": 1793851973
+  },
+  {
+    "videoId": "Pq1Z2j1yyeI",
+    "title": "Q Se F0Da O Crack (Faixa B\u00f4nus)",
+    "artist": "d.silvestre & MC DENADAI",
+    "timestamp": 1793851793
+  },
+  {
+    "videoId": "BOFRY91ZIcc",
+    "title": "Sleepyhead",
+    "artist": "Passion Pit",
+    "timestamp": 1793851613
+  },
+  {
+    "videoId": "_jg8vs4jmfA",
+    "title": "ringtone",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793851433
+  },
+  {
+    "videoId": "Bia7oTNjMh0",
+    "title": "stupid horse",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793851253
+  },
+  {
+    "videoId": "sdvNT8Kkc_M",
+    "title": "hand crushed by a mallet",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793851073
+  },
+  {
+    "videoId": "VTgJWG-z0qg",
+    "title": "money machine",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793850893
+  },
+  {
+    "videoId": "XZp-OwVoLHU",
+    "title": "vintage vuitton",
+    "artist": "earfzilla",
+    "timestamp": 1793850713
+  },
+  {
+    "videoId": "PNIPmBDlhP4",
+    "title": "The Most Wanted Person In The United States",
+    "artist": "100 gecs",
+    "timestamp": 1793850533
+  },
+  {
+    "videoId": "j_gdvf63crU",
+    "title": "Randy, I Am The Liquor",
+    "artist": "Free Throw",
+    "timestamp": 1793850353
+  },
+  {
+    "videoId": "WftssJYhtqA",
+    "title": "Two Beers In",
+    "artist": "Free Throw",
+    "timestamp": 1793850173
+  },
+  {
+    "videoId": "28adFKXWoOY",
+    "title": "Constant Headache",
+    "artist": "Joyce Manor",
+    "timestamp": 1793849993
+  },
+  {
+    "videoId": "NnI6OyJtxQw",
+    "title": "Your Graduation",
+    "artist": "Modern Baseball",
+    "timestamp": 1793849813
+  },
+  {
+    "videoId": "VKaUOKThUHE",
+    "title": "The Thrash Particle",
+    "artist": "Modern Baseball",
+    "timestamp": 1793849633
+  },
+  {
+    "videoId": "m66if0pdtog",
+    "title": "Where Am I?",
+    "artist": "Title Fight",
+    "timestamp": 1793849453
+  },
+  {
+    "videoId": "W2UoW78C9J0",
+    "title": "Head in the Ceiling Fan",
+    "artist": "Title Fight",
+    "timestamp": 1793849273
+  },
+  {
+    "videoId": "dDBFycj1TWo",
+    "title": "Vertigo Flowers",
+    "artist": "Nothing",
+    "timestamp": 1793849093
+  },
+  {
+    "videoId": "lU0yTO8b5F0",
+    "title": "Leave Everything",
+    "artist": "vs self",
+    "timestamp": 1793848913
+  },
+  {
+    "videoId": "i2cyi3RTiew",
+    "title": "Over",
+    "artist": "Sore Eyelids",
+    "timestamp": 1793848733
+  },
+  {
+    "videoId": "9pG7ipdK-q8",
+    "title": "Never Meant",
+    "artist": "American Football",
+    "timestamp": 1793848553
+  },
+  {
+    "videoId": "cF74pR-oO9E",
+    "title": "Holy Water",
+    "artist": "Worst Party Ever",
+    "timestamp": 1793848373
+  },
+  {
+    "videoId": "Lt6nS9-m6HM",
+    "title": "AI AI QUE LOUCURA",
+    "artist": "dj j7 do lz , DJ MTN & iraqui zl",
+    "timestamp": 1793848193
+  },
+  {
+    "videoId": "LEl5_tLvA34",
+    "title": "FODE FODE",
+    "artist": "Lofibbgirl & Rxfx",
+    "timestamp": 1793848013
+  },
+  {
+    "videoId": "55s0EMfgdvI",
+    "title": "Birds of a Feather",
+    "artist": "Kind of Like Spitting",
+    "timestamp": 1793847833
+  },
+  {
+    "videoId": "NxxjLD2pmlk",
+    "title": "Feel Good Inc.",
+    "artist": "Gorillaz & De La Soul",
+    "timestamp": 1793847653
+  },
+  {
+    "videoId": "Pi7P0AjMHTs",
+    "title": "Clock",
+    "artist": "Beck",
+    "timestamp": 1793847473
+  },
+  {
+    "videoId": "JB2CvfMY6SM",
+    "title": "The Golden Age",
+    "artist": "Beck",
+    "timestamp": 1793847293
+  },
+  {
+    "videoId": "5Z1-5wNjMgs",
+    "title": "Loser",
+    "artist": "Beck",
+    "timestamp": 1793847113
+  },
+  {
+    "videoId": "5KlI_EF0kW0",
+    "title": "theclubrock",
+    "artist": "Benny Bellson",
+    "timestamp": 1793846933
+  },
+  {
+    "videoId": "CSD2J8yaMmM",
+    "title": "Ms. Jackson",
+    "artist": "Outkast",
+    "timestamp": 1793846753
+  },
+  {
+    "videoId": "6oLBuh47FrA",
+    "title": "Straight To Hell (feat. Mick Jones)",
+    "artist": "Lily Allen",
+    "timestamp": 1793846573
+  },
+  {
+    "videoId": "usvTbqTHwyw",
+    "title": "I Kissed A Girl",
+    "artist": "Katy Perry",
+    "timestamp": 1793846393
+  },
+  {
+    "videoId": "N3e0RyBTcgI",
+    "title": "Ginseng Strip 2002",
+    "artist": "Yung Lean",
+    "timestamp": 1793846213
+  },
+  {
+    "videoId": "W_K0hemcU5o",
+    "title": "Paper Planes",
+    "artist": "M.I.A.",
+    "timestamp": 1793846033
+  },
+  {
+    "videoId": "28jp-30w8Lg",
+    "title": "Paparazzi",
+    "artist": "Lady Gaga",
+    "timestamp": 1793845853
+  },
+  {
+    "videoId": "_ydMlTassYc",
+    "title": "Empire State Of Mind (feat. Alicia Keys)",
+    "artist": "JA\u0178-Z",
+    "timestamp": 1793845673
+  },
+  {
+    "videoId": "7JFtfM9rVvQ",
+    "title": "Say It Right",
+    "artist": "Nelly Furtado",
+    "timestamp": 1793845493
+  },
+  {
+    "videoId": "g_V6wqBlADw",
+    "title": "SexyBack (feat. Timbaland)",
+    "artist": "Justin Timberlake",
+    "timestamp": 1793845313
+  },
+  {
+    "videoId": "BO7FQnegW1o",
+    "title": "Promiscuous (feat. Timbaland)",
+    "artist": "Nelly Furtado",
+    "timestamp": 1793845133
+  },
+  {
+    "videoId": "5VeolZ_PZqA",
+    "title": "thorns (single version)",
+    "artist": "Dead Butterflies",
+    "timestamp": 1793844953
+  },
+  {
+    "videoId": "ViZKw-TyY8A",
+    "title": "SONHO DOS BANDIDO",
+    "artist": "JOBSORATO",
+    "timestamp": 1793844773
+  },
+  {
+    "videoId": "XoDviPUhVxs",
+    "title": "Vanished Rock Doido",
+    "artist": "JOBSORATO",
+    "timestamp": 1793844593
+  },
+  {
+    "videoId": "npj1V7bvjUs",
+    "title": "Reality Surf",
+    "artist": "Bladee",
+    "timestamp": 1793844413
+  },
+  {
+    "videoId": "UoKqVWPOb2k",
+    "title": "small pipe (live at fishcenter)",
+    "artist": "100 gecs",
+    "timestamp": 1793844233
+  },
+  {
+    "videoId": "yIgiGai3D-c",
+    "title": "gec 2 \u00dc",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1793844053
+  },
+  {
+    "videoId": "HL-sKk1APSc",
+    "title": "I.D.W.T.B (feat. angelus & funeral)",
+    "artist": "NOVAGANG",
+    "timestamp": 1793843873
+  },
+  {
+    "videoId": "Yr8tcD5cFds",
+    "title": "Traumatized",
+    "artist": "6arelyhuman & wydsonni",
+    "timestamp": 1793843693
+  },
+  {
+    "videoId": "2o466SOGSE0",
+    "title": "TeAsE",
+    "artist": "m1v",
+    "timestamp": 1793843513
+  },
+  {
+    "videoId": "BGFR5W8U2pg",
+    "title": "daydreaming (feat. horrormovies)",
+    "artist": "Rebzyyx",
+    "timestamp": 1793843333
+  },
+  {
+    "videoId": "ERZhTq6TGk4",
+    "title": "Torture Me (feat. Skrillex)",
+    "artist": "100 gecs",
+    "timestamp": 1793843153
+  },
+  {
+    "videoId": "Izj_lF5i_X4",
+    "title": "mememe",
+    "artist": "100 gecs",
+    "timestamp": 1793842973
+  },
+  {
+    "videoId": "VHW3EiFwRlk",
+    "title": "Ghost",
+    "artist": "Hands",
+    "timestamp": 1793842793
+  },
+  {
+    "videoId": "sqXUkIkB2zg",
+    "title": "I Know You'll Be Gone (feat. Ispentsixhourswatchingshockvideosyesterday & Norfair)",
+    "artist": "Until the Snow Falls",
+    "timestamp": 1793842613
+  },
+  {
+    "videoId": "YYCgJ_kCHWY",
+    "title": "Self-Destruct",
+    "artist": "Origami Angel",
+    "timestamp": 1793842433
+  },
+  {
+    "videoId": "lcF9ces2jy4",
+    "title": "You Don't Know What You Did! (Dead Butterflies)",
+    "artist": "Dead Butterflies & Aorta",
+    "timestamp": 1793842253
+  },
+  {
+    "videoId": "Bjn-olzXOb8",
+    "title": "Worthless",
+    "artist": "vs self",
+    "timestamp": 1793842073
+  },
+  {
+    "videoId": "R2f7GzLoDAo",
+    "title": "Camp Algonquin",
+    "artist": "Heccra",
+    "timestamp": 1793841893
+  },
+  {
+    "videoId": "hpF8PDGsDxc",
+    "title": "End of Everything (EOE)",
+    "artist": "godfuck",
+    "timestamp": 1793841713
+  },
+  {
+    "videoId": "3A6fJMolb2I",
+    "title": "The Comforts You Seek Before and After Sleep",
+    "artist": "Thisishowitendedintoyko"
+  },
+  {
+    "videoId": "XPe70F6L0Bs",
+    "title": "Snowboarding in Colorado",
+    "artist": "cicadahead"
+  },
+  {
+    "videoId": "RCys767eaNc",
+    "title": "Everyone Asked About You",
+    "artist": "Everyone Asked About You"
+  },
+  {
+    "videoId": "JWqfZVynJLI",
+    "title": "Worst Party Ever",
+    "artist": "Worst Party Ever"
+  },
+  {
+    "videoId": "Dj0rdxfh3ZI",
+    "title": "Love Letter",
+    "artist": "Love Letter"
+  },
+  {
+    "videoId": "gRZxZYfkprc",
+    "title": "745 sticky (Injury Reserve Remix)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "Ke9DSq-rJJQ",
+    "title": "ringtone (Remix) (feat. Charli xcx, Rico Nasty & Kero Kero Bonito)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "K6NZef1pKm4",
+    "title": "hand crushed by a mallet (Remix) (feat. Fall Out Boy, Craig Owens & Nicole Dollanganger)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "4otZsZ0IwVE",
+    "title": "hand crushed by a mallet (N0thanky0u Remix)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "PtqiWsgd9sQ",
+    "title": "dogs",
+    "artist": "nouns"
+  },
+  {
+    "videoId": "fSPqew6s6PA",
+    "title": "came to my show",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "Vwt0ojrQh08",
+    "title": "gecgecgec",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "GwBwTiAluWY",
+    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "XpZx31vW6C0",
+    "title": "stupid horse (Remix) (feat. Count Baldor & GFOTY)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "LseJIsQ62WQ",
+    "title": "movinglikeazombie",
+    "artist": "ericdoa"
+  },
+  {
+    "videoId": "O1kTTOdHgC4",
+    "title": "745 sticky (Black Dresses Remix)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "fvFshQ0F49Y",
+    "title": "800db cloud (live at fishcenter)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "aUt8PztBtlk",
+    "title": "Alderan Was An Inside Job",
+    "artist": "septemberistheonlytimeidontthinkofyou"
+  },
+  {
+    "videoId": "ceOZeSPwpmw",
+    "title": "POWER FANTASY (feat. 100 gecs)",
+    "artist": "HEALTH"
+  },
+  {
+    "videoId": "0ee_1OB3PMY",
+    "title": "I Got My Tooth Removed",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "Tdby7lXzNs0",
+    "title": "room!!",
+    "artist": "ilymeow"
+  },
+  {
+    "videoId": "8f_vY3wqdlk",
+    "title": "Music",
+    "artist": "underscores"
+  },
+  {
+    "videoId": "CarFJJCD38Q",
+    "title": "NEVER MET! (100 gecs r3mix) [feat. Glitch Gum] (100 gecs r3mix ) (feat. Glitch Gum)",
+    "artist": "CMTEN"
   },
   {
     "videoId": "nziR17pXiDY",
     "title": "gum",
-    "artist": "100 gecs",
-    "timestamp": 1793827941
+    "artist": "100 gecs"
   },
   {
     "videoId": "V1HAZJWpa-Q",
     "title": "I hate my emotions",
-    "artist": "Rebzyyx",
-    "timestamp": 1793827761
+    "artist": "Rebzyyx"
   },
   {
     "videoId": "4SDmAsDCWG0",
     "title": "Ether",
-    "artist": "Cake Pop , Dylan Brady & Ravenna Golden",
-    "timestamp": 1793827581
+    "artist": "Cake Pop , Dylan Brady & Ravenna Golden"
   },
   {
     "videoId": "rnGQhf7tLVc",
     "title": "@HotTopic #2007 (feat. d3r)",
-    "artist": "zeija",
-    "timestamp": 1793827401
+    "artist": "zeija"
   },
   {
     "videoId": "3X93uRn37n4",
     "title": "leave me alone",
-    "artist": "osquinn",
-    "timestamp": 1793827221
+    "artist": "osquinn"
   },
   {
     "videoId": "7XzuJELQAuY",
     "title": "expire",
-    "artist": "funeral",
-    "timestamp": 1793827041
+    "artist": "funeral"
   },
   {
     "videoId": "tBMtdVEZ34Q",
     "title": "25 bands and a geccco",
-    "artist": "100 gecs",
-    "timestamp": 1793826861
+    "artist": "100 gecs"
   },
   {
     "videoId": "rLqd8g-IumI",
     "title": "fly with \u00fc",
-    "artist": "Fraxiom",
-    "timestamp": 1793826681
+    "artist": "Fraxiom"
   },
   {
     "videoId": "IkBDxBMOWfg",
     "title": "Customer Service",
-    "artist": "Sugar Pit",
-    "timestamp": 1793826501
+    "artist": "Sugar Pit"
   },
   {
     "videoId": "nNqM6BynGkI",
     "title": "toxic",
-    "artist": "funeral",
-    "timestamp": 1793826321
+    "artist": "funeral"
   },
   {
     "videoId": "PZbmlFAJ_bo",
     "title": "Satin Bedsheets",
-    "artist": "Cake Pop , Dylan Brady , Ravenna Golden & Cali Cartier",
-    "timestamp": 1793826141
+    "artist": "Cake Pop , Dylan Brady , Ravenna Golden & Cali Cartier"
   },
   {
     "videoId": "Or1NyNlHOCg",
     "title": "fuck Teeth",
-    "artist": "100 gecs",
-    "timestamp": 1793825961
+    "artist": "100 gecs"
   },
   {
     "videoId": "1W0zc817u60",
     "title": "end me with 4 xans and a redbull",
-    "artist": "m1v",
-    "timestamp": 1793825781
+    "artist": "m1v"
   },
   {
     "videoId": "6IowsBGiA1Y",
     "title": "HEARSE (feat. funeral)",
-    "artist": "blackwinterwells",
-    "timestamp": 1793825601
+    "artist": "blackwinterwells"
   },
   {
     "videoId": "BJaGwkfbsgU",
     "title": "calling for me",
-    "artist": "Rebzyyx",
-    "timestamp": 1793825421
+    "artist": "Rebzyyx"
   },
   {
     "videoId": "MDr4tP02pp8",
     "title": "Hey Big Man",
-    "artist": "100 gecs",
-    "timestamp": 1793825241
+    "artist": "100 gecs"
   },
   {
     "videoId": "0pTJVP8IT70",
@@ -401,16 +770,6 @@
   {
     "videoId": "ATp6n2sxdfo",
     "title": "Overboard",
-    "artist": "Hall Of The Elders"
-  },
-  {
-    "videoId": "QcFMuTwEWWU",
-    "title": "Yeast Unleashed in the East",
-    "artist": "Hall of the Elders"
-  },
-  {
-    "videoId": "mOKULerJiYM",
-    "title": "Fire the Damn Missiles",
     "artist": "Hall Of The Elders"
   },
   {
@@ -614,11 +973,6 @@
     "artist": "DMORAIS , Zairon , MC KF & MC MARLON PH"
   },
   {
-    "videoId": "WftssJYhtqA",
-    "title": "Two Beers In",
-    "artist": "Free Throw"
-  },
-  {
     "videoId": "flWKDdu9l9U",
     "title": "300 noches sin dormir",
     "artist": "sistema de entretenimiento"
@@ -647,11 +1001,6 @@
     "videoId": "0AB6LctY1YI",
     "title": "\u0422\u0440\u0443\u0434",
     "artist": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u043d\u043e\u043c\u0435\u0440 6"
-  },
-  {
-    "videoId": "bDkx8OcTRws",
-    "title": "d.silvestre @ Baronesa | CENAS",
-    "artist": "CENAS"
   },
   {
     "videoId": "0zD_bArMbJQ",
@@ -714,11 +1063,6 @@
     "artist": "Protomartyr"
   },
   {
-    "videoId": "W2UoW78C9J0",
-    "title": "Head in the Ceiling Fan",
-    "artist": "Title Fight"
-  },
-  {
     "videoId": "RdHx3nsSjSM",
     "title": "Deep Blue",
     "artist": "Chat Pile"
@@ -732,320 +1076,5 @@
     "videoId": "3bau2CgRg8E",
     "title": "i hate you !",
     "artist": "voluntaryviolence"
-  },
-  {
-    "videoId": "NpcLwltd_bw",
-    "title": "Ultraviol\u00eancia",
-    "artist": "Surra"
-  },
-  {
-    "videoId": "qFhChudMvMk",
-    "title": "Brutal Noisegore Session",
-    "artist": "Bixera"
-  },
-  {
-    "videoId": "igZfECgnxNw",
-    "title": "Hit a Muthafucka",
-    "artist": "Three 6 Mafia"
-  },
-  {
-    "videoId": "cI2X4_hw-7U",
-    "title": "I deserve this (feat. Selfless Homage)",
-    "artist": "Rebzyyx"
-  },
-  {
-    "videoId": "BO7FQnegW1o",
-    "title": "Promiscuous (feat. Timbaland)",
-    "artist": "Nelly Furtado"
-  },
-  {
-    "videoId": "USo0sAaJKR0",
-    "title": "Hotline Bling",
-    "artist": "Drake"
-  },
-  {
-    "videoId": "n3I3w1fMnjE",
-    "title": "Smoking On A J.",
-    "artist": "Koopsta Knicca"
-  },
-  {
-    "videoId": "kQK5d6qpd10",
-    "title": "Killa Killa",
-    "artist": "Gangsta Pat"
-  },
-  {
-    "videoId": "E6EXjnAkdh8",
-    "title": "I Wanna Smoke (feat. Psycho)",
-    "artist": "Gangsta Pat"
-  },
-  {
-    "videoId": "kt0PYFwIV_E",
-    "title": "Deadly Verses (feat. The Villain)",
-    "artist": "Gangsta Pat"
-  },
-  {
-    "videoId": "7t1WqjmGWtY",
-    "title": "Mask 2 My Face",
-    "artist": "Gangsta Boo"
-  },
-  {
-    "videoId": "-z5D-QR8swE",
-    "title": "Stash Pot",
-    "artist": "Koopsta Knicca"
-  },
-  {
-    "videoId": "GbiB9BBs_qk",
-    "title": "Parasite Eve",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "3QjcAymJtMY",
-    "title": "1x1 (feat. Nova Twins)",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "Stb1zlaOZO8",
-    "title": "Happy Song",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "ymo9oX83kJI",
-    "title": "Drown",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "w-9QbmebBn8",
-    "title": "Shadow Moses",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "xGq7iSQdWV4",
-    "title": "DArkSide",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "-ImtrFw69e8",
-    "title": "Sleepwalking",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "CsP25AtT8FQ",
-    "title": "Crank That",
-    "artist": "I Set My Friends On Fire"
-  },
-  {
-    "videoId": "9ErNZNIzLV8",
-    "title": "Ravenous, Ravenous Rhinos",
-    "artist": "I Set My Friends On Fire"
-  },
-  {
-    "videoId": "b9tG-hielBw",
-    "title": "Billy Knows Jamie",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "i2Jqig0N3Uk",
-    "title": "Doritos & Fritos",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "oqm7wN8-KBc",
-    "title": "Frog On The Floor",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "7pA2NRYGQEk",
-    "title": "Hollywood Baby",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "7sWKvCaMV-k",
-    "title": "757",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "oYOPz1vqeZU",
-    "title": "Dumbest Girl Alive",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "0Qy-dyeFXhM",
-    "title": "800 db cloud",
-    "artist": "100 gecs , Laura Les & Dylan Brady"
-  },
-  {
-    "videoId": "5W39J_V-nmw",
-    "title": "The Garden in a Metal Frame",
-    "artist": "PlasticSkin"
-  },
-  {
-    "videoId": "5VeolZ_PZqA",
-    "title": "thorns (single version)",
-    "artist": "Dead Butterflies"
-  },
-  {
-    "videoId": "8FgRYlgmqkk",
-    "title": "think abt it ft. ppgcasper",
-    "artist": "oaf1"
-  },
-  {
-    "videoId": "5UJSNG3xaew",
-    "title": "\"Chet Baker\" and \"Gloria\" (Full HD)",
-    "artist": "Lana Del Rey with Mando Diao"
-  },
-  {
-    "videoId": "zgqrb4hserk",
-    "title": "sympathy 4 the grinch",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "mZGNTx6SrrE",
-    "title": "The Gerogerigegege \u2013 \u30b2\u30ed\u30b2\u30ea\u30b2\u30b2\u30b2 (The Gerogerigegege)",
-    "artist": "ihams"
-  },
-  {
-    "videoId": "N6oex4zNwbM",
-    "title": "Je crois...",
-    "artist": "Pyrrhon"
-  },
-  {
-    "videoId": "KRycPAI_mK0",
-    "title": "Soul Collector",
-    "artist": "Gizmo"
-  },
-  {
-    "videoId": "4DB7fVARU7Y",
-    "title": "Perfectly Fucked",
-    "artist": "Love Lost But Not Forgotten"
-  },
-  {
-    "videoId": "ifz8toFOPpM",
-    "title": "one by metallica by i hate sex",
-    "artist": "Thorn Tire"
-  },
-  {
-    "videoId": "nyFhqNy5148",
-    "title": "One Dying Wish",
-    "artist": "Saetia"
-  },
-  {
-    "videoId": "YYCgJ_kCHWY",
-    "title": "Self-Destruct",
-    "artist": "Origami Angel"
-  },
-  {
-    "videoId": "muWNaPHDhFY",
-    "title": "Home",
-    "artist": "Dim"
-  },
-  {
-    "videoId": "Yhh-5z0alJE",
-    "title": "Bleach",
-    "artist": "away with words"
-  },
-  {
-    "videoId": "26e2t6PZ2aQ",
-    "title": "S\u00f3 pra Te Amar",
-    "artist": "Banda AR-15"
-  },
-  {
-    "videoId": "adrFvh8wFKo",
-    "title": "Amor pra Recordar",
-    "artist": "Banda AR-15"
-  },
-  {
-    "videoId": "ERZhTq6TGk4",
-    "title": "Torture Me (feat. Skrillex)",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "B_6PePE_9nE",
-    "title": "toothless",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "4G9IhRjV7P8",
-    "title": "gec 2 \u00dc (Remix) (feat. Dorian Electra)",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "5XGaqjTKe20",
-    "title": "bloodstains",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "n387OH0tN-o",
-    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx (Remix) (feat. Hannah Diamond & Tommy Cash)",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "kmU4-NVt4eg",
-    "title": "745 sticky",
-    "artist": "100 gecs , Laura Les & Dylan Brady"
-  },
-  {
-    "videoId": "sPs1AZGDH1U",
-    "title": "Super Bota\u00e7ao Extrema (feat. Mc Gw)",
-    "artist": "DJ Pablo RB , MC RN Original & DJ Ery"
-  },
-  {
-    "videoId": "fjF2xt36Nfk",
-    "title": "59D",
-    "artist": "MC DENADAI , MC 4R , MC CARLOS DG & d.silvestre"
-  },
-  {
-    "videoId": "RvtXU54d8nY",
-    "title": "Vem por Cima",
-    "artist": "d.silvestre , MC Du Red & Gabi Nunes"
-  },
-  {
-    "videoId": "JlPP1pM_r9g",
-    "title": "Dona Brisa",
-    "artist": "d.silvestre , Mc Mulekinho & MC VITIN DA DZ7"
-  },
-  {
-    "videoId": "Pq1Z2j1yyeI",
-    "title": "Q Se F0Da O Crack (Faixa B\u00f4nus)",
-    "artist": "d.silvestre & MC DENADAI"
-  },
-  {
-    "videoId": "BDpuLgKR6SQ",
-    "title": "NA ONDA DA BOLHA (d.silvestre Remix) (feat. mc dobella & Mc Gw)",
-    "artist": "petrus.wav , d.silvestre , Novin Yarp & Kevo"
-  },
-  {
-    "videoId": "c4O4oEm5kgE",
-    "title": "Taka Fogo em Kiksilver",
-    "artist": "d.silvestre , MC MTOODIO , MC Lele 011 & Dj pablynh da 017"
-  },
-  {
-    "videoId": "tTvfbbfeaa0",
-    "title": "Vcs T\u00e3o Acabando Com o Funk (Diss pro Gi Panelas)",
-    "artist": "d.silvestre & MC DU RED"
-  },
-  {
-    "videoId": "tYuironIfMs",
-    "title": "Vessel \u2297",
-    "artist": "Away With Words"
-  },
-  {
-    "videoId": "obmnJkpuCvw",
-    "title": "Heaven Sent",
-    "artist": "away with words"
-  },
-  {
-    "videoId": "uuDqa_WK38U",
-    "title": "Grave Robbery",
-    "artist": "away with words"
-  },
-  {
-    "videoId": "RoTn27M91x0",
-    "title": "What To Think About Again",
-    "artist": "away with words"
-  },
-  {
-    "videoId": "12qheaJAWvc",
-    "title": "What a Douche!!!",
-    "artist": "Febuary"
   }
 ]
