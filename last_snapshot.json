@@ -1,297 +1,555 @@
 [
   {
-    "videoId": "XrSxAL85Qdw",
-    "title": "Ghost Rider (2019 - Remaster)",
-    "artist": "Suicide",
-    "timestamp": 1795222979
-  },
-  {
-    "videoId": "FKXRD7GOzZo",
-    "title": "If You Can't Hang",
-    "artist": "Sleeping With Sirens",
-    "timestamp": 1795222799
-  },
-  {
-    "videoId": "KtHATeDKMUU",
-    "title": "Megalithic Bonecrusher",
-    "artist": "Caveman Attack",
-    "timestamp": 1795222619
-  },
-  {
-    "videoId": "Ci4yfmL79pw",
-    "title": "I Would Have Told You",
-    "artist": "Fallweather",
-    "timestamp": 1795222439
-  },
-  {
-    "videoId": "YFetNgmaaWc",
-    "title": "extinction",
-    "artist": "Catalyst...",
-    "timestamp": 1795222259
-  },
-  {
-    "videoId": "YSXx4yBPoxk",
-    "title": "Do You Love Mincecore?",
-    "artist": "Haggus",
-    "timestamp": 1795222079
-  },
-  {
-    "videoId": "eR11sbtmisM",
-    "title": "Decapitation Fornication",
-    "artist": "Infant Annihilator",
-    "timestamp": 1795221899
-  },
-  {
-    "videoId": "I83DeDvLfMg",
-    "title": "malice in my flow",
-    "artist": "Phyllomedusa",
-    "timestamp": 1795221719
-  },
-  {
-    "videoId": "nP2C_Nw71Hc",
-    "title": "Desculpe, Voc\u00ea Faz Falta",
-    "artist": "Jovem Werther",
-    "timestamp": 1795221539
-  },
-  {
-    "videoId": "CStJLKswLjE",
-    "title": "Slow Dance",
-    "artist": "Bring Me The Horizon",
-    "timestamp": 1795221359
-  },
-  {
-    "videoId": "LlwFBG7XOvo",
-    "title": "The Kids Will Get Their Revenge! (Single Release)",
-    "artist": "Hong Kong Fuck You",
-    "timestamp": 1795221179
-  },
-  {
-    "videoId": "38_yCgM6z34",
-    "title": "55 PERCS AND A HAMMER TO THE NOGGIN (feat. GNAWING)",
-    "artist": "xDOGSHITTERxBALLLICKERx",
-    "timestamp": 1795220999
-  },
-  {
-    "videoId": "WvvpuWMuzWM",
-    "title": "The Recompense is Real",
-    "artist": "Mamaleek",
-    "timestamp": 1795220819
-  },
-  {
-    "videoId": "T01BBtOrF1o",
-    "title": "how do i feel / am i enough",
-    "artist": "loser_theorem",
-    "timestamp": 1795220639
-  },
-  {
-    "videoId": "BZQSPVFwopo",
-    "title": "Never Let Me Go",
-    "artist": "The Civil War in France",
-    "timestamp": 1795220459
-  },
-  {
-    "videoId": "KxldVi6aUdQ",
-    "title": "CONTINUE ?",
-    "artist": "The Civil War in France",
-    "timestamp": 1795220279
-  },
-  {
-    "videoId": "jcdl6zagYQ0",
-    "title": "Maybe Next Time...",
-    "artist": "The Civil War in France",
-    "timestamp": 1795220099
-  },
-  {
-    "videoId": "98O2LLP8Fvc",
-    "title": "GAME OVER !!",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219919
-  },
-  {
-    "videoId": "WaHn5tVYyCg",
-    "title": "Great Scythe (+15)",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219739
-  },
-  {
-    "videoId": "vn6Ypv_-HgQ",
-    "title": "Lisbon, PA",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219559
-  },
-  {
-    "videoId": "h73fZCI39Pw",
-    "title": "Picturing Girls Different Than Me",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219379
-  },
-  {
-    "videoId": "PCT0dFIPxFY",
-    "title": "i no ill b hurt n u do 2",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219199
-  },
-  {
-    "videoId": "k6TvFUloqO8",
-    "title": "Watching Blue//Watching Orange",
-    "artist": "The Civil War in France",
-    "timestamp": 1795219019
-  },
-  {
-    "videoId": "Z8QafkKpl9E",
-    "title": "Kiss Me, Kiss Me",
-    "artist": "The Civil War in France",
-    "timestamp": 1795218839
-  },
-  {
-    "videoId": "kZ_-MueB_l4",
-    "title": "Infinite Tsukiyummy ^-^",
-    "artist": "The Civil War in France",
-    "timestamp": 1795218659
-  },
-  {
-    "videoId": "5XGaqjTKe20",
-    "title": "bloodstains",
-    "artist": "100 gecs",
-    "timestamp": 1795218479
-  },
-  {
-    "videoId": "zgqrb4hserk",
-    "title": "sympathy 4 the grinch",
-    "artist": "100 gecs",
-    "timestamp": 1795218299
-  },
-  {
-    "videoId": "i2Jqig0N3Uk",
-    "title": "Doritos & Fritos",
-    "artist": "100 gecs",
-    "timestamp": 1795218119
-  },
-  {
-    "videoId": "0ee_1OB3PMY",
-    "title": "I Got My Tooth Removed",
-    "artist": "100 gecs",
-    "timestamp": 1795217939
-  },
-  {
-    "videoId": "VTgJWG-z0qg",
-    "title": "money machine",
+    "videoId": "GwBwTiAluWY",
+    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
     "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1795217759
-  },
-  {
-    "videoId": "_jg8vs4jmfA",
-    "title": "ringtone",
-    "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1795217579
-  },
-  {
-    "videoId": "ugOvPjtlnxs",
-    "title": "ringtone (Remix) (feat. Charli XCX, Kero Kero Bonito & Rico Nasty)",
-    "artist": "100 gecs",
-    "timestamp": 1795217399
-  },
-  {
-    "videoId": "K6NZef1pKm4",
-    "title": "hand crushed by a mallet (Remix) (feat. Fall Out Boy, Craig Owens & Nicole Dollanganger)",
-    "artist": "100 gecs",
-    "timestamp": 1795217219
-  },
-  {
-    "videoId": "ERZhTq6TGk4",
-    "title": "Torture Me (feat. Skrillex)",
-    "artist": "100 gecs",
-    "timestamp": 1795217039
-  },
-  {
-    "videoId": "Izj_lF5i_X4",
-    "title": "mememe",
-    "artist": "100 gecs",
-    "timestamp": 1795216859
-  },
-  {
-    "videoId": "7sWKvCaMV-k",
-    "title": "757",
-    "artist": "100 gecs",
-    "timestamp": 1795216679
-  },
-  {
-    "videoId": "7pA2NRYGQEk",
-    "title": "Hollywood Baby",
-    "artist": "100 gecs",
-    "timestamp": 1795216499
+    "timestamp": 1795252237
   },
   {
     "videoId": "Bia7oTNjMh0",
     "title": "stupid horse",
     "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1795216319
+    "timestamp": 1795252057
   },
   {
-    "videoId": "sdvNT8Kkc_M",
-    "title": "hand crushed by a mallet",
+    "videoId": "0Qy-dyeFXhM",
+    "title": "800 db cloud",
     "artist": "100 gecs , Laura Les & Dylan Brady",
-    "timestamp": 1795216139
+    "timestamp": 1795251877
+  },
+  {
+    "videoId": "VTgJWG-z0qg",
+    "title": "money machine",
+    "artist": "100 gecs , Laura Les & Dylan Brady",
+    "timestamp": 1795251697
+  },
+  {
+    "videoId": "K6NZef1pKm4",
+    "title": "hand crushed by a mallet (Remix) (feat. Fall Out Boy, Craig Owens & Nicole Dollanganger)",
+    "artist": "100 gecs",
+    "timestamp": 1795251517
+  },
+  {
+    "videoId": "gRZxZYfkprc",
+    "title": "745 sticky (Injury Reserve Remix)",
+    "artist": "100 gecs",
+    "timestamp": 1795251337
+  },
+  {
+    "videoId": "Ke9DSq-rJJQ",
+    "title": "ringtone (Remix) (feat. Charli xcx, Rico Nasty & Kero Kero Bonito)",
+    "artist": "100 gecs",
+    "timestamp": 1795251157
+  },
+  {
+    "videoId": "7pA2NRYGQEk",
+    "title": "Hollywood Baby",
+    "artist": "100 gecs",
+    "timestamp": 1795250977
+  },
+  {
+    "videoId": "7sWKvCaMV-k",
+    "title": "757",
+    "artist": "100 gecs",
+    "timestamp": 1795250797
   },
   {
     "videoId": "oYOPz1vqeZU",
     "title": "Dumbest Girl Alive",
     "artist": "100 gecs",
-    "timestamp": 1795215959
+    "timestamp": 1795250617
   },
   {
-    "videoId": "RcrUZW435ps",
-    "title": "Ang\u00fastia",
-    "artist": "Nvblado",
-    "timestamp": 1795215779
+    "videoId": "-nIkN6le_wY",
+    "title": "stage five",
+    "artist": "Sherane",
+    "timestamp": 1795250437
   },
   {
-    "videoId": "IzHhc4Ty0ZQ",
-    "title": "Artemisia",
-    "artist": "Nvblado",
-    "timestamp": 1795215599
+    "videoId": "SEbJKcc8g74",
+    "title": "words of regret",
+    "artist": "Sherane",
+    "timestamp": 1795250257
   },
   {
-    "videoId": "H4IPQnK7ruw",
-    "title": "Arpoador",
-    "artist": "Nvblado",
-    "timestamp": 1795215419
+    "videoId": "uAoHbLPx2mw",
+    "title": "lullaby",
+    "artist": "Sherane",
+    "timestamp": 1795250077
   },
   {
-    "videoId": "eWaBn0YQhYU",
-    "title": "Avalanche, Pt. II",
-    "artist": "Nvblado",
-    "timestamp": 1795215239
+    "videoId": "52q6axxX9Wk",
+    "title": "lillian jones KO",
+    "artist": "Sherane",
+    "timestamp": 1795249897
   },
   {
-    "videoId": "0vt3YZvo2lo",
-    "title": "O QUE VOC\u00ca MAIS ODEIA",
-    "artist": "PELE FRIA",
-    "timestamp": 1795215059
+    "videoId": "zmeAMleHFoA",
+    "title": "one year later",
+    "artist": "Sherane",
+    "timestamp": 1795249717
   },
   {
-    "videoId": "1SQ_67tS_Fg",
-    "title": "I'll Take You There (feat. Shayley Bourget)",
+    "videoId": "Ca2dRzlEkA0",
+    "title": "only yours",
+    "artist": "Sherane",
+    "timestamp": 1795249537
+  },
+  {
+    "videoId": "Izj_lF5i_X4",
+    "title": "mememe",
+    "artist": "100 gecs",
+    "timestamp": 1795249357
+  },
+  {
+    "videoId": "0ee_1OB3PMY",
+    "title": "I Got My Tooth Removed",
+    "artist": "100 gecs",
+    "timestamp": 1795249177
+  },
+  {
+    "videoId": "PNIPmBDlhP4",
+    "title": "The Most Wanted Person In The United States",
+    "artist": "100 gecs",
+    "timestamp": 1795248997
+  },
+  {
+    "videoId": "ZoforO5L-7Y",
+    "title": "One Million Dollars",
+    "artist": "100 gecs",
+    "timestamp": 1795248817
+  },
+  {
+    "videoId": "b9tG-hielBw",
+    "title": "Billy Knows Jamie",
+    "artist": "100 gecs",
+    "timestamp": 1795248637
+  },
+  {
+    "videoId": "i2Jqig0N3Uk",
+    "title": "Doritos & Fritos",
+    "artist": "100 gecs",
+    "timestamp": 1795248457
+  },
+  {
+    "videoId": "oqm7wN8-KBc",
+    "title": "Frog On The Floor",
+    "artist": "100 gecs",
+    "timestamp": 1795248277
+  },
+  {
+    "videoId": "Wa_CmpfBtgU",
+    "title": "BOMBS AWAY",
+    "artist": "Winona Fighter",
+    "timestamp": 1795248097
+  },
+  {
+    "videoId": "iE2mPfARuqs",
+    "title": "I Let It in and It Took Everything... (feat. Vincente Void)",
+    "artist": "Loathe",
+    "timestamp": 1795247917
+  },
+  {
+    "videoId": "wSYjeVd8iYU",
+    "title": "Same Thing We Do Everyday Pinky",
+    "artist": "Broadway & Craig Owens (of Chiodos)",
+    "timestamp": 1795247737
+  },
+  {
+    "videoId": "oq8LPJjSjDc",
+    "title": "Tidal Wave: Breakfast, Lunch, and Dinner",
+    "artist": "Dance Gavin Dance",
+    "timestamp": 1795247557
+  },
+  {
+    "videoId": "8-YLblyQitk",
+    "title": "Yesterday\u2019s Apology",
+    "artist": "Catalyst...",
+    "timestamp": 1795247377
+  },
+  {
+    "videoId": "duYbeXtc6Kw",
+    "title": "Rip",
+    "artist": "Showing Teeth",
+    "timestamp": 1795247197
+  },
+  {
+    "videoId": "7NdPArEtuYQ",
+    "title": "Low",
     "artist": "Sleeping With Sirens",
-    "timestamp": 1795214879
-  },
-  {
-    "videoId": "Zma3HN1Qqbs",
-    "title": "Twin Size Mattress",
-    "artist": "The Front Bottoms",
-    "timestamp": 1795214699
-  },
-  {
-    "videoId": "2rovNxpx84I",
-    "title": "Future Worth Dying For",
-    "artist": "I Promised The World",
-    "timestamp": 1795214519
+    "timestamp": 1795247017
   },
   {
     "videoId": "V4bX570hywA",
     "title": "If I'm James Dean, You're Audrey Hepburn",
     "artist": "Sleeping With Sirens",
-    "timestamp": 1795214339
+    "timestamp": 1795246837
+  },
+  {
+    "videoId": "OgmMJGEhwxw",
+    "title": "Suffer With Me",
+    "artist": "l\u00edue",
+    "timestamp": 1795246657
+  },
+  {
+    "videoId": "wlA3wneKSE4",
+    "title": "The Manner in Which I Scream Goodbye",
+    "artist": "April's Love Affair",
+    "timestamp": 1795246477
+  },
+  {
+    "videoId": "ETTltxySkbQ",
+    "title": "Senta pra Tropa",
+    "artist": "DJ LL , Mc LC , Mc Nando DK & Submundo808",
+    "timestamp": 1795246297
+  },
+  {
+    "videoId": "fyyNdWknrcA",
+    "title": "Montagem Da Silva",
+    "artist": "d.silvestre , Mc Mauricio da V.I & MC Lele 011",
+    "timestamp": 1795246117
+  },
+  {
+    "videoId": "lWsjaTLO9zw",
+    "title": "Wont",
+    "artist": "m1v",
+    "timestamp": 1795245937
+  },
+  {
+    "videoId": "lpVE2Jk8doE",
+    "title": "New Orleans Is the New Vietnam",
+    "artist": "Eyehategod",
+    "timestamp": 1795245757
+  },
+  {
+    "videoId": "_NnwdGeUVAI",
+    "title": "IN THE WALLS",
+    "artist": "funeral",
+    "timestamp": 1795245577
+  },
+  {
+    "videoId": "wLUhz-07pfA",
+    "title": "Relax / Divide",
+    "artist": "Hail The Sun",
+    "timestamp": 1795245397
+  },
+  {
+    "videoId": "peMHagkc7rw",
+    "title": "Western Union",
+    "artist": "Ecco2k , Thaiboy Digital & Bladee",
+    "timestamp": 1795245217
+  },
+  {
+    "videoId": "QdmZFHRdwJU",
+    "title": "Jaundiced and reaching for a mother",
+    "artist": "Truck Violence",
+    "timestamp": 1795245037
+  },
+  {
+    "videoId": "7IPFg_Gg4so",
+    "title": "lift it up",
+    "artist": "halfadedd",
+    "timestamp": 1795244857
+  },
+  {
+    "videoId": "6_ESpGfPP20",
+    "title": "Amygdala",
+    "artist": "Ecco2k & Bladee",
+    "timestamp": 1795244677
+  },
+  {
+    "videoId": "fCi49tVyngU",
+    "title": "fate",
+    "artist": "Sherane",
+    "timestamp": 1795244497
+  },
+  {
+    "videoId": "pV7r7kqajFI",
+    "title": "between their crying eyes",
+    "artist": "XmiseryisabutterflyX",
+    "timestamp": 1795244317
+  },
+  {
+    "videoId": "6OcLSF1H28E",
+    "title": "Death or Slumber",
+    "artist": "Sleep Casino",
+    "timestamp": 1795244137
+  },
+  {
+    "videoId": "fB7j5WhCtQw",
+    "title": "Huffing Butane Straight from the Slick",
+    "artist": "Bloat",
+    "timestamp": 1795243957
+  },
+  {
+    "videoId": "DTLiNgV2ttM",
+    "title": "Resin-Ridden Teenage Tracheotomy",
+    "artist": "Bloat",
+    "timestamp": 1795243777
+  },
+  {
+    "videoId": "q1rqgFmWHdo",
+    "title": "Melting Sun IV: Jade Fields",
+    "artist": "Lantl\u00f4s",
+    "timestamp": 1795243597
+  },
+  {
+    "videoId": "Br8opkr-2PU",
+    "title": "Nicotine Patches",
+    "artist": "$uicideboy$",
+    "timestamp": 1795243417
+  },
+  {
+    "videoId": "urhdvKBoxz4",
+    "title": "Crescent-Shaped Depression",
+    "artist": "Title Fight",
+    "timestamp": 1795243237
+  },
+  {
+    "videoId": "q0kYilO1AFI",
+    "title": "Coma",
+    "artist": "$uicideboy$",
+    "timestamp": 1795243057
+  },
+  {
+    "videoId": "LvhHBa3Z_B4",
+    "title": "Samba do Nosso C\u00e9u",
+    "artist": "Gingerbee",
+    "timestamp": 1795242877
+  },
+  {
+    "videoId": "uur55Iupoms",
+    "title": "Sir, This Is A Cutthroat Fashion",
+    "artist": "Her Words Kill",
+    "timestamp": 1795242697
+  },
+  {
+    "videoId": "LM51oj7q0T4",
+    "title": "Only When the Skies Are Cloudless Do We Call (Trachycephalus Resinifictrix)",
+    "artist": "Phyllomedusa",
+    "timestamp": 1795242517
+  },
+  {
+    "videoId": "VwFD5X1SyUQ",
+    "title": "Gory Deth Denberg",
+    "artist": "Couple Skate",
+    "timestamp": 1795242337
+  },
+  {
+    "videoId": "qFhChudMvMk",
+    "title": "Brutal Noisegore Session",
+    "artist": "Bixera",
+    "timestamp": 1795242157
+  },
+  {
+    "videoId": "T01BBtOrF1o",
+    "title": "how do i feel / am i enough",
+    "artist": "loser_theorem",
+    "timestamp": 1795241977
+  },
+  {
+    "videoId": "9ErNZNIzLV8",
+    "title": "Ravenous, Ravenous Rhinos",
+    "artist": "I Set My Friends On Fire",
+    "timestamp": 1795241797
+  },
+  {
+    "videoId": "-WvG-Z47S60",
+    "title": "Frankie Teardrop (2019 - Remaster)",
+    "artist": "Suicide",
+    "timestamp": 1795241617
+  },
+  {
+    "videoId": "38_yCgM6z34",
+    "title": "55 PERCS AND A HAMMER TO THE NOGGIN (feat. GNAWING)",
+    "artist": "xDOGSHITTERxBALLLICKERx",
+    "timestamp": 1795241437
+  },
+  {
+    "videoId": "WvvpuWMuzWM",
+    "title": "The Recompense is Real",
+    "artist": "Mamaleek",
+    "timestamp": 1795241257
+  },
+  {
+    "videoId": "XrSxAL85Qdw",
+    "title": "Ghost Rider (2019 - Remaster)",
+    "artist": "Suicide"
+  },
+  {
+    "videoId": "FKXRD7GOzZo",
+    "title": "If You Can't Hang",
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "videoId": "KtHATeDKMUU",
+    "title": "Megalithic Bonecrusher",
+    "artist": "Caveman Attack"
+  },
+  {
+    "videoId": "Ci4yfmL79pw",
+    "title": "I Would Have Told You",
+    "artist": "Fallweather"
+  },
+  {
+    "videoId": "YFetNgmaaWc",
+    "title": "extinction",
+    "artist": "Catalyst..."
+  },
+  {
+    "videoId": "YSXx4yBPoxk",
+    "title": "Do You Love Mincecore?",
+    "artist": "Haggus"
+  },
+  {
+    "videoId": "eR11sbtmisM",
+    "title": "Decapitation Fornication",
+    "artist": "Infant Annihilator"
+  },
+  {
+    "videoId": "I83DeDvLfMg",
+    "title": "malice in my flow",
+    "artist": "Phyllomedusa"
+  },
+  {
+    "videoId": "nP2C_Nw71Hc",
+    "title": "Desculpe, Voc\u00ea Faz Falta",
+    "artist": "Jovem Werther"
+  },
+  {
+    "videoId": "CStJLKswLjE",
+    "title": "Slow Dance",
+    "artist": "Bring Me The Horizon"
+  },
+  {
+    "videoId": "LlwFBG7XOvo",
+    "title": "The Kids Will Get Their Revenge! (Single Release)",
+    "artist": "Hong Kong Fuck You"
+  },
+  {
+    "videoId": "BZQSPVFwopo",
+    "title": "Never Let Me Go",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "KxldVi6aUdQ",
+    "title": "CONTINUE ?",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "jcdl6zagYQ0",
+    "title": "Maybe Next Time...",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "98O2LLP8Fvc",
+    "title": "GAME OVER !!",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "WaHn5tVYyCg",
+    "title": "Great Scythe (+15)",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "vn6Ypv_-HgQ",
+    "title": "Lisbon, PA",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "h73fZCI39Pw",
+    "title": "Picturing Girls Different Than Me",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "PCT0dFIPxFY",
+    "title": "i no ill b hurt n u do 2",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "k6TvFUloqO8",
+    "title": "Watching Blue//Watching Orange",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "Z8QafkKpl9E",
+    "title": "Kiss Me, Kiss Me",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "kZ_-MueB_l4",
+    "title": "Infinite Tsukiyummy ^-^",
+    "artist": "The Civil War in France"
+  },
+  {
+    "videoId": "5XGaqjTKe20",
+    "title": "bloodstains",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "zgqrb4hserk",
+    "title": "sympathy 4 the grinch",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "_jg8vs4jmfA",
+    "title": "ringtone",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "ugOvPjtlnxs",
+    "title": "ringtone (Remix) (feat. Charli XCX, Kero Kero Bonito & Rico Nasty)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "ERZhTq6TGk4",
+    "title": "Torture Me (feat. Skrillex)",
+    "artist": "100 gecs"
+  },
+  {
+    "videoId": "sdvNT8Kkc_M",
+    "title": "hand crushed by a mallet",
+    "artist": "100 gecs , Laura Les & Dylan Brady"
+  },
+  {
+    "videoId": "RcrUZW435ps",
+    "title": "Ang\u00fastia",
+    "artist": "Nvblado"
+  },
+  {
+    "videoId": "IzHhc4Ty0ZQ",
+    "title": "Artemisia",
+    "artist": "Nvblado"
+  },
+  {
+    "videoId": "H4IPQnK7ruw",
+    "title": "Arpoador",
+    "artist": "Nvblado"
+  },
+  {
+    "videoId": "eWaBn0YQhYU",
+    "title": "Avalanche, Pt. II",
+    "artist": "Nvblado"
+  },
+  {
+    "videoId": "0vt3YZvo2lo",
+    "title": "O QUE VOC\u00ca MAIS ODEIA",
+    "artist": "PELE FRIA"
+  },
+  {
+    "videoId": "1SQ_67tS_Fg",
+    "title": "I'll Take You There (feat. Shayley Bourget)",
+    "artist": "Sleeping With Sirens"
+  },
+  {
+    "videoId": "Zma3HN1Qqbs",
+    "title": "Twin Size Mattress",
+    "artist": "The Front Bottoms"
+  },
+  {
+    "videoId": "2rovNxpx84I",
+    "title": "Future Worth Dying For",
+    "artist": "I Promised The World"
   },
   {
     "videoId": "7ytMyNUENE4",
@@ -364,11 +622,6 @@
     "artist": "April's Love Affair"
   },
   {
-    "videoId": "wlA3wneKSE4",
-    "title": "The Manner in Which I Scream Goodbye",
-    "artist": "April's Love Affair"
-  },
-  {
     "videoId": "Xq0wV7osRiw",
     "title": "\u805e\u3044\u3066\u304f\u308c",
     "artist": "PuppetP"
@@ -407,11 +660,6 @@
     "videoId": "OTgrj3MwaKM",
     "title": "I'm Coming Home (Big Gulps) (Original Version)",
     "artist": "Sleeping With Sirens"
-  },
-  {
-    "videoId": "wLUhz-07pfA",
-    "title": "Relax / Divide",
-    "artist": "Hail The Sun"
   },
   {
     "videoId": "S0ntTKnMGm8",
@@ -527,36 +775,6 @@
     "videoId": "D1r9_zdygpw",
     "title": "The Suburbs",
     "artist": "Arcade Fire"
-  },
-  {
-    "videoId": "-nIkN6le_wY",
-    "title": "stage five",
-    "artist": "Sherane"
-  },
-  {
-    "videoId": "SEbJKcc8g74",
-    "title": "words of regret",
-    "artist": "Sherane"
-  },
-  {
-    "videoId": "uAoHbLPx2mw",
-    "title": "lullaby",
-    "artist": "Sherane"
-  },
-  {
-    "videoId": "52q6axxX9Wk",
-    "title": "lillian jones KO",
-    "artist": "Sherane"
-  },
-  {
-    "videoId": "zmeAMleHFoA",
-    "title": "one year later",
-    "artist": "Sherane"
-  },
-  {
-    "videoId": "Ca2dRzlEkA0",
-    "title": "only yours",
-    "artist": "Sherane"
   },
   {
     "videoId": "nM-S30yauls",
@@ -754,11 +972,6 @@
     "artist": "Title Fight"
   },
   {
-    "videoId": "PNIPmBDlhP4",
-    "title": "The Most Wanted Person In The United States",
-    "artist": "100 gecs"
-  },
-  {
     "videoId": "B4xg6jmo7jU",
     "title": "Flowers For A Broken Machine",
     "artist": "'Burial Etiquette"
@@ -799,21 +1012,6 @@
     "artist": "100 gecs"
   },
   {
-    "videoId": "b9tG-hielBw",
-    "title": "Billy Knows Jamie",
-    "artist": "100 gecs"
-  },
-  {
-    "videoId": "GwBwTiAluWY",
-    "title": "xXXi_wud_nvrst\u00f8p_\u00dcXXx",
-    "artist": "100 gecs , Laura Les & Dylan Brady"
-  },
-  {
-    "videoId": "0Qy-dyeFXhM",
-    "title": "800 db cloud",
-    "artist": "100 gecs , Laura Les & Dylan Brady"
-  },
-  {
     "videoId": "XhGior4O2eM",
     "title": "Love You Like A Love Song",
     "artist": "Selena Gomez & The Scene"
@@ -831,11 +1029,6 @@
   {
     "videoId": "Adah4iuNCko",
     "title": "Our sky's smile",
-    "artist": "Gingerbee"
-  },
-  {
-    "videoId": "LvhHBa3Z_B4",
-    "title": "Samba do Nosso C\u00e9u",
     "artist": "Gingerbee"
   },
   {
@@ -864,188 +1057,8 @@
     "artist": "Eyehategod"
   },
   {
-    "videoId": "DTLiNgV2ttM",
-    "title": "Resin-Ridden Teenage Tracheotomy",
-    "artist": "Bloat"
-  },
-  {
     "videoId": "3aD746yKJqc",
     "title": "Barbie Girl",
     "artist": "Hall of the Elders"
-  },
-  {
-    "videoId": "du6UwQWx6FY",
-    "title": "Will Meet Again",
-    "artist": "septemberistheonlytimeidontthinkofyou"
-  },
-  {
-    "videoId": "RoLCOvkEiwM",
-    "title": "Crucifix",
-    "artist": "Koopsta Knicca"
-  },
-  {
-    "videoId": "-z5D-QR8swE",
-    "title": "Stash Pot",
-    "artist": "Koopsta Knicca"
-  },
-  {
-    "videoId": "USo0sAaJKR0",
-    "title": "Hotline Bling",
-    "artist": "Drake"
-  },
-  {
-    "videoId": "PbbUeLkZt74",
-    "title": "Cherry-coloured Funk",
-    "artist": "Cocteau Twins"
-  },
-  {
-    "videoId": "FrsOnNxIrg8",
-    "title": "God's Plan",
-    "artist": "Drake"
-  },
-  {
-    "videoId": "kcaEdOBAQXU",
-    "title": "Just Can't Get Enough",
-    "artist": "Depeche Mode"
-  },
-  {
-    "videoId": "ZnrSNEah_20",
-    "title": "Bizarre Love Triangle",
-    "artist": "New Order"
-  },
-  {
-    "videoId": "uur55Iupoms",
-    "title": "Sir, This Is A Cutthroat Fashion",
-    "artist": "Her Words Kill"
-  },
-  {
-    "videoId": "INnieyJ_QPE",
-    "title": "Kingslayer (feat. BABYMETAL)",
-    "artist": "Bring Me The Horizon"
-  },
-  {
-    "videoId": "VBofJDVh0EM",
-    "title": "You Came Out",
-    "artist": "We Have Band"
-  },
-  {
-    "videoId": "JlPP1pM_r9g",
-    "title": "Dona Brisa",
-    "artist": "d.silvestre , Mc Mulekinho & MC VITIN DA DZ7"
-  },
-  {
-    "videoId": "dSlYFtXENPo",
-    "title": "Teenage Dirtbag",
-    "artist": "Wheatus"
-  },
-  {
-    "videoId": "BepGmpLT9HA",
-    "title": "Pretty Fly (For A White Guy)",
-    "artist": "The Offspring"
-  },
-  {
-    "videoId": "-cCBoasSrjU",
-    "title": "TAMBOR VS REGGAE FUNK SUPER JAMAICA",
-    "artist": "PANCAD\u00c3O SUPER JAMAICA"
-  },
-  {
-    "videoId": "Fcs9DLlHsPI",
-    "title": "Cowboys and Angels (2010 Remastered Version)",
-    "artist": "George Michael"
-  },
-  {
-    "videoId": "mhr4YecSV_Y",
-    "title": "Video Games",
-    "artist": "Lana Del Rey"
-  },
-  {
-    "videoId": "PkakXTo26Sg",
-    "title": "Army Of Me",
-    "artist": "Bj\u00f6rk"
-  },
-  {
-    "videoId": "SNiInqEFdQk",
-    "title": "West Coast",
-    "artist": "Lana Del Rey"
-  },
-  {
-    "videoId": "BtKQ9F4rIII",
-    "title": "My Generation",
-    "artist": "Limp Bizkit"
-  },
-  {
-    "videoId": "etc6EUz91Ck",
-    "title": "Blue Monday '88 (12\" Version)",
-    "artist": "New Order"
-  },
-  {
-    "videoId": "k5PO17AC3Kg",
-    "title": "XO Tour Llif3",
-    "artist": "Lil Uzi Vert"
-  },
-  {
-    "videoId": "muWNaPHDhFY",
-    "title": "Home",
-    "artist": "Dim"
-  },
-  {
-    "videoId": "gfIFUdFJdoM",
-    "title": "Praise The Lord (Da Shine) (feat. Skepta)",
-    "artist": "A$AP Rocky"
-  },
-  {
-    "videoId": "E5vvaBD0Yk0",
-    "title": "Murderer, Robber (feat. Three 6 Mafia, The Kaze & Indo \"G\")",
-    "artist": "Prophet Posse"
-  },
-  {
-    "videoId": "LM51oj7q0T4",
-    "title": "Only When the Skies Are Cloudless Do We Call (Trachycephalus Resinifictrix)",
-    "artist": "Phyllomedusa"
-  },
-  {
-    "videoId": "bw8xvJiqux4",
-    "title": "Lymphangiosarcoma",
-    "artist": "Blasted Pancreas"
-  },
-  {
-    "videoId": "TP8Q4y7KS88",
-    "title": "I GOT THA MUNCHIES",
-    "artist": "ZIPLOCK"
-  },
-  {
-    "videoId": "ZeJ2Oed6-vY",
-    "title": "Pheromones",
-    "artist": "SP\u00d6o\u00d6oKY STEVE"
-  },
-  {
-    "videoId": "z8FUgj4819M",
-    "title": "Interlude With A Sledgehammer",
-    "artist": "Phyllomedusa"
-  },
-  {
-    "videoId": "NFzxozQPOtU",
-    "title": "Surgery of the Soul",
-    "artist": "Lipoma"
-  },
-  {
-    "videoId": "Jh-ycrcgOG0",
-    "title": "We Come to Eat You",
-    "artist": "Satan's Revenge On Mankind"
-  },
-  {
-    "videoId": "3Ftl22nkGIw",
-    "title": "Ate Her Pussy Clean",
-    "artist": "PASSENGER OF SHIT"
-  },
-  {
-    "videoId": "flyG_AG3_bw",
-    "title": "Mass Chromatography",
-    "artist": "Last Days of Humanity"
-  },
-  {
-    "videoId": "jzJiKZoviVQ",
-    "title": "Mincecore Fabio (feat. S\u00e9bastien Dionne)",
-    "artist": "Archagathus"
   }
 ]
